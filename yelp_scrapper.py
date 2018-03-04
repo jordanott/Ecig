@@ -37,7 +37,7 @@ BUSINESS_PATH = '/v3/businesses/'  # Business ID will come after slash.
 # Defaults for our simple example.
 DEFAULT_TERM = 'vape'
 DEFAULT_LOCATION = 'San Francisco, CA'
-#SEARCH_LIMIT = 3
+SEARCH_LIMIT = 50
 
 
 def request(host, path, api_key, url_params=None):
@@ -77,7 +77,7 @@ def search(api_key, location):
     url_params = {
         #'term': term.replace(' ', '+'),
         'location': location.replace(' ', '+'),
-        #'limit': SEARCH_LIMIT,
+        'limit': SEARCH_LIMIT,
         'categories': 'vapeshops'
     }
     return request(API_HOST, SEARCH_PATH, api_key, url_params=url_params)
@@ -116,14 +116,14 @@ def query_api(zip_code):
             for cat_dict in business['categories']:
                 categories += cat_dict['alias'] + ' '
             results = {
-                'id':business['id'],
+                'id':business['id'].encode('utf-8').strip(),
                 'lat':business['coordinates']['latitude'],
                 'long':business['coordinates']['longitude'],
-                'name':business['name'],
-                'address':' '.join(business['location']['display_address']).replace(',',''),
-                'category':categories,
-                'zip':zip_code,
-                'phone':business['phone'],
+                'name':business['name'].encode('utf-8').strip(),
+                'address':u' '.join(business['location']['display_address']).encode('utf-8').strip().replace(',',''),
+                'category':categories.encode('utf-8').strip(),
+                'zip':zip_code.encode('utf-8').strip(),
+                'phone':business['phone'].encode('utf-8').strip(),
                 'closed':business['is_closed']
                 }
             line = '{id},{lat},{long},{name},{address},{category},{zip},{phone},{closed}\n'.format(**results)
