@@ -39,6 +39,7 @@ DEFAULT_TERM = 'vape'
 DEFAULT_LOCATION = 'San Francisco, CA'
 SEARCH_LIMIT = 50
 
+D={}
 
 def request(host, path, api_key, url_params=None):
     """Given your API_KEY, send a GET request to the API.
@@ -75,7 +76,7 @@ def search(api_key, location):
     """
 
     url_params = {
-        #'term': term.replace(' ', '+'),
+        #'term': 'ecig+ecigarette+vape+vapor+vaper+vapin+vaping+electronic+cigarette',
         'location': location.replace(' ', '+'),
         'limit': SEARCH_LIMIT,
         'categories': 'vapeshops'
@@ -101,7 +102,7 @@ def query_api(zip_code):
         zip_code (str): The zip_code of the business to query.
     """
     response = search(API_KEY, zip_code)
-
+    #print response
     businesses = response.get('businesses')
 
     if not businesses:
@@ -112,22 +113,25 @@ def query_api(zip_code):
 
     with open('yelp_results.csv','a') as f:
         for business in businesses:
-            categories = ''
-            for cat_dict in business['categories']:
-                categories += cat_dict['alias'] + ' '
-            results = {
-                'id':business['id'].encode('utf-8').strip(),
-                'lat':business['coordinates']['latitude'],
-                'long':business['coordinates']['longitude'],
-                'name':business['name'].encode('utf-8').strip(),
-                'address':u' '.join(business['location']['display_address']).encode('utf-8').strip().replace(',',''),
-                'category':categories.encode('utf-8').strip(),
-                'zip':zip_code.encode('utf-8').strip(),
-                'phone':business['phone'].encode('utf-8').strip(),
-                'closed':business['is_closed']
-                }
-            line = '{id},{lat},{long},{name},{address},{category},{zip},{phone},{closed}\n'.format(**results)
-            f.write(line)
+            if business['id'].encode('utf-8').strip() not in D:
+                if not business['is_closed']:
+                    D[business['id'].encode('utf-8').strip()] = 1
+                    categories = ''
+                    for cat_dict in business['categories']:
+                        categories += cat_dict['alias'] + ' '
+                    results = {
+                        'id':business['id'].encode('utf-8').strip(),
+                        'lat':business['coordinates']['latitude'],
+                        'long':business['coordinates']['longitude'],
+                        'name':business['name'].encode('utf-8').strip(),
+                        'address':u' '.join(business['location']['display_address']).encode('utf-8').strip().replace(',',''),
+                        'category':categories.encode('utf-8').strip(),
+                        'zip':zip_code.encode('utf-8').strip(),
+                        'phone':business['phone'].encode('utf-8').strip(),
+                        'closed':business['is_closed']
+                        }
+                    line = '{id},{lat},{long},{name},{address},{category},{zip},{phone},{closed}\n'.format(**results)
+                    f.write(line)
 
 
 def main():
