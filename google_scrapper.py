@@ -4,6 +4,7 @@ import pprint
 import requests
 import sys
 import urllib
+import pandas
 
 try:
     # For Python 3.0 and later
@@ -84,7 +85,7 @@ def query_api(lat, lon):
     Args:
         zip_code (str): The zip_code of the business to query.
     """
-    response = search(API_KEY, lat, lon, 80000)
+    response = search(API_KEY, lat, lon, RADIUS)
     #print response
     businesses = response.get('results')
 
@@ -120,11 +121,19 @@ def query_api(lat, lon):
     #                 f.write(line)
 
 def main():
-    # write header line
-    with open('google_results.csv','w') as f:
-        f.write('id,lat,long,name,address,zip,phone,closed\n')
 
-    query_api(34.0522,-118.2437)
+    #read in Yelp YelpResults
+    df = pandas.read_csv('yelp_results.csv')
+    existing_latitudes = df.lat
+    exisiting_longitudes = df.long
+    exisiting_latlongs = zip(existing_latitudes,exisiting_longitudes)
+    print(exisiting_latlongs)
+
+    # write header line
+    # with open('google_results.csv','w') as f:
+    #     f.write('id,lat,long,name,address,zip,phone,closed\n')
+    #
+    # query_api(34.0522,-118.2437)
 
     # for lat,lon in LATLONG:
     #     print("LAT {0} LONG {1}".format(lat,lon))
