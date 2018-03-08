@@ -97,7 +97,7 @@ def query_api(lat, lon, word, compare):
     with open('google_results_unique.csv','a') as u:
         with open('google_results_all.csv','a') as a:
             for business in businesses:
-                if CA in business['formatted_address']:
+                if 'CA' in business['formatted_address']:
                     if business['id'].encode('utf-8').strip() not in D:
                         D[business['id'].encode('utf-8').strip()] = 1
                         results = {
