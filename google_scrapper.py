@@ -19,9 +19,9 @@ except ImportError:
     from urllib import urlencode
 
 
-API_HOST = 'https://maps.googleapis.com/maps/api/place'
+API_HOST = 'https://maps.googleapis.com/maps/api/place/'
 API_KEY = 'AIzaSyB64uYpz5jkKuLJsPGNKSRiOzpApaKfNEs'
-SEARCH_PATH = '/textsearch/json?'
+SEARCH_PATH = 'textsearch/json?'
 PLACE_DETAIL_PATH = '/details/json?'  # Business ID will come after slash.
 LATLONG = [(42,-124),(42,-123),(42,-122),(42,-121),(42,-120),
            (41,-124),(41,-123),(41,-122),(41,-121),(41,-120),
@@ -41,7 +41,7 @@ YelpResults = {}
 
 # query=123+main+street&location=42.3675294,-71.186966&radius=10000&key=YOUR_API_KEY
 
-def request(host, path, url_params=None):
+def request(host, path, url_params, nextpage = None):
     """Given your API_KEY, send a GET request to the API.
     Args:
         host (str): The domain host of the API.
@@ -53,9 +53,15 @@ def request(host, path, url_params=None):
     Raises:
         HTTPError: An error occurs from the HTTP request.
     """
-    url_params = url_params or {}
     url = '{0}{1}'.format(host, path)
-    url = '{0}query={1}&location={2}&radius={3}&key={4}'.format(url,url_params['query'],url_params['location'],url_params['radius'],url_params['key'])
+
+    if nextpage is None:
+        url_params = url_params or {}
+        url = '{0}location={2}&radius={3}&key={4}&query={1}'.format(url,url_params['query'],url_params['location'],url_params['radius'],url_params['key'])
+    else:
+        print 'NEXT PAGE SEARCH'
+        url = '{0}pagetoken={1}&key={2}'.format(url,nextpage,url_params)
+
     print url
 
     #print(u'Querying {0} ...'.format(url))
@@ -87,44 +93,66 @@ def query_api(lat, lon, word, compare):
         zip_code (str): The zip_code of the business to query.
     """
     response = search(word,API_KEY, lat, lon, RADIUS)
-    #print response
-    businesses = response.get('results')
 
-    dis = 0
+    while True:
 
-    print('{3} businesses for {0} in {1},{2} found.'.format(word,lat,lon,len(businesses)))
+        print len(response.get('results'))
+        businesses = response.get('results')
 
-    with open('google_results_unique.csv','a') as u:
-        with open('google_results_all.csv','a') as a:
-            for business in businesses:
-                if 'CA' in business['formatted_address']:
-                    if business['id'].encode('utf-8').strip() not in D:
-                        D[business['id'].encode('utf-8').strip()] = 1
-                        results = {
-                            'id':business['id'].encode('utf-8').strip(),
-                            'lat':business['geometry']['location']['lat'],
-                            'long':business['geometry']['location']['lng'],
-                            'name':business['name'].encode('utf-8').strip(),
-                            'address':business['formatted_address'].strip().replace(',',''),
-                            'category':word.encode('utf-8').strip(),
-                            }
-                        line = '{id},{lat},{long},{name},{address},{category}\n'.format(**results)
-                        for name, la, lo in compare:
-                            if(la == 'None' or lo == 'None' or business['geometry']['location']['lat']== 'None' or  business['geometry']['location']['lng']== 'None'):
-                                continue
+        dis = 0
 
-                            dis = abs(distance(la,lo,business['geometry']['location']['lat'],business['geometry']['location']['lng']))
-                            if(name == business['name'] and dis <= 1):
-                                a.write(line)
-                                break
+        print('{3} businesses for {0} in {1},{2} found.'.format(word,lat,lon,len(businesses)))
 
-                            if dis <= 0.07:
-                                a.write(line)
-                                break
-                        if dis > 0.7:
+        with open('google_results_unique.csv','a') as u:
+            with open('google_results_all.csv','a') as a:
+                for business in businesses:
+                    print "business"
+                    if 'CA' in business['formatted_address']:
+                        print "in CA"
+                        if business['place_id'].encode('utf-8').strip() not in D:
+                            print "not in D"
+                            D[business['place_id'].encode('utf-8').strip()] = 1
+                            results = {
+                                'id':business['place_id'].encode('utf-8').strip(),
+                                'lat':business['geometry']['location']['lat'],
+                                'long':business['geometry']['location']['lng'],
+                                'name':business['name'].encode('utf-8').strip(),
+                                'address':business['formatted_address'].strip().replace(',',''),
+                                'category':word.encode('utf-8').strip()
+                                }
+                            line = '{id},{lat},{long},{name},{address},{category}\n'.format(**results)
                             print line
-                            a.write(line)
-                            u.write(line)
+
+                            for name, la, lo in compare:
+                                if(la == 'None' or lo == 'None' or business['geometry']['location']['lat']== 'None' or  business['geometry']['location']['lng']== 'None'):
+                                    continue
+
+                                dis = abs(distance(la,lo,business['geometry']['location']['lat'],business['geometry']['location']['lng']))
+                                if(name == business['name'] and dis <= 1):
+                                    print('same name')
+                                    a.write(line)
+                                    break
+
+                                if dis <= 0.07:
+                                    print "not same name {0} , {1}".format(name, business['name'])
+                                    a.write(line)
+                                    break
+                            if dis > 0.7:
+                                print "UNIQUE ****************"
+                                print line
+                                print  "UNIQUE ****************"
+                                a.write(line)
+                                u.write(line)
+
+            if 'next_page_token' not in response:
+                print("NO PAGE TOKEN")
+                break
+
+
+            response = request(API_HOST, SEARCH_PATH,API_KEY,response.get('next_page_token'))
+            print len(response.get('results'))
+
+
 
 
 def distance(lat1, lon1, lat2, lon2):
@@ -135,7 +163,6 @@ def distance(lat1, lon1, lat2, lon2):
     p = 0.017453292519943295     #Pi/180
     a = 0.5 - cos((lat2 - lat1) * p)/2 + cos(lat1 * p) * cos(lat2 * p) * (1 - cos((lon2 - lon1) * p)) / 2
     return 12742 * asin(sqrt(a)) #2*R*asin...
-
 
 def main():
 
@@ -155,13 +182,15 @@ def main():
 
     keywords = ['ecig','ecigarette','vape','vapor','vaper','vapin','vaping','electronic+cigarette']
 
-    for word in keywords:
-        for lat,lon in LATLONG:
-            print("LAT {0} LONG {1}".format(lat,lon))
-            try:
-                query_api(lat,lon,word,exisiting_latlongs)
-            except Exception, e:
-                print e
+    query_api(34,-118,'ecig',exisiting_latlongs)
+
+    # for word in keywords:
+    #     for lat,lon in LATLONG:
+    #         print("LAT {0} LONG {1}".format(lat,lon))
+    #         try:
+    #             query_api(lat,lon,word,exisiting_latlongs)
+    #         except Exception, e:
+    #             print e
 
 
 if __name__ == '__main__':
