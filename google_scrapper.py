@@ -6,6 +6,7 @@ import requests
 import sys
 import urllib
 import pandas
+import time
 
 try:
     # For Python 3.0 and later
@@ -34,7 +35,6 @@ LATLONG = [(42,-124),(42,-123),(42,-122),(42,-121),(42,-120),
                                                              (34,-119),(34,-118),(34,-117),(34,-116),(34,-115),
                                                                        (33,-118),(33,-117),(33,-116),(33,-115)]
 RADIUS = 50000
-
 D = {}
 YelpResults = {}
 
@@ -59,14 +59,10 @@ def request(host, path, url_params, nextpage = None):
         url_params = url_params or {}
         url = '{0}location={2}&radius={3}&key={4}&query={1}'.format(url,url_params['query'],url_params['location'],url_params['radius'],url_params['key'])
     else:
-        print 'NEXT PAGE SEARCH'
-        url = '{0}pagetoken={1}&key={2}'.format(url,nextpage,url_params)
+        time.sleep(3)
+        url ="{0}key={1}&pagetoken={2}".format(url,url_params,nextpage)
 
-    print url
-
-    #print(u'Querying {0} ...'.format(url))
-
-    response = requests.request('GET', url)
+    response = requests.request('GET',url)
 
     return response.json()
 
@@ -96,7 +92,6 @@ def query_api(lat, lon, word, compare):
 
     while True:
 
-        print len(response.get('results'))
         businesses = response.get('results')
 
         dis = 0
@@ -106,22 +101,18 @@ def query_api(lat, lon, word, compare):
         with open('google_results_unique.csv','a') as u:
             with open('google_results_all.csv','a') as a:
                 for business in businesses:
-                    print "business"
                     if 'CA' in business['formatted_address']:
-                        print "in CA"
                         if business['place_id'].encode('utf-8').strip() not in D:
-                            print "not in D"
                             D[business['place_id'].encode('utf-8').strip()] = 1
                             results = {
                                 'id':business['place_id'].encode('utf-8').strip(),
                                 'lat':business['geometry']['location']['lat'],
                                 'long':business['geometry']['location']['lng'],
                                 'name':business['name'].encode('utf-8').strip(),
-                                'address':business['formatted_address'].strip().replace(',',''),
+                                'address':business['formatted_address'].encode('utf-8').strip().replace(',',''),
                                 'category':word.encode('utf-8').strip()
                                 }
                             line = '{id},{lat},{long},{name},{address},{category}\n'.format(**results)
-                            print line
 
                             for name, la, lo in compare:
                                 if(la == 'None' or lo == 'None' or business['geometry']['location']['lat']== 'None' or  business['geometry']['location']['lng']== 'None'):
@@ -129,28 +120,24 @@ def query_api(lat, lon, word, compare):
 
                                 dis = abs(distance(la,lo,business['geometry']['location']['lat'],business['geometry']['location']['lng']))
                                 if(name == business['name'] and dis <= 1):
-                                    print('same name')
                                     a.write(line)
                                     break
 
                                 if dis <= 0.07:
-                                    print "not same name {0} , {1}".format(name, business['name'])
                                     a.write(line)
                                     break
                             if dis > 0.7:
-                                print "UNIQUE ****************"
+                                print "****************"
                                 print line
-                                print  "UNIQUE ****************"
+                                print  "****************"
                                 a.write(line)
                                 u.write(line)
 
             if 'next_page_token' not in response:
-                print("NO PAGE TOKEN")
                 break
 
 
             response = request(API_HOST, SEARCH_PATH,API_KEY,response.get('next_page_token'))
-            print len(response.get('results'))
 
 
 
@@ -165,6 +152,7 @@ def distance(lat1, lon1, lat2, lon2):
     return 12742 * asin(sqrt(a)) #2*R*asin...
 
 def main():
+    nextpageremember = "hi"
 
     #read in Yelp YelpResults
     df = pandas.read_csv('yelp_results.csv')
@@ -182,15 +170,13 @@ def main():
 
     keywords = ['ecig','ecigarette','vape','vapor','vaper','vapin','vaping','electronic+cigarette']
 
-    query_api(34,-118,'ecig',exisiting_latlongs)
-
-    # for word in keywords:
-    #     for lat,lon in LATLONG:
-    #         print("LAT {0} LONG {1}".format(lat,lon))
-    #         try:
-    #             query_api(lat,lon,word,exisiting_latlongs)
-    #         except Exception, e:
-    #             print e
+    for word in keywords:
+        for lat,lon in LATLONG:
+            print("LAT {0} LONG {1}".format(lat,lon))
+            try:
+                query_api(lat,lon,word,exisiting_latlongs)
+            except Exception, e:
+                print e
 
 
 if __name__ == '__main__':
