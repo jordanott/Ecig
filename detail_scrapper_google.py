@@ -65,8 +65,9 @@ def query_api(ID):
     Args:
         zip_code (str): The zip_code of the business to query.
     """
-    response = search(API_KEY, ID)
+    response = search(API_KEY, ID)['result']
     #print response
+    print "response recieved"
 
     with open('google_results_final_unique.csv','a') as r:
         # id,lat,long,name,address,category,zip,phone,closed
@@ -75,14 +76,15 @@ def query_api(ID):
             'id':response['place_id'].encode('utf-8').strip(),
             'lat':response['geometry']['location']['lat'],
             'long':response['geometry']['location']['lng'],
-            'name':response['name'].encode('utf-8').strip(),
+            'name':response['name'].encode('utf-8').strip().replace(',',''),
             'address':response['formatted_address'].encode('utf-8').strip().replace(',',''),
-            'category':''.join(response['types']).encode('utf-8').strip().replace(',',' '),
+            'category':' '.join(response['types']).encode('utf-8').strip(),
             'zip':'Google',
             'phone':response['formatted_phone_number'].encode('utf-8').strip().replace('(','').replace(')','').replace(' ',''),
-            'closed':'False'
+            'closed':response['opening_hours']['open_now']
         }
         line = '{id},{lat},{long},{name},{address},{category},{zip},{phone},{closed}\n'.format(**results)
+        print line
         r.write(line)
 
 
@@ -102,6 +104,7 @@ def main():
         try:
             query_api(ID)
         except Exception, e:
+            print 'ERROR'
             print e
 
 
