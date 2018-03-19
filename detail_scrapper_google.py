@@ -20,35 +20,89 @@ except ImportError:
 
 API_HOST = 'https://maps.googleapis.com/maps/api/place'
 API_KEY = 'AIzaSyB64uYpz5jkKuLJsPGNKSRiOzpApaKfNEs'
-SEARCH_PATH = '/textsearch/json?'
 PLACE_DETAIL_PATH = '/details/json?'
+
+def request(host, path, url_params=None):
+    """Given your API_KEY, send a GET request to the API.
+    Args:
+        host (str): The domain host of the API.
+        path (str): The path of the API after the domain.
+        API_KEY (str): Your API Key.
+        url_params (dict): An optional set of query parameters in the request.
+    Returns:
+        dict: The JSON response from the request.
+    Raises:
+        HTTPError: An error occurs from the HTTP request.
+    """
+    url_params = url_params or {}
+    url = '{0}{1}'.format(host, path)
+    url = '{0}placeid={1}&key={2}'.format(url,url_params['id'],url_params['key'])
+    print url
+
+    response = requests.request('GET', url)
+
+    return response.json()
+
+def search(api_key, ID):
+    """Query the Search API by a search term and location.
+    Args:
+        term (str): The search term passed to the API.
+        location (str): The search location passed to the API.
+    Returns:
+        dict: The JSON response from the request.
+    """
+
+    url_params = {
+        'id': ID,
+        'key': api_key
+    }
+    return request(API_HOST, PLACE_DETAIL_PATH, url_params=url_params)
+
+
+
+def query_api(ID):
+    """Queries the API by the input values from the user.
+    Args:
+        zip_code (str): The zip_code of the business to query.
+    """
+    response = search(API_KEY, ID)
+    #print response
+
+    with open('google_results_final_unique.csv','a') as r:
+        # id,lat,long,name,address,category,zip,phone,closed
+
+        results = {
+            'id':response['place_id'].encode('utf-8').strip(),
+            'lat':response['geometry']['location']['lat'],
+            'long':response['geometry']['location']['lng'],
+            'name':response['name'].encode('utf-8').strip(),
+            'address':response['formatted_address'].encode('utf-8').strip().replace(',',''),
+            'category':''.join(response['types']).encode('utf-8').strip().replace(',',' '),
+            'zip':'Google',
+            'phone':response['formatted_phone_number'].encode('utf-8').strip().replace('(','').replace(')','').replace(' ',''),
+            'closed':'False'
+        }
+        line = '{id},{lat},{long},{name},{address},{category},{zip},{phone},{closed}\n'.format(**results)
+        r.write(line)
 
 
 def main():
 
     #read in Yelp YelpResults
-    df = pandas.read_csv('yelp_results.csv')
-    exisitng_names = df.name
-    existing_latitudes = df.lat
-    exisiting_longitudes = df.long
-    exisiting_latlongs = zip(exisitng_names, existing_latitudes,exisiting_longitudes)
+    df = pandas.read_csv('google_results_unique.csv')
+    #ids = df.id
+    ids = ['ChIJ2ZXz2xtm0FQRgeg37d6jGLM','ChIJW7EPKARX0VQR-XIQ22tYNi4']
+# id,lat,long,name,address,category,zip,phone,closed
 
     # write header line
-    with open('google_results_all.csv','w') as f1:
-        f1.write('id,lat,long,name,address,word\n')
+    with open('google_results_final_unique.csv','w') as f1:
+        f1.write('id,lat,long,name,address,category,zip,phone,closed\n')
 
-    with open('google_results_unique.csv','w') as f2:
-        f2.write('id,lat,long,name,address,word\n')
-
-    keywords = ['ecig','ecigarette','vape','vapor','vaper','vapin','vaping','electronic+cigarette']
-
-    for word in keywords:
-        for lat,lon in LATLONG:
-            print("LAT {0} LONG {1}".format(lat,lon))
-            try:
-                query_api(lat,lon,word,exisiting_latlongs)
-            except Exception, e:
-                print e
+    for ID in ids:
+        try:
+            query_api(ID)
+        except Exception, e:
+            print e
 
 
 if __name__ == '__main__':
