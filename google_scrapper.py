@@ -108,7 +108,7 @@ def query_api(lat, lon, word, compare):
                                 'id':business['place_id'].encode('utf-8').strip(),
                                 'lat':business['geometry']['location']['lat'],
                                 'long':business['geometry']['location']['lng'],
-                                'name':business['name'].encode('utf-8').strip(),
+                                'name':business['name'].encode('utf-8').strip().replace(',',''),
                                 'address':business['formatted_address'].encode('utf-8').strip().replace(',',''),
                                 'category':word.encode('utf-8').strip()
                                 }
