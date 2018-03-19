@@ -1,560 +1,804 @@
 id,lat,long,name,address,word
-83c6e356e2292b369cde8559d2cf492abf862e88,33.9754872,-117.3420561,E-Cig City 4,1400 University Ave #107 Riverside CA 92507 USA,ecig
-52e3e781a9f915df2a69a43feb65fdbdb4542c69,40.857374,-124.0720431,Ω Divine Tribe Ω,56 Sunnybrae Center Arcata CA 95521 USA,ecig
-cc03990362175507f38a8f86f1e50fb65cedae40,40.8690513,-124.0864714,BigFish Vapor Lab,774 9th St Arcata CA 95521 USA,ecig
-558a36eefabb124e512281fa972b9b9db44be9c9,39.1458965,-123.2070495,Build A Ecig,534 S State St Ukiah CA 95482 USA,ecig
-c91a1144eaee1443f8356c8c8ee1c5467c7b4991,38.3550512,-122.7139029,ECIG 101,5665 Redwood Dr Rohnert Park CA 94928 USA,ecig
-ed70769cc709f50eacdf7c135c92fcabc68e6750,38.4672759,-122.720403,Digital Ciggz - Mendocino Avenue,2750 Mendocino Ave Santa Rosa CA 95403 USA,ecig
-d82ef6f33a21a57ccefc4dfd1990f7aae9acd7ac,38.4454812,-122.7185488,Digital Ciggz - College Avenue,450 College Ave Santa Rosa CA 95401 USA,ecig
-476c778722e06f9be7d98edb8e1df5da08f3b432,38.440426,-122.7111672,Smoke & Mirrors Vapor Lounge,730 3rd St Santa Rosa CA 95404 USA,ecig
-d8765e0d79288250191907c86508e761d6d49950,37.9711101,-122.5254701,VIP San Rafael- Smoke Shop & E-cig Center,826 2nd St b San Rafael CA 94901 USA,ecig
-21a73106c6bb90d9bd6be63f6793941b970fff47,38.3935014,-122.7132536,Dabs Smoke Shop,3444 Santa Rosa Ave Santa Rosa CA 95407 USA,ecig
-d9696b617bb2b240a8157caf63721cc9db8e15f0,37.9989687,-121.7956678,Volcano Fine Electronic Cigarettes,401 Sunset Dr Antioch CA 94509 USA,ecig
-fdd2cb61a0770be41b37c1d42353d50ab82a877c,38.6695781,-121.1559649,Smokeless Smoking Vapor Lounge,1001 E Bidwell St Suite 102 Folsom CA 95630 USA,ecig
-d9abe9769ac716ac8351d8f956c6a5e63f8abf37,38.5841482,-121.4890174,The Vapor Spot,530 12th St Sacramento CA 95814 USA,ecig
-cb61c12675a0595c95cff4d00a464f9b17cf16bd,38.788765,-121.22834,Vapor 93,4253 Rocklin Rd Rocklin CA 95677 USA,ecig
-2f05eb114ff42105a2eab2b8cff34171a944ec30,37.97397,-122.535865,Digital Ciggz - San Rafael,1560 4th St San Rafael CA 94901 USA,ecig
-c51a50ebc308ee388e746e8090675647c3a21e0c,38.345973,-122.707474,Vanquish Vapes,190 Raley's Town Centre Rohnert Park CA 94928 USA,ecig
-bac67cd330b7a6f6fc0da77846eb040d84b365fe,37.780882,-122.474169,Vapurr Labs Express e-cig and e-liquid,5100 Geary Blvd San Francisco CA 94118 USA,ecig
-f474414db60076a84769f50793b067fff8a35175,37.7866951,-122.412657,Gone With The Smoke,569 Geary Blvd San Francisco CA 94102 USA,ecig
-ab15227ee1bafc7239cd58ff505cf4b2b1547f05,37.7764922,-122.4784859,Vapurr Labs Express e-cig and e-liquid,1821 Balboa St San Francisco CA 94121 USA,ecig
-a715875d5ddf40d6aa0da1b5f7deece5c401fb10,37.7539894,-122.4139662,Vapory Shop,2707 Folsom St San Francisco CA 94110 USA,ecig
-d446fddf6f1a7fd73f1835a508977b7b3591a117,37.6254986,-122.4114666,Vapory Shop,559 San Mateo Ave San Bruno CA 94066 USA,ecig
-88d6e4e3594c7be7410b6fd592b62b2ce799cde4,38.2499079,-122.6291653,Smoke Depot Smoke Shop,231 N McDowell Blvd Petaluma CA 94954 USA,ecig
-d7379f20193a6784d856cc48dc30995879bf80c6,37.8001008,-122.4323649,Frisco Vapor - Electronic Cigarette Store,1881 Lombard St San Francisco CA 94123 USA,ecig
-46c1b229e0da9662b1ad5d6cf6da5dea90c0d709,37.4067369,-121.8864169,E-Cig City 8,2068 N Capitol Ave San Jose CA 95132 USA,ecig
-bafda42818b6819036b40d5ca6ffb2983c48a3ab,37.770355,-122.4248668,Vapor Den SF,16 Guerrero St San Francisco CA 94103 USA,ecig
-7c0969003e9e2ed58be8a57d0720c050b02dcc64,38.0104962,-122.0447804,Apollo E-Cigarettes,4085 Nelson Ave G Concord CA 94520 USA,ecig
-a4f85760c3d76956a11b36ebedafdd058dcc33ca,37.6065758,-122.0638477,Cool Vape,2472 Whipple Rd #3 Hayward CA 94544 USA,ecig
-0313a0f2dc4d7f68f1637adf29b8d4404024c573,37.6936214,-121.7474651,Royale Vapor,4177 First St Livermore CA 94551 USA,ecig
-0e8d3336dd59b85031a4c77c840823a44dcd99de,37.783164,-122.2409861,Tasty Vapor,1017 22nd Ave #110 Oakland CA 94619 USA,ecig
-82dcecedb072fd08282495b74137ef1cf4ad2afc,38.3203352,-122.3071781,Vape The Grape,3371 Old California Way Napa CA 94558 USA,ecig
-1be993f01c2673410c4f54fbe2f7f6901184c4ae,37.5453041,-122.3044063,The Vapor Cave,116 E 25th Ave San Mateo CA 94403 USA,ecig
-1e870bc074e95bb0b8936a2b195286d5c03d3e11,37.4877732,-122.2374516,It Is Vapor,650 El Camino Real N Redwood City CA 94063 USA,ecig
-7d5cec7511da4b738cec8607e89aaed3ad1f6b1a,37.6516595,-120.9936562,Switch To Vapor,518 McHenry Ave Modesto CA 95354 USA,ecig
-fcf7956f02478902f4b4df918e8a8ffcb895cb88,37.9764178,-120.324084,Frosted Vapors,14673 Mono Way Sonora CA 95370 USA,ecig
-2328e334b75b39c2416be61e7fced703a08f260b,37.39794,-121.874477,Cool Vape,1699 N Capitol Ave Suite 50 San Jose CA 95132 USA,ecig
-979def120089137cf85520943f94e370d2c142a4,36.9735633,-121.9637261,Beyond Vape,4150 Capitola Rd Suite Q Capitola CA 95010 USA,ecig
-e8ea4fdec7f155d40db9be6c9728e96ebf29318b,36.970355,-122.026852,Green Vapors,411 Cedar St Santa Cruz CA 95060 USA,ecig
-e4fe3e58790e6b88276463df0a95ef746fb8080d,36.8125171,-119.7005574,Fresno Vapor (Clovis Location),1526 Clovis Ave Clovis CA 93612 USA,ecig
-7fa2cdb4429778e7bfa1c05f04beabd5b0dc322d,36.8221548,-119.7736144,Fresno City Vapor,6203 5769 N First St Fresno CA 93710 United States,ecig
-ff38e1b12cceb41cfde1f0a6e07f9e51df86ca91,36.7791899,-119.8003233,Tower Smoke,3135 N Maroa Ave Fresno CA 93704 USA,ecig
-e0507991236bca37f9adb15a6fe370b8423f163d,36.3250935,-119.6530074,Vape Culture,523 W 7th St Hanford CA 93230 USA,ecig
-c35abfb0be9e938a3f87977083a5d7377ef990ff,36.0772302,-119.0434969,E-Cig Room,600 N Prospect St Porterville CA 93257 USA,ecig
-b2fdcf6d3518cc098e4f5eb1638fe155daa63796,34.108583,-117.671241,E-Cig City Upland,3681 1229 W Foothill Blvd Upland CA 91786 United States,ecig
-4b7062ea2a3e08becbcca7e75d4a6e6ca9ffff0b,35.649452,-117.670426,Ridgecrest Vapors,1545 N China Lake Blvd Ridgecrest CA 93555 USA,ecig
-9ac51504184f265ebea6c093b50178d729412280,34.003189,-118.166763,E-Cig City Commerce,5211 E Washington Blvd #10 Commerce CA 90040 USA,ecig
-3f9824376ae44682547b8f6bf358101bb14684e9,34.9566687,-120.4360568,Cal State Vape,401 N Broadway C Santa Maria CA 93454 USA,ecig
-d63445566f89b61530aa65d2a4e8e117d8059500,34.4425623,-119.8300596,Santa Barbara Vapor,160 N Fairview Ave Suite 1 Goleta CA 93117 USA,ecig
-d6630ed0b5762ad0ae2eca5c56306ba3cf9e58f1,33.676153,-117.855475,ECig Emporium,2222 Michelson Dr #238 Irvine CA 92612 USA,ecig
-feba19c62020ae1acfee59fda00237165285aa28,33.6024819,-117.69214,E-Cig Gallery,24781 Alicia Pkwy Suite D Laguna Hills CA 92653 USA,ecig
-31417f365a4979db3e2416079b8d5206177f3210,34.0699489,-117.8894612,myVapors Vape and E- Cig,196 S Citrus St West Covina CA 91791 USA,ecig
-2c24b79a9ee1289eb5d9f22794c83807633415ed,33.7826536,-117.8928461,Ecig n Vapes,20 City Blvd W Orange CA 92868 USA,ecig
-bf19b5d6483b7077af08789f95c0d0009c3b6be8,33.700971,-117.9868531,VaporDNA,8162 Talbert Ave Huntington Beach CA 92646 USA,ecig
-c780ea8ffeeb72cafccfff930e4088e00ee9c27c,33.563882,-117.6574738,E-Cig City Mission Viejo,27500 Marguerite Pkwy #2 Mission Viejo CA 92692 USA,ecig
-81f39786f72c7a6a29f2e5a056cf1f2a7e04ab01,34.6809216,-118.1568714,AV VAPES,43925 15th St W Lancaster CA 93534 USA,ecig
-9d20dae400a2787d9e7f5c128bb4841fb5c537fc,34.4724278,-117.3403233,Ecig stop,14845 Monarch Blvd Victorville CA 92395 USA,ecig
-8aef07662e92f07a491730a0d5343e4383a5cb8a,34.0084895,-117.9567918,E-Cig City 5,16042 Gale Ave Hacienda Heights CA 91745 USA,ecig
-700185dd4b5e1644dc9cfe9f203137f77a52a195,33.51351,-117.15968,Jay's Vapors E Cig Supply (Electronic Cigarette Retail Store),27713 Jefferson Ave #102 Temecula CA 92590 USA,ecig
-47cd739dd9628dc44697a6db4880a5b34119b445,33.7216466,-116.3754667,E-Cig City Palm Desert,73910 CA-111 Unit L Palm Desert CA 92260 USA,ecig
-79613aaa105aa44e33c557ca029f69df0007ac95,33.1354157,-117.1821653,Cloud 9 E-Cig,813 W San Marcos Blvd San Marcos CA 92078 USA,ecig
-c59a6968304dcdb94739e0cdfe77ac70c261b164,34.888423,-116.996866,Vape Naked,1870-1869 E Main St Barstow CA 92311 USA,ecig
-81864e783253a67c1e752d5f9c0d544505c05deb,34.5421357,-117.2713443,The Broke Smoker Vape Shop,16025 Kamana Rd #101 Apple Valley CA 92307 USA,ecig
-e405c410043e4761a348d2f2ab5a7de5eaad2e15,34.5397018,-117.2713394,Apple Valley Vapor,17993 CA-18 #3 Apple Valley CA 92307 USA,ecig
-4c97f05377672eab0851e4f879c498e88d044305,33.1226995,-117.0800283,Cloud 9 E-Cig,200 E Grand Ave Escondido CA 92025 USA,ecig
-7cc9adffa0bdffe2276a567ed789e25e8e270987,33.9929147,-118.4787717,Venice Smoke Free Life,517 Ocean Front Walk #3 Venice CA 90291 USA,ecig
-014721f2b6598da47c7de0c34ac97cec9084e4b6,34.0127915,-118.4832906,Vapor Delight - Vape & Glass Smoke Accessories,1855 Lincoln Blvd Santa Monica CA 90404 USA,ecig
-985e02170ce1fa27881ea77d14cf3d4b3a10a39c,33.990856,-118.446326,Venice Vapor Lab / Electronic Cigarettes,13464 W Washington Blvd Marina Del Rey CA 90292 USA,ecig
-5d688d071d5becd0700eb3b83c2c1c18e6b25a3f,34.0730069,-118.3755295,Vapor Delight - Vape & Glass Smoke Accessories,8474 W 3rd St Los Angeles CA 90048 USA,ecig
-91c7720aed17d37199b313369be599bca36802c0,34.0411842,-118.4297377,CIGAVETTE,2355 Westwood Blvd Los Angeles CA 90064 USA,ecig
-dad3a67f921e5d4cc5ed2e128dbcf7cfd3cc2f3a,34.0372807,-118.2586954,Downtown Vape,117 E 12th St Los Angeles CA 90015 USA,ecig
-a9336fd4e9b3466ba8bbae6fb1066afe42adb36b,34.1404837,-118.3774487,Vaporcade,11271 Ventura Blvd #176 Studio City CA 91604 USA,ecig
-64dde47b451680277e347cc3d2c77eb425465fff,34.2010702,-119.007666,Vapage Premium Vaping & E-Cigarette Outfitters,750 Calle Plano Camarillo CA 93012 USA,ecig
-0a6ff3bdeebc99b460d6a81f105cbcdeeff133d6,33.8323871,-118.0812874,E-Cig City 2,11811 E Carson St Hawaiian Gardens CA 90716 USA,ecig
-7ebc2c6dd13d248377498e67254b9221f4e28ed9,34.0901888,-118.2121021,Vapeology LA,3714 N Figueroa St Los Angeles CA 90065 USA,ecig
-fa3e6d98ec3af4b0fbc06a7dfbc6f3fc89b36a6f,33.5699189,-117.7068152,E-Cig Vault Vape Shop and Lounge Aliso Viejo,27058 La Paz Rd Aliso Viejo CA 92656 USA,ecig
-2b56749b9f5bd4ad13d1cf88e231e7a41ae0a0f6,33.5932455,-117.6986937,E-Cig Hub,25401 Alicia Pkwy K Laguna Hills CA 92653 USA,ecig
-7f6a7fef16b2a64da2ab8737b6707383f2efed5d,33.613792,-117.7078317,Clean Smoke Electronic Cigarettes,24012 Avenida De La Carlota Laguna Hills CA 92653 USA,ecig
-0310a38136034f6cdc09f269cab2823984013593,33.861451,-117.850203,GANJA JUICE,1313 North Miller Street D Anaheim CA 92806 United States,ecig
-49968df4abe1ebda3334d70f0b9a66061acf717c,34.047104,-117.206461,White Horse Vapor Redlands California,1506 Barton Rd Redlands CA 92373 USA,ecig
-5f7d6591468f77fb2585cb55c3085b8c675802d1,32.764384,-117.06092,E Cig Creations - Vape Shop San Diego,6375 El Cajon Blvd Ste C San Diego CA 92115 USA,ecig
-c1c170dd9441dd48dde2714a57bdce6367662037,33.4245266,-117.6168413,Vix Vapes,239 Avenida Del Mar San Clemente CA 92672 USA,ecig
-6250336860546988691c3f9da7177df6db0ef529,33.4258289,-117.6106224,San Clemente Vape Lounge,401 S El Camino Real g San Clemente CA 92672 USA,ecig
-c7d2c08019070eeb984772e836c691888c446b95,33.4583503,-117.6500213,Vape Oasis,120 647 Camino De Los Mares San Clemente CA 92673 United States,ecig
-47edf30172db1cb6bab09a98a0af77bc0d7c9bc9,33.498778,-117.66229,Dana Vape,B2 31952 Camino Capistrano San Juan Capistrano CA 92675 United States,ecig
-b31c2b27cdbe88c29884367e422b90c1146c615d,33.1598468,-117.3452584,Mix Vapes,3060 Roosevelt St Carlsbad CA 92008 USA,ecig
-88683c39c472e206717706a0a57301c4a791f3e7,32.8453891,-116.9631394,Imperial Smoke,10870 Hartley Rd B Santee CA 92071 USA,ecig
-9842451131d4bde332dfecfc0c592db3d8221a7d,32.790393,-117.099175,Vapor Invasion,10433 Friars Rd Ste F San Diego CA 92120 USA,ecig
-1c749bc2c8284376c26d64c4f5d2a5f1a2b43496,32.7244236,-117.2290896,Eliminator Vapes,1337 Rosecrans St San Diego CA 92106 USA,ecig
-472170751668efe2d5e2fda44a2f76438144e2e7,33.1507506,-117.229466,Vape Craft Inc,2322 La Mirada Dr Vista CA 92083 USA,ecig
-2356cc9101653c69ecd2c3b0432261ae2725114a,32.7154859,-117.1599835,Vape King - San Diego,989 Fifth Ave San Diego CA 92101 USA,ecig
-c0184f0a4beac053b12ee5d252b208a21054f1f0,40.801839,-124.166724,Humboldt Vape Co.,413 5th St Eureka CA 95501 USA,ecigarette
-960a92a5db648c143805e84ccd556097d206dfe6,40.4501,-122.29299,Big City Vapor,2303 #B Balls Ferry Rd. Anderson CA 96007 United States,ecigarette
-b297af3f1ce3690d0128741ca9d3aba473f45f32,39.202593,-121.061572,Gold Country Vapor,760 S Auburn St Grass Valley CA 95945 USA,ecigarette
-2f145880f31fe39ffd9f3a3ce39a77019867f352,38.5675633,-121.4866052,NXNW Vapor,1809 S St #99 Sacramento CA 95811 USA,ecigarette
-90682ac36263589aa872c76242420578735a7c33,38.6638343,-121.2419921,The Bee Vape & Smoke Shop,8546 Madison Ave Fair Oaks CA 95628 USA,ecigarette
-71178c25202a3539aefc52a8e2e45672159762d5,37.971041,-122.5254193,VIP Vape Store,826 2nd St Suite B San Rafael CA 94901 USA,ecigarette
-65b13572465676579348115148b867590379c020,36.7433121,-119.744888,Royal Vapes,4613 E Tulare Ave Fresno CA 93702 USA,ecigarette
-c9611cac3fbabaabf8bd0d11b00e5fd86bf0f33e,34.473356,-117.348231,E Cigarette,14400 Bear Valley Rd Victorville CA 92392 USA,ecigarette
-2764518c234f7226814b2cbe9af6b374cebcc434,34.9533124,-120.4338721,Central City Vapors,205 E Main St Santa Maria CA 93454 USA,ecigarette
-74de013a4021a6c2e7e352dba9b776e3eac30eee,34.4359488,-119.8237911,Hollister Smoke & Vape Shop,5718 Hollister Ave #103 Goleta CA 93117 USA,ecigarette
-be5ed976c8f5346e46932a8b7b6ce3eb3ea1d431,35.382282,-119.14754,Smoker's Alley,13075 Rosedale Hwy A Bakersfield CA 93314 USA,ecigarette
-901f43f7843855560bb60bd8166ca61f525124c6,34.53865,-117.254482,Vaper Rizing,18768 US Highway 18 #165 Apple Valley CA 92307 United States,ecigarette
-607e9f179c24f5fb0f11d260c98da4d6f54b6cfe,34.469318,-117.343096,Vape Town,12055 Mariposa Rd Unit G Hesperia CA 92345 USA,ecigarette
-68e2578de9f34b47cb67319e9b80fe7f07d12984,33.676565,-117.915962,Electronic E Cigarette Liquid,2855 Pinecreek Dr Costa Mesa CA 92626 USA,ecigarette
-2cef42a1af57c85abc73bf63637d7c2d36abf1d1,33.78735,-117.960642,Huff and Puffers,12105 Brookhurst St Suite E Garden Grove CA 92840 USA,ecigarette
-76c7095c8bc6a5282a3e2909bfe7ce31fb2f2f5e,34.1031316,-118.1005889,Vape Icon,113 W Las Tunas Dr #206 San Gabriel CA 91776 USA,ecigarette
-f823aa82a44d265d1f5ef3a09b5179714e5903a1,33.8932448,-118.308546,Vapor Range,15210 S Western Ave Gardena CA 90249 USA,ecigarette
-1ee7b814f02ac0546a310d174331cb449590db8b,33.8719995,-118.3511012,Cloudscape Vape,17494 Hawthorne Blvd Torrance CA 90504 USA,ecigarette
-2baa0bb034cf6b0a42b744ac3f220b882ddb0ad1,34.0345838,-117.9368484,Vapebox,15940 Kaplan Ave City of Industry CA 91744 USA,ecigarette
-419a1a45b1d42c7bc3d08b31313258f60f49750e,33.7760532,-117.8690666,Green Nicotine Electronic Cigarette,2850 N Main St Santa Ana CA 92701 USA,ecigarette
-11b27ad05dd5346f79f399f3ad430b4766b4f49d,34.0571405,-117.2145494,Electric Lotus Manufacturing,1740 Howard Pl Redlands CA 92373 USA,ecigarette
-6001a484dc4f3cd44190fa931bafdc857a000d7c,33.9557959,-117.3300522,Vapor Cig,5225 Canyon Crest Dr #1 Riverside CA 92507 USA,ecigarette
-c69785a357153068e9176dcc42665d3672b50a57,32.774983,-117.026653,Sun Vapers,5263 Baltimore Dr La Mesa CA 91942 USA,ecigarette
-81751e59943a3f3677299b58157641fa114bab5f,32.824815,-115.569949,Deluxe Vapes,690 Main St El Centro CA 92243 USA,ecigarette
-fd9cd0ad265d9e200ec2d31bd51691c6fb7f68fc,32.7929725,-115.5589524,Deluxe Vapes - El Centro,690 Main St El Centro CA 92243 USA,ecigarette
-6c76b2a7cee2a026f2dea03d0b0bf5fd94c36955,41.770273,-124.1996319,High Tide Vapes,1329 Northcrest Dr Crescent City CA 95531 USA,vape
-1fdcd262cf5e275860d8cfc513af1442956b6bd2,34.1631489,-118.3279471,Elevated Vaping,2227 West Olive Avenue Suite D (Side Door) Burbank CA 91506 United States,vape
-492ec99b2c44557df2d1dcfb11c897c45cd586ea,33.9434543,-117.2603303,EPiK Vape,12220 Pigeon Pass Rd L Moreno Valley CA 92557 USA,vape
-e7ae3e25007794778803403d7b9e146d898b22f9,37.352721,-121.9792802,Vape Affair,2905 El Camino Real Santa Clara CA 95051 USA,vape
-e049725f7ad0331cdb7ac2d4e879116b1a85b2f5,41.6985384,-122.6387513,North Cloud Vape Distribution,2216 Fairlane Rd D Yreka CA 96097 USA,vape
-1e6e2640369e0e83bf3e4285d443b2e45fa7d251,38.703756,-121.38382,Cheaper Cigarettes Vape & Smoke Shop,7529 Watt Ave North Highlands CA 95660 USA,vape
-8a25694009000075ef616eef586a0dc95ed945ce,39.137727,-121.607745,Quality Vapes,200 Bridge St Yuba City CA 95991 USA,vape
-89090af630e919461d5d72d89c0085a86670b051,40.8690238,-124.0895307,Arcata Vapery - Vape Shop,1020 8th St Arcata CA 95521 USA,vape
-0e51caf95c5d774840c1a5b7bd93cecb8a5dbaac,40.5822077,-124.1454022,Cigarette Payless,745 S Fortuna Blvd Fortuna CA 95540 USA,vape
-0ba23b2f16730cf5dc473c7751989839a9b73a0e,40.7814714,-124.1851941,S.T.I.L.,2940 Broadway St # E Eureka CA 95501 USA,vape
-c263e81e67e93c51038abe9df47162c90b8aef44,40.598336,-122.384704,Discount Vapes,0748 537 N Market St suite c Redding CA 96002 United States,vape
-b31350771bf1f99656f664142364df57804a7c9d,40.5633269,-122.361982,Puffys Vapes & Smokes,3025 Bechelli Ln Redding CA 96002 USA,vape
-666c55c99435933eab6e7d12d704da7619a2e6a9,40.521308,-122.382949,Tobacco & More,6392 Westside Rd # E Redding CA 96001 USA,vape
-3e0e573887d9ee05300d2be341a1b16cd5253008,40.5875892,-122.3529269,Smoke & Vape,1340 churn creek rd suite C1 Redding CA 96003 United States,vape
-e3718c7f72151db8e50000c2e4e76ee06ee01eeb,41.313934,-122.312035,Cloud City Vape Co.,305 Chestnut St Mt Shasta CA 96067 USA,vape
-7cc1c4b5fdb14f93e6cdc6ccc2404507bca3bab8,40.5818784,-122.391506,Nor Cal Vape,1700 California St Redding CA 96001 USA,vape
-4889e9b38047a86b63956240a179b72c0402e17a,40.563291,-122.236515,Shasta Vape,22049 Old 44 Dr Palo Cedro CA 96073 USA,vape
-2025bfafbd9303906a7f61807a4f28368f7df489,40.679811,-122.352093,Tobacco&Vape,5320 Shasta Dam Blvd Shasta Lake CA 96019 USA,vape
-4526ca75be497ef1c747ab0a1775088456377d46,40.4537311,-122.2876965,Tobbacco&More,2619 Balls Ferry Rd Anderson CA 96007 USA,vape
-27f19e2b20616e8ab04f35467c20d8c14e84a756,33.9241233,-117.9227208,Vape Bartender,2120 E Lambert Rd Suite #A La Habra CA 90631 USA,vape
-6178a7be38fb09f0f41863984f481529b07a4c7a,33.7359315,-118.0310179,USA Vape Lab,15572 Commerce Ln Huntington Beach CA 92649 USA,vape
-6b78ec5f28389e62b1c164e35f37a27c62570135,38.6660996,-121.339948,Vape Bunker by Doomsday Gourmet,5320 Auburn Blvd Sacramento CA 95841 USA,vape
-52910bed5ade34ffe36532bcb1ab6f1446c6ff06,38.6784212,-121.783109,Star Zone Smoke and Vape shop,9 Main St Woodland CA 95695 USA,vape
-4cbbbc28cd1caec38736e0703ad8e17a673c02ae,38.0023113,-122.05199,EC Vape and Smoke,1776 Arnold Industrial Way #I Concord CA 94520 USA,vape
-66148bc5156ec68031a5b792260bc36e22123891,37.786575,-122.4200161,Smoke Vape & Beyond,1047 Polk St San Francisco CA 94109 USA,vape
-86d29557c1d06b20291276f21ae68f9c502083f2,37.7256252,-122.4636878,Happy Vape,1963 Ocean Ave San Francisco CA 94127 USA,vape
-697ae635f7efd514c732eb456f4fe3025b546821,37.3900776,-121.8788521,Vape Lounge,1599 Flickinger Ave San Jose CA 95131 USA,vape
-2ba27205813c3410b09d6f27a2ce7a7729bf8fb2,36.8079,-119.844103,Century Vape,2787 W Shaw Ave #106 Fresno CA 93711 USA,vape
-6944cc57789048f4a0a0fb886a2d37637c7fde49,36.75752,-119.798677,Diamond Vape Shop and Lounge,1140 N Van Ness Ave Fresno CA 93728 USA,vape
-2af40994b2fdf6c5d9421d3bd5bc6083679a662a,40.1778497,-122.2362779,Sub Culture,335 Walnut St Red Bluff CA 96080 USA,vape
-92442df704abf080dfdf3d6d0af32b8d0d493c79,39.7509623,-121.8541811,Netvapes®,169 Cohasset Rd #7 Chico CA 95926 USA,vape
-51a50e6f99dd0e837a880bb8e2a507e7fed4f954,40.180661,-122.228241,Tobacco & More,84 Belle Mill Rd Red Bluff CA 96080 USA,vape
-4d3b0c7fa2ebd08ac99483b0058c6687d8dd8f2e,40.188417,-122.245988,TLC Scientific Lab-Store,111 Treasure Dr Red Bluff CA 96080 USA,vape
-a519fcf04b2cd10c3f1a5671654fe8981d5ab283,39.721829,-121.828965,Hi Five Tobacco,1414 Park Ave Chico CA 95928 USA,vape
-6e99714a1be39e162bd2a3be83e8dd27dba075bf,39.1420106,-121.6382323,Netvapes®,1421 Colusa Hwy Yuba City CA 95993 USA,vape
-859f6e3ff692a0248130ed53663bcbbfb25b63c5,39.8064489,-120.4690285,Higher Elevation Smoke Shop & Gallery,189 Commercial St Portola CA 96122 USA,vape
-4485a003702f82a840f4450cc8a4f6f7a6c1dbe9,38.6573557,-121.5226697,Cloud 9,2721 Del Paso Rd Sacramento CA 95835 USA,vape
-170a94f3af77313372ca648d34af19647b1b9584,38.800351,-123.0170339,Aces High Smoke Shop,421 S Cloverdale Blvd Cloverdale CA 95425 USA,vape
-52144175937e172c5ab4411dd4586bd3e5bf7830,39.14758,-123.206834,Emerald Triangle Glassworks,415 S State St Ukiah CA 95482 USA,vape
-700df54afb61e090feb4fd48dbab974753d4df13,38.9546489,-122.6456896,A & T's Tobacco N More,14260 Lakeshore Dr Clearlake CA 95422 USA,vape
-6be27d21d93c7fdd94bf71cca47bddf6a365ba87,38.3952584,-122.7128755,The Mighty Quinn,3372 Santa Rosa Ave Santa Rosa CA 95407 USA,vape
-3f2622e053da445bc32aba2d0af982e691f09a2f,38.3448797,-122.7110945,Al Sahara Smoke Shop,4 Enterprise Dr Rohnert Park CA 94928 USA,vape
-018e67e80a8f657073335d9083d40d512897cda6,38.457671,-122.725388,The Cheshire Club,2074 Armory Dr Santa Rosa CA 95401 USA,vape
-35dd1e769dca3a3b7bda47b218c12ad3baba48e3,38.2813141,-122.2737797,The Mighty Quinn,110 Soscol Ave Napa CA 94559 USA,vape
-3aadfa864a649c81c10b763e2d189f184e69309a,38.0092921,-122.0987609,Stop N Vape,3798 Pacheco Blvd Martinez CA 94553 USA,vape
-d2cae00de8412e2860c6eb35e25dd06637954cd9,38.234041,-122.641007,The Mighty Quinn,16 Western Ave Petaluma CA 94952 USA,vape
-b466f0da8c76f45f90e2887f0f724c3bc89fedc3,38.646727,-121.491775,Sahara Hookah / CHI VAPE,1309 N Market Blvd #200 Sacramento CA 95834 USA,vape
-e957fec5d85501716610d11b7caddcfc2521c865,39.139995,-121.595939,530 Smoke Shop,819 5th St Marysville CA 95901 USA,vape
-e54af85e9b1aa7cecdd78ee172a7156a9eb3039d,38.5514695,-121.535881,Cloud 9,2050 Town Center Plz #B150 West Sacramento CA 95691 United States,vape
-ec97577dea619f0c82388e3285fbc2c1c1a9c1cc,38.5788773,-121.465808,Exhale Smoke Shop,2830 E St Sacramento CA 95816 USA,vape
-0481edd86c7e3f8a10812fa1c205258be2c1607b,38.5817412,-121.5058487,Boss Vapor Co,1115 Front St #2 Sacramento CA 95814 USA,vape
-7e0aa372a9a99ae22ee50e0339ded54f4cf95d94,38.5772094,-121.4828391,Planet Of The Vapes,1730 J St A2 Sacramento CA 95816 USA,vape
-bb082fe7b2bc27da5c4faab51500de9cfb051bf8,38.560825,-121.734634,Smoke Hut,1300 E Covell Blvd Davis CA 95616 USA,vape
-b27dec23305baab10dd8c6df8dc8852a44c92df6,38.7127818,-121.3624676,3 Monkeys vape & smokes,4400 Elverta Rd unit 130 Antelope CA 95843 USA,vape
-c0ef372ea99f9ac43a8c6872e82dff7bbf26f650,38.7439041,-121.2624812,Galleria Vape And Smoke,1720 Douglas Blvd Roseville CA 95661 USA,vape
-defcd72501ec95017e9371947417f714abfdeb3b,38.668207,-121.3362041,Honey Vape & Smoke Shop,5500 Auburn Blvd Sacramento CA 95841 USA,vape
-ec676c716fed28d1ad03b7769915f2454b5fcd99,38.7847062,-121.273055,3 Monkeys Vape and Smoke Shop,10000 Fairway Dr #130 Roseville CA 95678 USA,vape
-087d817d61f06d10890fa282c5205a059293d205,38.5082665,-121.5424185,Greenhaven Smoke and Vape Shop,261 Florin Rd Sacramento CA 95831 USA,vape
-1882dd4e5fb80c4733bb08b37cf09648adaa59b8,38.7617555,-120.578574,13 Smokes And Vape (Smoke Shop),6454 Pony Express Trail #33 Pollock Pines CA 95726 USA,vape
-3e6158833d722c324f0f4069cf9e837d02f1ff31,38.5909993,-121.4019644,Tonic Vape & Smoke Shop,1401 Fulton Ave Sacramento CA 95825 USA,vape
-38b844ecc1ab76e73a3cc243b61a4825c51df947,38.887108,-121.2932229,Bee 2 Vape & Smoke Shop,150 G St Lincoln CA 95648 USA,vape
-e77572007db7be4c7ccfe4fc0ea0b03c4ab0b1b4,38.6629068,-121.2716033,Cloud City Vape and Glass Smoke Shop,5362 Sunrise Blvd Fair Oaks CA 95628 USA,vape
-141ced4ee2bd4e1f19ff40cdd5376f4d80e2c7b8,38.9020746,-121.0668253,Gold Country Vapor,175 Elm Ave Auburn CA 95603 USA,vape
-b9c27336ac180b83922fd1c7cb40c56e9e462c3f,38.6448974,-121.2263547,Fumare Smoke Shop,4333 Hazel Ave Fair Oaks CA 95628 USA,vape
-9933d8f29b23ef9e574b06b3b0991d3f20675872,38.9559458,-119.944709,Tahoe Big Cloudz #2,4035 Lake Tahoe Blvd South Lake Tahoe CA 96150 USA,vape
-5867bbadc342c7f259cd61a1a7e03cd06d08a845,38.919967,-119.993662,Tahoe Big Cloudz,2318 Lake Tahoe Blvd South Lake Tahoe CA 96150 USA,vape
-55965e01d9cb16f29e92d0f3bb6401dd6acfd2a3,39.3264625,-120.2102858,The Smoke Island,11400 Donner Pass Rd #15 Truckee CA 96161 USA,vape
-946ff1e5d111b04f3bfac449dbfe5750c9f2afee,38.3175364,-122.4843883,Sonoma Smoke and Vape,17549 Sonoma Hwy Sonoma CA 95476 USA,vape
-b40cd2164d7a7e48a37938a2d339a7097188ec29,37.7055334,-122.4621549,Sensual Cloud Vapors,6340 Mission St Daly City CA 94014 USA,vape
-2075ea21f731b64a56a58372cf42b62a7284d765,37.7704926,-122.4439895,Sunshine Coast Smokeshop,1312 Haight St San Francisco CA 94117 USA,vape
-f6b7e0f7e7ad50720fcb8d4b2b6521f59a09eb31,37.613989,-122.4054461,Millbrae Vape,1703 El Camino Real Millbrae CA 94030 USA,vape
-347860e937697b1b68367673e62d51ae7aabaf48,37.972892,-122.527854,The Mighty Quinn,1099 4th St G San Rafael CA 94901 USA,vape
-ce6577da07b9e8fd942d4421cf39699db42af910,38.1053847,-122.237987,U-Know Smoke and Vape Shop,618 Tuolumne St Vallejo CA 94590 USA,vape
-046f9f0744a9626cc33331c8f80003d09aa6d898,37.6880233,-122.4686058,Vape Dreams,16 Washington St Daly City CA 94014 USA,vape
-3dc18a3a1f56d29d701e320cd6b1f1eff58cf81c,37.6498685,-122.4313337,The Vaping Buddha,615 W Orange Ave South San Francisco CA 94080 USA,vape
-9c13789992e58bf955f0bd747135f07c2856cc1b,38.1256771,-122.2542503,smoke city smoke & vape shop,3752 Sonoma Blvd Vallejo CA 94589 USA,vape
-b57e36504f5e3339e766d902f1f4482b95b26b61,37.6961094,-122.0820408,Ready Set Vape,3024 Castro Valley Blvd Castro Valley CA 94546 USA,vape
-e65845b1d6fdb8ec55140365e4922321c87a2085,37.9840745,-121.8038805,Mistique Vape & Taste Saloon,3721 Sunset Ln #105 Antioch CA 94509 USA,vape
-f88ba8d673ddc4c1257e720f229aaeffbdb4162d,38.2489333,-122.0434082,Fairfield Cigar And Vape,801 Texas St Fairfield CA 94533 USA,vape
-99c216a0b1890c6711b97cd468e8c0ea599fc070,38.1049712,-122.2384569,Vapor Pharm Vape Shop,621 Tuolumne St Vallejo CA 94590 USA,vape
-6ccc50896a49a43aec457987c14ed0e6277a0a5c,37.954614,-122.059655,Nexus Vapor Vape Bar,1600 Contra Costa Boulevard e Pleasant Hill CA 94523 United States,vape
-8e0fa8531a66a91c678e7877fb41dad7206f4d13,37.908483,-122.062015,Vapor 1,2085 N Broadway #300 Walnut Creek CA 94596 USA,vape
-4c43f4c85de5092659bd7ec1fac0e95561895861,37.677973,-121.875109,VAPOR,1807 Santa Rita Rd E Pleasanton CA 94566 USA,vape
-ee65e4a233549835f7678d746efd4a6df4ce1081,37.740376,-121.442462,The Twilight Zone Smoke and Vape.,1391 W 11th St Tracy CA 95376 USA,vape
-60c7a5773a00b903b4ea049e92945b192a9a4352,37.6372761,-120.7674063,Jays Vape & Tobacco,12162 Yosemite Blvd Waterford CA 95386 USA,vape
-196df5ae3a3a7a154700db1b6ef9448c7d0dda4d,37.6537119,-120.9933388,Yo Mommas Favorite Vape Shop,700 McHenry Ave A Modesto CA 95350 USA,vape
-9fa210d8b529a4ec4da63f54c9d977486a08bf34,38.0113007,-121.3182798,Vape Division,526 W Benjamin Holt Dr Stockton CA 95207 USA,vape
-18290ea9f3fba55b0d0502de8b8a17f0dd07b191,38.1283065,-121.2593679,Tobacco City N Vape,550 S Cherokee Ln # G Lodi CA 95240 USA,vape
-c3f2d9da55bb59e5abb3e4b1f2f00a5771b8209b,37.7975438,-121.2182261,Aces of Vape,223 W Yosemite Ave Manteca CA 95336 USA,vape
-423a6c7990a4d035886ed0354ca6db65b58c0499,38.0082004,-121.3099944,Stockton Smokeshop & Vape,6107 N El Dorado St Stockton CA 95207 USA,vape
-802ae33c65fa329ff8c0ee092c93f649c4e6af01,37.759973,-121.457605,Vape Guyz,West Valley Mall 3200 Naglee Rd Suite 495 Tracy CA 95304 United States,vape
-f05cd0c5b262bd347106d4cf29fadd3447e77bc6,38.1017709,-121.2792489,VapeLife,2525 S Hutchins St Lodi CA 95240 USA,vape
-72aa5f48c34744328907f29db27cc55ec8e44721,37.9846021,-121.3344364,Vapor Workz,2233 Grand Canal Blvd Stockton CA 95207 USA,vape
-f77a7aacd835ee641d124850042ff22d937ab744,38.0343298,-121.3392091,Planet Of The Vapes,9305 Thornton Rd B Stockton CA 95209 USA,vape
-620f8960242e2dea3a0e6dcc2e956e87209c0cbb,38.4949596,-121.4103502,Vape Nation Smoke Shop,7900 Florin Rd ste 10 Sacramento CA 95828 USA,vape
-954da5cbee56866522a769394b60eb645f46d337,37.7399439,-121.4310559,vapor city,359 W 11th St f Tracy CA 95376 USA,vape
-3edfd46d14931d3c8cdb8a678a52e9e4ff19006b,37.643144,-120.997273,Still Smoking,1313 J St Modesto CA 95354 USA,vape
-da3b987b1031db7a7557ab0e99743b7c201e443a,38.1306606,-121.273633,King's Closet,230 S School St Lodi CA 95240 USA,vape
-df5998144c7e64eaa5ba7bfa12d18c90c78b56ff,37.6463449,-121.0315057,Cigarettes For Less,901 N Carpenter Rd # 8 Modesto CA 95351 USA,vape
-394d185d1ad6551468346c1643d1217a96dff49b,38.4592264,-121.416684,NXNW Vapor,8211 Bruceville Rd Ste B105 Sacramento CA 95823 USA,vape
-abd28ad73418e7541370c275d6975a99847fea50,37.9993517,-121.3258373,Vapor Mo's,5648 N Pershing Ave Stockton CA 95207 USA,vape
-27461cb973d2ed51c26bef79551dd53ed886932b,37.9844662,-120.3818288,Mountain Vapors,83 S Stewart St #206 Sonora CA 95370 USA,vape
-cee9d1c22af15a312d013cc1199024b91f63a64a,37.982741,-120.3849373,Sierra Smoke 'n Vape,4952 152 W Stockton St Sonora CA 95370 United States,vape
-1e869ef23242ccb0a115b58e7c677962b2b226fb,36.8381529,-119.744937,Satyr Vapor,7018 N Maple Ave Fresno CA 93720 USA,vape
-49f2f32eed652b6c8f53f1fbc8f172c9af9c9041,37.324159,-121.9143873,It Is Vapor 7,265 Meridian Ave #1 San Jose CA 95126 USA,vape
-edbf023cbdfa9d3139093e49c8b5c92f919ac0fc,36.9629576,-121.9874013,Santa Cruz Vapors,1701 Portola Dr Santa Cruz CA 95066 USA,vape
-3aaf5190034e330d1cf2ddab6d79eaededc30f4e,35.4197497,-119.025909,Go Star Vape And Smoke,300 Norris Rd Bakersfield CA 93308 USA,vape
-50816e3cbade727de9eb4080bd48747d9dd84135,37.419136,-121.915934,Vape One,794 Barber Lane second floor Ulferts Center Milpitas CA 95035 United States,vape
-58a42a6d734cec652b6ffad03502ffa72975d019,37.275205,-121.8644555,Chill Vape,705 W Capitol Expy #60 San Jose CA 95136 USA,vape
-805ed2583e27c1f7eb1fe639b6b0b4ef2c535656,36.616144,-121.903496,The Vape Club,800 Lighthouse Ave Monterey CA 93940 USA,vape
-9b9d59fc933b75f38194a00f5ab7784765981e7e,36.5979419,-121.8950768,Smokestacks Vape Bar,490 Alvarado St Monterey CA 93940 USA,vape
-68f0023f7964d644725ddd12cb1176ced1211c26,37.3336178,-121.8850613,San Jose Vape,112 Paseo De San Antonio San Jose CA 95112 USA,vape
-1ecffedf23807259b60c77f07e78e34b434d9b7e,37.3029454,-122.0327223,Monsters of Rock 2 Smoke Shop & Vape,1189 S De Anza Blvd San Jose CA 95129 USA,vape
-810c3475d7717d7935c45036e5b04c9884b50a43,37.2666799,-121.8655379,Stay Vaped,4470 Pearl Ave San Jose CA 95136 USA,vape
-3c81db998ef53dcf189b738441f0782df3ae22bc,37.3047613,-121.978374,Silicon Valley Power Vapors,1122 Saratoga Ave San Jose CA 95129 USA,vape
-de4cf8158ae086b7604c3f650ba2a2087083eb2d,37.2547376,-121.8643873,Abyss Vapor Lounge,5406 Thornwood Dr #175b San Jose CA 95123 USA,vape
-bf1307cdd232d1e1358d420b48a6a492c349bf8b,37.3132752,-121.7927236,Platinum Vapes,2764 Aborn Rd San Jose CA 95121 USA,vape
-da087ac6f014828bda10da9b3293f2553bf29a86,37.4700895,-122.2126296,Redwood Vape,2853 El Camino Real Redwood City CA 94061 USA,vape
-8c34d4c68738f0ea3535e6fdef76fb62f737c7ac,37.3540536,-121.9490435,Hot Box Smoke Shop,1111 El Camino Real #3 Santa Clara CA 95050 USA,vape
-7332115261824e537efbe3c8111464474e9fcef7,37.35188,-121.982118,City Rock Smoke Shop,3078 El Camino Real Santa Clara CA 95051 USA,vape
-ff43dcd77f283ae4666d7bbf6ef4a1d58a8840a5,37.0222654,-121.5635016,Vape This Smoke That,681 Leavesley Rd suite 70 Gilroy CA 95020 USA,vape
-04a9f6dfb931aeb8245bd34ea103f33215e2f41f,36.848905,-121.40218,Green Rush Smoke Shop #2,728 San Benito St Hollister CA 95023 USA,vape
-ca73451444f4b8347a05ab83e6b50f47ff87e7c5,37.302151,-120.485261,The Vapors Merced,615 W Main St Merced CA 95340 USA,vape
-eee99f05783781e12d36e6487d1789b1c91c505f,37.0565392,-120.8377236,Uptown smoke shop,1247 E Pacheco Blvd Los Banos CA 93635 USA,vape
-ee263e428ad307de34df1b1116cdc10b17f53950,37.3012545,-120.4814532,Brick House Smoke Shop,1720 K St Merced CA 95340 USA,vape
-da9f339ef9c8339577b0630f92afe59665d7e553,37.3595774,-120.596132,World of Smoke,2698 First St Atwater CA 95301 USA,vape
-e17fc065eda686142e975b92df00e215611f0574,37.330727,-120.468165,Cigarettes & Cigars,3528 G St Merced CA 95340 USA,vape
-79f71506f3dba206245b068bb90452559a6ce58c,37.4662753,-121.1413288,M&S Mini Market & Smoke Shop,1010 W Las Palmas Ave Patterson CA 95363 USA,vape
-7e07af403c0f0128c2b778076cfb151c019e0b20,36.7934106,-119.7284876,Imperial Vape,#B 4946 E Ashlan Ave Fresno CA 93726 United States,vape
-d6906aa417087feb662ab6912133c4c661810fd8,36.8510867,-119.7768723,Century Vape,7767 N First St Fresno CA 93720 USA,vape
-a2e57392a35648a8e115eafbd697b3bc05903c43,36.809319,-119.7252534,T.G.I.Vape,711 W Shaw Ave Clovis CA 93612 USA,vape
-be564f037a88f2f218ab11ff01fade28157605e1,36.8073804,-119.7538723,THE VAPE SHOP,4930 N Cedar Ave Fresno CA 93726 USA,vape
-0b0cb2a3d14b15f697c9b31fd3d5dbb21a3e903c,36.8235916,-119.8267089,THE GREENMILE VAPE & SMOKE SHOP,2014 W Bullard Ave Fresno CA 93711 USA,vape
-58f92783f1f00807238505d089002f5266e292d6,36.8084097,-119.7531849,Empire Smoke & Vape,2051 E Shaw Ave Ste 101 Fresno CA 93710 USA,vape
-62693e2172b99385a8a63dc2cf91ad58b7349ec9,36.8223671,-119.8092431,Elite Vapor Shop,5771 N Palm Ave Fresno CA 93704 USA,vape
-6b6cc482db7e4e168b9797cc784dc0c3e155cd1a,36.96604,-120.0530059,No Limit Smoke Shop,632 E Yosemite Ave #116 Madera CA 93638 USA,vape
-14f803f323db1d84b0be6a2e4f08217412da6b4c,36.8526072,-119.727854,American Vapor,N. 1215 N Willow Ave #160 Clovis CA 93619 United States,vape
-561c95cd44f0691ec206d6ac76686ff8d0b8cb05,36.9721144,-120.0422769,Toby's Vapes,1490 Tozer St Madera CA 93638 USA,vape
-d43e34cde77a5b9f3d30ca15e864ff31d6b6b35c,36.80987,-119.711678,Royal Vapes Clovis,131 W Shaw Ave Clovis CA 93612 USA,vape
-7dea21bf393746f49889c6cde5b053ebcc71d902,36.7723052,-119.82629,D's Smoke House,1254 W Clinton Ave Fresno CA 93705 USA,vape
-d8fd68ba300e858555e86946f5b10be8dc79941a,36.7063844,-119.5707338,Drip Vapor Lounge,2407 Jensen Ave Sanger CA 93657 USA,vape
-8032f3166ac67606f778d2daad8b152c431b9a48,36.7574197,-119.7985941,Satyr Vapor,1140 N Van Ness Ave #105 Fresno CA 93728 USA,vape
-9f6dfd0d1ee9242b63aa3f96ea0673db10f50652,36.3263203,-119.2598386,Vape Savvy,534 S Lovers Ln Visalia CA 93292 USA,vape
-1ee11880810d3f46279a1ae700cf6184e0de4fca,34.6600306,-118.1462056,ENDLESS VAPORS,818 W Ave L Lancaster CA 93534 USA,vape
-bbd635e54eb288f3b22cfb2c5662019268adaa45,34.4991629,-117.1905639,OG Vape Shop,21699 Yucca Loma Rd Apple Valley CA 92307 USA,vape
-7f6a2fc4e78b18df89d8f2aceadc1d7e6fb3e57a,34.4708078,-117.2044162,Vape Out,21065 Bear Valley Rd Apple Valley CA 92308 USA,vape
-b9ae00d0e61ae9c2b86698efa3271273072940c3,34.204684,-117.105679,West Coast Vape Shop,31972 Hilltop Blvd Running Springs CA 92382 USA,vape
-d317751fafc9044b992b67f50a26b06952dfee62,34.2895306,-118.4335279,VALLEY VAPE SHOP,603 N Maclay Ave San Fernando CA 91340 USA,vape
-e03ad6a2abc21e1a2434a477c8cf2c229b23acd2,34.1069091,-117.8060696,Mode Vape,133 E Bonita Ave #100 San Dimas CA 91773 USA,vape
-5ea71ac3fa7bcadb37461d505e4ff6cffcf3a252,36.6872939,-121.7967031,Marina Spirit Vape and Smoke Shop,3170 Vista Del Camino Cir Marina CA 93933 USA,vape
-3cab0195ac33a2877456c4b2ba74b3a163f1c630,36.6948994,-121.652109,Vape3one,1055 N Main St Salinas CA 93906 USA,vape
-d13b63495f5f4930feca874cb6d99f1afa0cba75,35.4955231,-120.6841653,Rare Candy Vape Co.,6145 San Anselmo Rd Atascadero CA 93422 USA,vape
-a0d89f6221ad193d176e6e63930d14c7d033a59d,35.4905435,-120.6693407,Stellar Vapes,6025 Palma Ave Atascadero CA 93422 USA,vape
-453ca8b7b8db24c3693b84d4e0da6ba93653ee7a,35.4731752,-120.654509,Cal State Vape,8420 El Camino Real b Atascadero CA 93422 United States,vape
-54456ed38fd62c24adce76225ec184a0f14b615e,35.3117762,-120.8326856,Tobacco Castle " VAPE SHOP",2179 10th St Los Osos CA 93402 USA,vape
-f3b66be454947c981f60c9a42f395271d17d54ca,35.2906779,-120.6595672,Royal Smoke and Vape,592 California Blvd San Luis Obispo CA 93401 USA,vape
-64c95a2fd6fc6318b56be6545edd749498212120,35.1214632,-120.6127204,Amsterdam Vape Cafe & Gallery,1519 W Grand Ave Grover Beach CA 93433 USA,vape
-bfe0ab690e14b446ef4a22b511dee80f1b803fd8,36.3242771,-119.6551841,Sal's Tobacco,110 N 11th Ave Hanford CA 93230 USA,vape
-f98542b497adec5d846a2787be8356bd34a5b49f,36.6033874,-119.4583388,Reedley Smoke Shop,793 N Reed Ave Reedley CA 93654 USA,vape
-547009a381f2fa1772709c860c497b1187cd8987,35.3757148,-118.9456273,Havana House Smoke Shop,3221 Niles St Bakersfield CA 93306 USA,vape
-dab84a9463428cd5600f4226ad76758753fed7ab,36.3077975,-119.7813377,The GreenMile Vape & Smoke Shop,855 N Lemoore Ave # 130 Lemoore CA 93245 USA,vape
-846a8f58742d97445d934d49ec2e509e23384f78,35.39281,-118.950422,Deluxe Tobacco & Vape,2600 Oswell St ste j Bakersfield CA 93306 USA,vape
-e5af63ae0d2dcdc7d619a9cb06bcae28e0137e44,35.3563257,-119.0192399,Vape Fame,145 Chester Ave Bakersfield CA 93301 USA,vape
-183b72fb3addd26a91a6955c9096ad96d680c57b,36.0654123,-119.0475838,z's smoke shop & vapes,1365 W Olive Ave f Porterville CA 93257 USA,vape
-a1c8aa3e39e1a687135e28c1a18a0d90f6458539,35.397178,-118.950956,Kool Aid Smoke And Vape,3805 Auburn St Bakersfield CA 93306 USA,vape
-f2c120dcb87fa1cd9909124daedd69512940f12f,35.3385004,-119.0500285,Vape Zone,4113 Ming Ave Bakersfield CA 93309 USA,vape
-8fb23c43827c1058b846bc0993666cef7f9ece8e,35.3173335,-119.0738358,Smokers & vape station,6401 White Ln #102 Bakersfield CA 93309 USA,vape
-081e138d74146a3a89514939f181e1312553dc9d,35.314487,-119.0571273,Infinite Vapes in Bakersfield, Ca,4501 Stine Rd #102 Bakersfield CA 93313 USA,vape
-41f05e1a8f685b8f7f8ec8f62e1badd49b125834,35.3098489,-119.0400881,Vapery Sitty,3401 Pacheco Rd Suite L Bakersfield CA 93313 USA,vape
-d0bf710a82409f3c52d9b4733efb9a47d2d012c5,35.6256851,-117.6713901,KCW Vapors,257 Balsam St Ridgecrest CA 93555 USA,vape
-26709f7e03323bcb5b76a96df23be1e67fd46a19,34.5061288,-117.330511,HOTBOX VAPE,14084 Amargosa Rd #220 Victorville CA 92392 USA,vape
-0829144cf5abfbd52a174d215e4d2f2b22971846,34.2242121,-118.5357768,So Cal Vape Lounge,8452 Reseda Blvd Northridge CA 91324 USA,vape
-dde4aae6a5673f07333bf81f18776098bdd09e08,34.2317419,-118.5575174,Smoke N' Vape Wholesale,19441 Business Center Dr #108 Northridge CA 91324 USA,vape
-6686b047ee91121931c75dd1204b42f20ed30bf4,34.8850465,-117.0126703,The Vape Shop,967 Armory Rd Barstow CA 92311 USA,vape
-3a4ac81dbf745d865834f2f940a43080438aa84c,34.10486,-117.546033,The Vapour Lounge,8188 Rochester Ave d Rancho Cucamonga CA 91730 USA,vape
-1015d15663e965f6ae4225ae2e83372ca62125cc,34.1069635,-117.66449,Vape Shop:Vapor Boss,959 W Foothill Blvd Upland CA 91786 USA,vape
-3785a50e9c71f46714ca0400c5dc8cc75de1eeed,34.0869885,-117.2792168,Vape Warehouse,738 S Waterman Ave A-22 San Bernardino CA 92408 USA,vape
-54ce64f718923b6dcd99decffa0f803f79ed64a6,34.9485828,-120.4363132,Amsterdam Lounge & Smoke Shop,437 S Broadway Santa Maria CA 93458 USA,vape
-ba4c346af6f0be8019c767a626e9e372f1486e3d,34.6911204,-120.4363626,Hi time tobacco,1430 Burton Mesa Blvd Lompoc CA 93436 USA,vape
-b8fd116312eb8427baab4fcf64be5fe1adc5f6bc,34.419828,-119.692098,Santa Barbara Vapor,234 E Haley St Santa Barbara CA 93101 USA,vape
-5f0e873ff543927d6080e3a5bfce45f5bd87cb7b,34.4197083,-119.6971455,Anacapa Vapor,701 Anacapa St A Santa Barbara CA 93101 USA,vape
-bb5c26fc55c303221e1797d88b5b06058e3abe08,34.1881363,-118.6061659,Titanic Vape,6457 Topanga Canyon Blvd Canoga Park CA 91303 USA,vape
-18550824671deeb9a75f2d7937c58e2f6fe9a087,34.0148283,-118.4073713,Nana's Vape Shop,10812 Washington Blvd Culver City CA 90232 USA,vape
-ef5cabea6f5a514aed3b1a051eddfb0066851b34,35.125011,-118.467222,Vaperizen,798 Tucker Rd Tehachapi CA 93561 USA,vape
-2e6ca6f625ce9f7ae84081531633567f3b0419e3,35.3380311,-119.060384,Smoke Scene,5149 Ming Ave Bakersfield CA 93309 USA,vape
-9daf808d9aaa34df65f717350c265a89b9ed074e,35.334065,-119.076515,Payless Cigarettes,6661 Ming Ave Bakersfield CA 93309 USA,vape
-946e00cf17ef16471863c44349786585729cd964,34.2807183,-119.2859847,Vape Creations,964 E Main St Ventura CA 93001 USA,vape
-9d8d01cca5d146f829462806bc2405c7ea534f9a,34.0977004,-118.3641492,Vape & Smoke Shop,7982 Sunset Blvd Los Angeles CA 90046 USA,vape
-c1bff0e8a579db2f93099dfdb80eab25446d76ef,34.0984539,-118.3541847,The Vapor Spot- Vape Shop and Vapor Bar,7551 Sunset Blvd Los Angeles CA 90046 USA,vape
-9408d6d17d97ef2847a8b4a77223b4dab455c363,34.6987477,-118.1353376,Mr.Vape,403 W Lancaster Blvd Lancaster CA 93536 USA,vape
-cc8324ad5abcc0d71dcde2884721aa46b225f6f4,34.8595231,-118.1629501,Vape And Bake,2689 Sierra Hwy Rosamond CA 93560 USA,vape
-08312b9bbd6887fb2b4ecaeb4c8eb43556f1013b,34.8640333,-118.1663719,High Desert Vapor,2997 Desert St Rosamond CA 93560 USA,vape
-3132df88019575b0218c16d4a3b82c04e7c2e0b9,34.674424,-118.16758,Vic's Vicious Vapes,2046 W Ave K Lancaster CA 93536 USA,vape
-27cc437b34beb1255988d7f4777eead63e05208d,34.5330899,-117.253135,Dripstick Vape,18835 Chapae Ln Apple Valley CA 92307 USA,vape
-6048dc646c0ec0325e23e1ffd09fb3fc818f2ff7,34.4230192,-117.3170456,760Vapor,15885 Main St #200 Hesperia CA 92345 USA,vape
-182a41faad658e80458e68a255bdcb9989aeed05,34.097703,-118.1549093,Super Vape,200 Huntington Dr N Alhambra CA 91801 USA,vape
-27477f889cec0e33f6ab5f14e2dde730faf2e34d,34.899026,-117.025531,Smoked Out Smoke Shop & Vape,215 E Main St Barstow CA 92311 USA,vape
-b248a30167976c441aec4ba122e5b23eb8aef05b,34.897639,-117.008494,So*Cal Smoke & Vape Shop,1251 E Main St #8 Barstow CA 92311 USA,vape
-9db2e6b62102c6fc58c479091884b08c12adc3db,34.500537,-117.329705,Cloud District Vape Shop,15315 Tamarack Dr suite 2 Victorville CA 92392 USA,vape
-e3343894162bb3e66baa46c30e9f40a91077e5a7,34.470632,-117.2625053,The Vape Shop,18361 Bear Valley Rd #7 Hesperia CA 92345 USA,vape
-020055c27de544920b190c901b798318ba07de52,34.4700052,-117.3161223,Vape Shop,Hesperia CA 92345 USA,vape
-1ce47bdc24e2d62ffc9116431a25ff7f0d4c1a10,34.423828,-117.315262,Best Deal Tobacco & Vape,15928 Main St #300 Hesperia CA 92345 USA,vape
-ad45f45dc14964bceac6417ae59b6c06823d825d,34.5083735,-117.3457659,R Prime Vapes,14560 Palmdale Rd #36 Victorville CA 92392 USA,vape
-12a6a18609f04064338902871ff40d896ff69f19,34.5370907,-117.2529202,Smokin Out Vapor, Glass, & More,18835 CA-18 Apple Valley CA 92307 USA,vape
-d901dd9cc254ef192da7f458ccdb2c4a6110950d,34.029728,-117.114187,Vape Attic,31608 Yucaipa Blvd #4 Yucaipa CA 92399 USA,vape
-51aa2bbe6147f6a7d435c31010cc4d2aee8ad94f,33.8191088,-116.5458593,Michael's Vape Shop,333 S Indian Canyon Dr Palm Springs CA 92262 USA,vape
-e190246241f1260ec24c879a685556830525951e,33.721683,-116.3744,111 Smoke vape,73960 hwy 111 3 Palm Desert CA 92260 United States,vape
-4440d659be0956f0251c4ca5c9b1f585d4dd8568,33.721763,-116.388695,Desert Vapors - Palm Desert,73140 CA-111 #5 Palm Desert CA 92260 USA,vape
-82e7d2aad688529e6afff2696ecd5faf867836a7,33.9386655,-117.24559,The Barrel Lounge Vape Room,23901 Sunnymead Boulevard b Moreno Valley CA 92553 USA,vape
-77371ca634c7b53e83a716d08709eeab6f702bb0,34.8146236,-114.6030777,The Bud Farmacy,101 E Spikes Rd Needles CA 92363 USA,vape
-873c8f0b101504fef7f79ebccf3856e8debc021c,34.201433,-118.610729,Vape Ciggy,22209 Sherman Way Canoga Park CA 91303 USA,vape
-192ed2c9de211a90902df3c2fb72840b8c8157be,34.165081,-118.526243,Charlie's Vape Bar & Lounge,18054 Ventura Blvd Encino CA 91316 USA,vape
-b98c06345345dbe6f0ff653f42a4bab3ed77d007,34.0187949,-118.4902245,Magic Vape House,1439 Lincoln Blvd Santa Monica CA 90401 USA,vape
-63b9ff18fb09254f62fc716494a38629a30824d5,34.2706262,-118.7615017,Zee Vape & Hookah,1869 Erringer Rd Simi Valley CA 93065 USA,vape
-25820d18748d6db1868eee0022fed4f7f6fb95d7,34.4102764,-118.5784769,Smoke Depot & Vapor Lounge,26930 The Old Rd Valencia CA 91381 USA,vape
-eb56f7c012bf89f4c474bfa26f886521dc208827,34.2351002,-118.4740294,VapeTag North Hills,15650 Nordhoff St #106b North Hills CA 91343 USA,vape
-73d1a6e311b6c91de9473fbf6b8cfe75d96c443e,34.263864,-119.239015,Beach Vapes Ventura,3959 E Main St D Ventura CA 93003 USA,vape
-8d938c77c0ef3a7a89b399f25257117800480ad7,34.2379326,-119.1683027,Vapor Forrest,2860 E Vineyard Ave e Oxnard CA 93036 USA,vape
-d349a559a9fa910c63f0fb14fd02d85c75150580,34.195837,-119.220602,Steam of Oxnard,600 S Victoria Ave A600 Oxnard CA 93035 USA,vape
-6190444275e82f655366d16758962b3b283137cf,34.4209213,-118.5425729,The Vapor Department,23130 Valencia Blvd Valencia CA 91355 USA,vape
-deb0df04419bd6ce8911fd335e0131e0a44111a6,34.2650917,-118.517978,Ark Smoke Shop,17609 Chatsworth St Granada Hills CA 91344 USA,vape
-aae6b377a6375d349db62915bc9321d6a0f6a4d4,34.2616858,-118.7946734,HOOKAH VALLEY,1230 Madera Rd #3 Simi Valley CA 93065 USA,vape
-36a576a19c06e927ec3708b1dee3c52e52a7957e,34.045799,-118.450795,Apollo Vapor store • USA portable dry herbs vaporizers • Los Angeles online best sale shop near me,11400 W Olympic Blvd #267 Los Angeles CA 90064 USA,vape
-009687492b37f0fbfaf3f6fc91776528afc783a7,33.846716,-118.3376624,XL Vape,2807 Oregon Ct Torrance CA 90503 USA,vape
-bdd42033772c7ca86ab537875474c11a9b61a50a,34.0889195,-117.7385285,Pomona Smoke N Vape,636 E Arrow Hwy Pomona CA 91767 USA,vape
-d171c1ba692b73ce4ecd27080e04cc90e0dcbc1b,33.8714623,-117.9076403,CKS Vape,131 N Raymond Ave Fullerton CA 92831 USA,vape
-f40b42ae34b9d48f06ce6662f8968f4896757aca,33.8607758,-117.8194789,Abstrakt Vape Co.,1241 N Lakeview Ave ste d Anaheim CA 92807 United States,vape
-cb310422f31e3bd2cde0a0e1bd1bc1fb7e4491bb,34.0866262,-117.9651758,Puff & Pass Smoke and Vape,14151 Ramona Blvd #2B Baldwin Park CA 91706 USA,vape
-7e914f9e4b09408c277b99ede84a648cbd8e5fff,34.1034529,-118.3384175,The Vape Shop,1770 N Highland Ave Suite J Los Angeles CA 90028 USA,vape
-f0ab4c8f0637551a8c4dbc5bf4aef46625aaeca2,34.0339956,-117.6876322,Cigarette Plus & Vape Store,12079 Central Ave Chino CA 91710 USA,vape
-8fb6790beae03e274ecd448c59cd01057f4511b4,33.9961126,-117.6895634,Vape Demand LLC,14122 Central Ave a Chino CA 91710 USA,vape
-314b81adc700201ff831798df196b744ba726c06,33.8819361,-118.123957,LA Vape Company,9836 Flower St Bellflower CA 90000 USA,vape
-e82ae49987790d2b7f595026823127f2c8181df3,33.9313981,-118.1145081,Beyond Vape,9455 Firestone Blvd Downey CA 90241 USA,vape
-3afc34624582767ddf7dca5ec3aabcc5038cce9b,33.743111,-118.034175,West Coast Vape Supply,5445 Oceanus Dr #102 Huntington Beach CA 92649 USA,vape
-42ae37f97ef71c67d6fd71ecfe28264c0c388135,33.8520664,-117.7926756,Flawless Vape Shop,5589 E Santa Ana Canyon Rd Anaheim CA 92807 USA,vape
-604920ba7da0882c08d89469d2fff18a21081659,34.105434,-117.817517,Smoke and Dreams Vape & Smoke Shop,633 Arrow Hwy San Dimas CA 91773 USA,vape
-6bb097855ae5ac749baa360b6be3ff377034a372,34.1107684,-117.5770337,Flawless Vape Shop,7890 Haven Ave #13a Rancho Cucamonga CA 91703 USA,vape
-867b3ca27ff43a86d89be10eaccac797b05174a7,33.63222,-117.914887,Flawless Vape Shop,333 E 17th St #21a Costa Mesa CA 92627 USA,vape
-d0b9dc5dfaf3b0dbcc47752a82cd9649369badbc,33.68176,-117.886724,Flawless Vape Shop,3033 Bristol St Costa Mesa CA 92626 USA,vape
-7fbb22dc69c9115fbeeea3b840a4d5b2e31c223b,33.8097021,-118.0103913,Vape Envy,10506 Knott Ave Stanton CA 90680 USA,vape
-c3d2b49be315686b913eb70bbbb67231f9dd6ec9,34.0687055,-117.2062774,The Vape Warehouse 2,1235 Indiana Ct Unit 109 Redlands CA 92374 USA,vape
-9c17caed60dfd7a2f626d76f7e566be869aa401a,34.2485726,-117.1896581,Vanity Vape,280 CA-173 Lake Arrowhead CA 92352 USA,vape
-5ec50ae6ce4081581b8f05b66fc5a1ab2f450301,34.0038038,-117.4988818,Great Vape,4660 Galena St B Riverside CA 92509 USA,vape
-4821c4dbaada1329f570876db3ef147d60657913,34.0657145,-117.2054848,Vape Plus,1480 Industrial Park Ave Redlands CA 92374 USA,vape
-bc9e980e59326cb7b3b35a62c86d86596ba8df0d,33.5731641,-117.2040854,Vape Krave,40685 California Oaks Rd B Murrieta CA 92562 USA,vape
-dc40f551841c21e370db25d9b2a0d3ad84378a2d,33.8864215,-117.3490315,Van Buren Vape Smoke Shop,17966 Van Buren Boulevard Riverside CA 92508 USA,vape
-7f6c40f6e643b94f963a5e7cc6c47a13e1b0668b,34.2434329,-116.8853425,The Daily Vape,42011 Big Bear Blvd Big Bear Lake CA 92315 USA,vape
-5ee0181c0b3896a460dafd5f09dd64f3fee056c3,33.639906,-117.167033,The Vape Lodge 2,33040 Antelope Rd Suite 115 Murrieta CA 92563 USA,vape
-abd5076f2c8ab37e895ed2677de110b71ed90bc6,33.5555381,-117.1748332,Unique Vapors Vape Shop,40250 Murrieta Hot Springs Rd Suite 113 Murrieta CA 92563 USA,vape
-fd02b4e11dca298bef54f56cc8ca7b9dcae6adf9,33.843336,-117.538007,VAPEWAY VAPE SHOP,2363 California Ave #202 Corona CA 92881 USA,vape
-44f4162c8611d1de3922dabe815fb3753b9d138e,33.931761,-116.976775,Smoke & Vape,754 Beaumont Ave Beaumont CA 92223 USA,vape
-cdbf587bb4970449a9e02265021824fa449b158c,34.0282772,-117.1189142,Smoke Smart Vape Shope,Hampton Rd Yucaipa CA 92399 USA,vape
-7d63a7ddbc1f7e2a3a3711e69e526d58a15ba029,33.8967312,-117.4726677,Landslide Vape - Online Only,3410 La Sierra Ave Unit 161 Riverside CA 92503 USA,vape
-6744c5182ac29925db37d5e877f63fecc3ee159d,33.9451976,-117.2794192,Vape Shop:Vapor Boss,12125 Day St J303 Moreno Valley CA 92557 USA,vape
-14c7d3823d00bbf4bd1a18e25929ff95e978449d,33.5993039,-117.1759859,Almond Vape & Smoke,27890 Clinton Keith Rd Murrieta CA 92562 USA,vape
-4c2a23493975b5acb48a031ea21d23fb36db5e48,34.1226984,-117.3733339,Rialto Smoke And Vape,222 W Baseline Rd Rialto CA 92376 USA,vape
-3d2f7699afd2529ceab59ae2dd55008f89cfe95a,34.1511281,-116.0544719,Next Level Vaping No.2,5653 Plaza Rd Twentynine Palms CA 92277 USA,vape
-bc01e286460428aa36616c78f89d0c2fa4fa9fea,34.1872436,-116.0552327,my vape life,3668 Adobe Rd Twentynine Palms CA 92277 USA,vape
-4cc6331dd6de94b5c5243527f5d48cf339bf0ebb,34.121191,-116.4321786,Next level vaping,56460 Twentynine Palms Highway Yucca Valley CA 92284 USA,vape
-2bf569664acc9dfee94537a5598a078f4ef15fe7,34.1649904,-116.0544466,Alien vapory,4890 Adobe Rd Twentynine Palms CA 92277 USA,vape
-f5e1e6f41a2e5e713d5523b9549fa9b3503caa0c,33.7345967,-116.2331716,Desert Vapors - Indio,43430 Monroe St Indio CA 92201 USA,vape
-558d3e1b9b7e767a3e00f725c473d375dad83f1a,33.815493,-116.474938,111 Smoke Shop,68031 Ramon Rd Cathedral City CA 92234 USA,vape
-15d6b53ff3fb732c42254a35fa79e16ad1aefe40,33.7815394,-116.9723497,Hookah Zone & Vape Lounge,500 S State St San Jacinto CA 92583 USA,vape
-0d1724a95f1dedfafcb64ca09de3bac8c4bcd0e2,33.5331558,-117.1508344,Tobacco & vape,40335 Winchester Rd c Temecula CA 92591 USA,vape
-eea2816fb56619979eab2b8aaff5711a4e676366,33.5079275,-117.1416501,The Vape Lodge,29760 Rancho California Rd #102 Temecula CA 92591 USA,vape
-8996f03647423b1e768002d5cdc08bc79832a85b,33.9250554,-116.9106939,Sunset Vapors,3166 W Ramsey St Banning CA 92220 USA,vape
-a6c6c6c05bdd7c1b93b2a0eff051d74a62c87068,33.6105374,-114.5976417,Steve's Smoke Shop,409 Hobsonway Blythe CA 92225 USA,vape
-319b4c925f6d3c3bd58be8bc39ef855335e0748c,33.1324714,-117.1201047,Marlow's Vape Lounge,630 Nordahl Rd San Marcos CA 92069 USA,vape
-ffcb7792bf501ab5c4a318654e4d14cac85c281a,33.1781956,-117.3308209,Aroma Avenue Vape,2525 El Camino Real Carlsbad CA 92008 USA,vape
-555b810ffc374b4c7aef71b26c9d3f7a8c1f1870,33.200373,-117.331381,Aroma Avenue Vape,1405 S El Camino Real STE 5113 Oceanside CA 92054 USA,vape
-90f870769a951a1979a3cdbe437d7787d53ffcd7,33.6382356,-117.9425488,Vape Goddess,1011 Brioso Dr Costa Mesa CA 92627 USA,vape
-036fd3c6ffab7653c0b7a3cad5e99fcbbb7b1b6f,32.7889994,-117.2056515,Vape & Smoke Shop Universe,2525 Morena Blvd San Diego CA 92110 USA,vape
-7d5c2e0a376ad3b222f71aa33b78633dfec248e3,33.071445,-117.066738,Vape Avenue Escondido,272 E Via Rancho Pkwy Escondido CA 92025 USA,vape
-054742a7dce32b73e6cd1dd1e9330e6dd7058986,33.657774,-118.0008645,Vape It Up HB,Walnut Ave Huntington Beach CA 92648 USA,vape
-3ac0687c22348bb70a1eb7db733f73af9383e761,32.8791688,-117.1673195,Smoking Section Smoke Shop / Vape Shop,6904 Miramar Rd #208 San Diego CA 92121 USA,vape
-9de1b58cbff1802a672ea060aa863bb47cc6710d,33.046655,-117.2556756,South Coast Vapor Co.,1532 Encinitas Blvd Encinitas CA 92024 USA,vape
-9b7e81963732937759c9cb3e03e5172771cefbfd,32.781983,-117.099891,Vape Up USA San Diego,5863 Mission Gorge Rd Suite B San Diego CA 92120 USA,vape
-e77143864b4a71302002d991d9b73a1785fc7fd4,32.8813558,-117.1586502,Vape & Smoke Shop Universe,7190 Miramar Rd Suite 111 San Diego CA 92121 USA,vape
-243333d58355e7496de536409c517c9e2c57f4da,32.731719,-116.972414,Vaping Veteran's Supplies LLC,10174 Austin Drive BOX 1333 Spring Valley CA 91977 United States,vape
-8455dda7beb6bf5bc3a38326f76da85d7f7bf9fc,33.1128569,-117.0805212,The Vape Lounge,360 W 9th Ave Escondido CA 92025 USA,vape
-19f9d08f2be76d2474cd2cf64b5308e7bffd7373,32.9613074,-117.1141294,Vape Yosi,9926 Carmel Mountain Rd San Diego CA 92129 USA,vape
-9578a8ec09fccea0ffa239df260b2d61f70e4c8b,32.684662,-117.071493,Vape Pharm,3403 East Plaza Boulevard Suite J-1 National City CA 91950 United States,vape
-7fe2be7b86797aeb3fde3681d0417c1e68b4a9f7,32.759816,-117.130058,OSV Vape Shop,4535 30th St #121 San Diego CA 92116 USA,vape
-6a1943cef7055fd8628437c7ea093a041ad8bc66,32.8108195,-117.1160164,Vape Kingz,3755 Murphy Canyon Rd San Diego CA 92123 USA,vape
-e7b7728ea743ea5eb9aa631caf696db3298e677a,32.82449,-117.1549553,Orbit Vape,4619 Convoy St San Diego CA 92111 USA,vape
-3833a1d133727eae64c15cd12f5e3aa38d169f70,32.8298324,-117.1525803,The Switch SD Vape Shop,4853 Convoy St San Diego CA 92111 USA,vape
-93c2224cabc862fb11ea18bdb2b670f78d0af8f7,32.745313,-117.211358,No Butts About It! Vape Shop and Lounge..,3045 Rosecrans St #207 San Diego CA 92110 USA,vape
-5f9cca0dc3ccd46512effb317cece595b760d761,32.8213706,-117.1555657,Illusions Vape Smoke Shop,4488 Convoy St Suite F San Diego CA 92111 USA,vape
-35dedd640f98947eef505e19595894bd19c1705e,32.897366,-117.124586,Vape Supplies On Point,9420 Activity Rd E San Diego CA 92126 USA,vape
-389e651faf421f5076486edce1ae990669f96089,32.747281,-116.9869963,Valley Vape,9717 Campo Rd Spring Valley CA 91977 USA,vape
-66fed778d14f78faf4bf5da950a0fa63f07e745a,32.7930582,-115.5578362,Main Street Vapory,660 Main St El Centro CA 92243 USA,vape
-ba86fd1ddf38fc34d777a15be7cb1779827eb6a2,33.1046779,-117.0755697,Euphoria Vapor Outlet Escondido Vape Shop,410 W Felicita Ave Escondido CA 92025 USA,vape
-3deb1b251fa2d4c1c214a98b8d8439f211367aa2,33.0446234,-116.8642287,Vapor Trail Ink,711 Main St Ramona CA 92065 USA,vape
-aa9b44f09eec9225e55a5ac03bcefb249c02ca34,32.8108797,-117.1158586,Vape Kingz,3755 Murphy Canyon Rd San Diego CA 92123 USA,vape
-2799d4a49527ebdf028719dc91998e8ab8cea54e,34.2311657,-118.5530631,The Vapor Spot,8850 Tampa Ave #106 Northridge CA 91324 USA,vapor
-92ca179adb2520d2a44edf6b87034e08511939b7,34.1544956,-118.4488635,The Vapor Spot- Vape Shop and Vapor Bar,4553 Van Nuys Blvd Sherman Oaks CA 91403 USA,vapor
-6e9b09b00c43f9ee7df4203965df6c1113c808dc,38.7801924,-121.2431703,710 Vapor Clouds,6015 Pacific St Rocklin CA 95677 USA,vapor
-a5688189f68d2692e82fa84503813ee59d722636,40.803195,-124.156214,Riverwalk Vapors,510 O St suite e Eureka CA 95501 USA,vapor
-8f3bce8569a0a285b10bf08d1c76ffd179da1fe8,37.8685843,-122.2594428,WHELANS GLASS GALLERY, VAPOR, CIGAR, GIFT & SMOKE SHOP,2486 Bancroft Way Berkeley CA 94704 USA,vapor
-3ff125474e53099ac564e2782796a5f368d11c8e,40.5702936,-122.338268,Golden State Vapor,2537 Victor Ave Redding CA 96002 USA,vapor
-3d102b451478400cda42a156a55b542ffe261e69,37.7241182,-121.9419437,Bay Fog Vapor,21310 San Ramon Valley Blvd #4 San Ramon CA 94583 USA,vapor
-cbd77d7b60e42e7b06e7338beec233d09541a52c,37.9066547,-122.0659795,To The Cloud Vapor Store,1990 N California Blvd Walnut Creek CA 94596 USA,vapor
-76bba533bbe1a3fb1b0bcbeb0e661e579065303c,37.67127,-122.082312,Vapor Zone & Novelty,943 C St Hayward CA 94541 USA,vapor
-1729565501371d470fb2b68cd5e6730814030d83,37.5216051,-122.2777071,Belmont Vape,840 El Camino Real B Belmont CA 94002 USA,vapor
-4cd19f3c9108d06ee46a6ca917e04ea2375d1abc,37.575494,-122.043019,The Art of Vapor,34241 Fremont Blvd Fremont CA 94555 USA,vapor
-d60a9b05e0eb520bb6997a6becd43c03c42efa44,38.9431406,-121.0979397,Auburn Vapor,3037 Grass Valley Hwy Auburn CA 95602 USA,vapor
-a68ec623547628acf5a2f7bd63d4cf49d4e7f5fe,38.3664996,-120.7975936,It is vapor,11215- 12019 Martell Rd Jackson CA 95642 United States,vapor
-25e3306e5f5f8f25cf46b2caff0ab5b386d02594,38.617574,-121.271498,Gaga Smoke Shop,11110 Coloma Rd #44 Rancho Cordova CA 95670 USA,vapor
-872fde3ad1cf15071d105586a16649e5048e4083,38.365748,-120.797633,Switch To Vapor,12336 Martell Rd Martell CA 95654 USA,vapor
-a0753eca2bdaa4e64c2cb58c4cf695378f10ab0b,37.566682,-122.320407,The Zone Smoke Shop and Vapor,516 E 3rd Ave San Mateo CA 94401 USA,vapor
-0dde7df6213137d53e5a9260ac427ac196004a2f,37.8902411,-121.6202751,Cigar Loft Smoke and Vapor Shop,14870 CA-4 b Discovery Bay CA 94505 USA,vapor
-adca52e0ca328060b29488ccb83fc57d90c9c9f1,37.5627036,-122.010331,Vapor Planes,3679 Thornton Ave Fremont CA 94536 USA,vapor
-d8da620efd3d7e2dd6379ab53f9e988e3e8c4eae,37.989898,-122.2999485,Better Cloud Vapor,2564 Appian Way Pinole CA 94564 USA,vapor
-6b86de15252f07ba9f104d8c6613b202e3206b88,38.0070783,-121.8927499,KJ's Vapor Shop,3105 Railroad Ave Pittsburg CA 94565 USA,vapor
-dbaed3558a43c688947adbad27a064624fd2f5c6,37.7058695,-121.7408269,Vapor Laze,922 Larkspur Dr A2 Livermore CA 94551 USA,vapor
-30b5688e1a631f6e48519ddd8ba16d544d0551c8,37.6059077,-122.0612748,Green Vapors,2428 Whipple Rd #104 Hayward CA 94544 USA,vapor
-8e1d309b0712cb28b7aff45266ff9126b018b113,38.1306606,-121.273633,King of Vapor,230 S School St Lodi CA 95240 USA,vapor
-6b9a72bc6c9bf203457f8981f4295707454719ff,37.9707386,-121.3003585,Haze Vapors,214 Dorris Pl Stockton CA 95204 USA,vapor
-3c20c0a197b6eba4777c525d8a1a3cfd1ee75e1d,37.6383864,-120.9695544,SMOKE CITY,1601 Yosemite Blvd Modesto CA 95354 USA,vapor
-b7a864be00a803c9c583c03892eaf61c745ba59f,38.526931,-121.408604,Switch to Vapor,5301 Power Inn Rd #110 Sacramento CA 95820 USA,vapor
-a03e4d022869f2e9f04d6d2833ff1fe4367201be,33.6669749,-117.7483248,Sugoi Vapor,208 Technology Dr #M Irvine CA 92618 United States,vapor
-dd260c961ea793c5c65a6100cda68c39b778612c,37.1263354,-122.1220223,BC Vapors,13266 Highway 9 E Boulder Creek CA 95006 USA,vapor
-c992867b6f976e7b30fec928ade4963039bcfa6f,37.2937097,-121.9649791,Vapors Smoke Shop,880 W Hamilton Ave Campbell CA 95008 USA,vapor
-6ed4d391946dd47e2b9e00ae0e3368407e8ae737,37.26145,-121.929059,us vapor mods,14938 Camden Ave San Jose CA 95124 USA,vapor
-f2295d4e9c155ada2fe2687fb573bd695a9cbca5,37.111719,-121.63914,Morgan Hill Vapors,15650 Vineyard Blvd j Morgan Hill CA 95037 USA,vapor
-e85f6b68f3242d87f7152e2b6ec00fb0b095e32e,37.5328168,-121.9595568,Vapor & Stogies,4020 Bay St Fremont CA 94538 USA,vapor
-46ee5c12b92f62fdd7eea0c6cddd7588ce12e873,36.8272591,-119.7883354,High Stakes Vapor (by appointment only),90 E Escalon Ave #112 Fresno CA 93710 USA,vapor
-f898fd965894d8b18127f1c7b1f1c9aed3deecad,34.4129556,-119.856058,Isla Vista Vapor,6549 Pardall Rd c Goleta CA 93117 USA,vapor
-b61e661a6d3ee6bf6863f8630fd0021ef834938d,35.317535,-119.084697,Vapors Paradise Smoke Shop,7401 White Ln #5 Bakersfield CA 93309 USA,vapor
-100399fb40c2f899ad04ea4e8b09d88ceed2bef9,34.036221,-117.609083,RUTHLESS VAPOR,2040 S Lynx Pl Ontario CA 91761 USA,vapor
-2b551e6c1c682bee52e5a28b08b4902b2c08bf26,34.0408692,-118.428929,The Vapor Spot- Vape Shop and Vapor Bar,2378 Westwood Blvd Los Angeles CA 90064 USA,vapor
-8310224f683420d4252d82a7ab003012278128eb,34.2660541,-118.7954979,Cloud10 Vapor Bar,1464 Madera Rd L Simi Valley CA 93065 USA,vapor
-74c2cd74222e71171fc13338a0f847888ea714f3,35.3819414,-119.0237271,Teds Vapor Hut,2501 F St Bakersfield CA 93301 USA,vapor
-acedad7d6730af372049d88c1f215e7681a6dac7,34.140914,-118.224856,Simply Vapor,2700 Colorado Blvd Eagle Rock Plaza Next To Game Stop Los Angeles CA 90041 United States,vapor
-d4d7b37739ba96a7a9c9241d3ad0e0bfbf86b288,34.1326209,-117.9077879,Rippin Vapors Azusa,625 N Azusa Ave Azusa CA 91702 USA,vapor
-975afb15e17a076b445c303adcbb26582e67a3c1,34.098452,-118.343503,The Vapor Shop - Vape Bar and Vape Lounge,7061 Sunset Blvd Los Angeles CA 90028 USA,vapor
-67d4d29dc5c15284aae7ad9177fe0d701c21d010,34.1075632,-117.6456158,Classic Vapor Inc,373 E Foothill Blvd Upland CA 91786 USA,vapor
-1a736368528bcecad4cc5fcbf0d70c62b3616dfa,34.0794393,-117.9072636,Vapor Devils,500 N Azusa Ave suite 111 West Covina CA 91791 USA,vapor
-7925f8f2d9f1123725830469ad055b5313c1d38d,34.284795,-118.717254,The V Spot Vapor Simi Valley,2760 Tapo Canyon Rd #9 Simi Valley CA 93063 USA,vapor
-b5c9c549f9a9fd8d5a12bb40c09b3fab570ca3a0,34.2538725,-118.6055388,818 VAPOR BAR,10104 Topanga Canyon Blvd Chatsworth CA 91311 USA,vapor
-f37798fccf3a6bdef0ce87517bc8c4f756f68aee,34.179142,-118.858582,The V Spot Vapor,1165 E Thousands Oaks Blvd Thousand Oaks CA 91362 United States,vapor
-f7676f239711a262ca597ce9e7c3c684f94732fb,33.9869914,-118.4536156,The Green House Smoke and Vapor Shop,736 Washington Blvd Marina Del Rey CA 90292 USA,vapor
-3313e044129e1f63137b721a39e2e856f345d325,34.1492533,-118.4357968,Vapor Shop & Lounge Of Sherman Oaks,13909 Ventura Blvd Sherman Oaks CA 91423 USA,vapor
-67e6677ae3a129f5c0f12ed4217d261573d9a9e0,34.1775758,-118.3405861,Caught the Vapors,2716 W Burbank Blvd Burbank CA 91505 USA,vapor
-53c49c451f7b6d238a26eeb8929ea0e7493a3612,34.1380155,-118.2553335,Pure Blue Vapor Lounge,707 S Brand Blvd Glendale CA 91204 USA,vapor
-aab012a6b8978b6d83ab56c4d8de5ee64ff134ff,34.1655096,-118.396947,Studio City Vapor,5219 Laurel Canyon Blvd Valley Village CA 91607 USA,vapor
-3b57d46a37f5b27f6c27f1587faa874ce70319e2,33.8058767,-118.3582098,Vapor Hood,24020 Vista Montana Torrance CA 90505 USA,vapor
-6f56a74af044e9fc9e9d4f63b0deeadb534464fd,33.692034,-117.857375,Verdict Vapors,17865 Sky Park Cir Irvine CA 92614 USA,vapor
-5814ac8c2d64051e0a2281f745032779b9845e03,33.7235102,-117.9177411,E-Juice Vapor,16520 Harbor Blvd Fountain Valley CA 92708 USA,vapor
-8abeb38db02bcbe369dd39e8aeea70d8b027b8a3,33.74186,-117.8238962,Blaq Vapor,100 W Main St Tustin CA 92780 USA,vapor
-58d56240f1c5d79ee9a06e1a2a43597f618027df,33.8281551,-118.1853402,Vapor Craze,3837 Atlantic Ave Long Beach CA 90807 USA,vapor
-c031e709d1543bb23ec8ce5b4149f16508402cbf,34.1254353,-118.2321495,Vida Cali Vapor,4115 Verdugo Rd Los Angeles CA 90065 USA,vapor
-81c8f9b894aac6ec747450e3d0f209f40abecc78,34.0490428,-118.0332027,Steep Vapors,11135 Rush St South El Monte CA 91733 USA,vapor
-38b8b5306f4a72c290fb272b298c1a8ee118eae1,33.824637,-117.86104,Dr. Vapor Warehouse,2199 N Batavia St a Orange CA 92865 USA,vapor
-2b2ee6eb8d362b756da22a08c5df7cffc9fde0ea,33.7164888,-117.9996839,Vapor HB,16942 Gothard St Huntington Beach CA 92647 USA,vapor
-5911c0bd50db6c4ba855512120631e2b14adb4fe,34.0610807,-117.4360398,Pure Vapor Fontana,10650 Sierra Ave Fontana CA 92337 USA,vapor
-d01dfa61eda429881deec50b930c2e12992ae419,33.6148313,-117.2586338,Rippin Vapors Wildomar,34859 Frederick St #114 Wildomar CA 92595 USA,vapor
-b095416c30a74d42ee0167e8b90170e225c827d1,33.9462904,-117.4522604,Smoked Out Vapors,7207 Arlington Ave h Riverside CA 92503 USA,vapor
-bc9dc9004c769c466895c8ee9ceebc6ce0c099b7,33.8897634,-117.3222752,Rize Vapor,19510 Van Buren Boulevard F3-130 Riverside CA 92508 USA,vapor
-c4df98848f922b006c4b3478dbf845f7c54aee97,34.0569537,-117.1823853,Upscale Vapes,112 Orange St Redlands CA 92373 USA,vapor
-27863842df5fb2b0e220cbc954e9689ae5b1793f,33.5163552,-117.1643516,Rippin Vapors Temecula,27470 Commerce Center Dr g Temecula CA 92590 USA,vapor
-c7c3b69e03dd22d51770674ec413e93dbf8cd47c,33.4823933,-117.0897049,Diamond Vapor Lounge,32483 Temecula Pkwy e117 Temecula CA 92592 USA,vapor
-6c7cae2e7999869c275e27efbcf50022ba18c6be,33.3439328,-118.3270559,Inno-Vapor Digital,161 Metropole Ave Avalon CA 90704 USA,vapor
-c88cacac2f87298cdaafe8a4f275aea00e37d836,33.1736582,-117.3613596,Gonzo Vapors,1839 S Coast Hwy Oceanside CA 92054 USA,vapor
-44becb60ae962843ac926c24e3859c4846357ae3,33.4647445,-117.7071313,South County Vapors Dana Point,34085 Pacific Coast Hwy #102 Dana Point CA 92629 USA,vapor
-72cf1ccabc4ea81b55fbd80acfe6cb188c555b3b,33.1858556,-117.3272055,Z Vapor Room,2216 S El Camino Real #103 Oceanside CA 92054 USA,vapor
-11a7568890689232f737d86bd33bf1148ae1fb24,33.6277475,-117.7248621,Vapor Craze,23016 Lake Forest Dr Laguna Hills CA 92653 USA,vapor
-06faa4be5d8141e3d5286eacde0d30c936d902cc,32.8061445,-117.2210135,Euphoria Vapor Outlet,2710 Garnet Ave #105 San Diego CA 92109 USA,vapor
-c3dd9bd421d8f2380b915d7d770b4f1a0b70971c,33.3773278,-117.2521136,Norse Vapor,122 W Ash St Fallbrook CA 92028 USA,vapor
-7c8a0ce7bec79799b5be12d6a06e5aecab16a2a4,32.6134493,-117.0830988,Mr. Vapor,1010 Broadway Chula Vista CA 91911 USA,vapor
-7b0764e920ee69fe1c813001e7656b2dc9fd53b9,32.693109,-117.13275,Euphoria Vapor Outlet,2842 Main St San Diego CA 92113 USA,vapor
-19d38a50838245b017649ad9f371a312acbb8493,32.7183465,-117.1560789,Vapor High USA,1281 Ninth Ave #704 San Diego CA 92101 USA,vapor
-873b07f2f45fd37c4e3c99aadc4da28b2a717436,32.85704,-116.925982,Vapor Meister,12346 Woodside Ave D Lakeside CA 92040 United States,vapor
-dcb25399bbbd163e87737d4977a22c8cdb2d6b17,32.7900073,-117.1001122,Euphoria Vapor Outlet,10389 Friars Rd San Diego CA 92120 USA,vapor
-e994f8f07352732d6f1b48d28851b9aab105eb2d,32.8395273,-116.9645586,Euphoria Vapor Outlet,10769 Woodside Ave #204 Santee CA 92071 USA,vapor
-f447507d6065efaff1fe06b4ad605fae5c9721c6,33.838257,-117.958388,Vapor Store Smoke Shop,500 N Brookhurst St #101 Anaheim CA 92801 USA,vapor
-56fb42b82f4ae70059ce8732d1d8c12264468fd3,33.8487754,-117.9587699,Vapor Bombz,1142 N Brookhurst St Anaheim CA 92801 USA,vapor
-7aecdc076abd998cd26c3770a29d262399545086,33.838118,-117.994047,Vaper Venue,8600 Beach Blvd #103 Buena Park CA 90620 USA,vaper
-194088e217227c0c9ea8bac0a8e2db9f17c7fdf0,41.3136903,-122.3132724,Mt. Shasta Vape,321 N Mt Shasta Blvd Mt Shasta CA 96067 USA,vaper
-9c6e5ebcaa70d1d7a8c084c4ad3156cd8e2fe571,38.5679864,-121.4645234,Built to Win,3241 Folsom Blvd Sacramento CA 95816 USA,vaper
-a25b520e9b8077060a09cb80bf42ba33934925ac,37.77287,-121.973787,Nexus Vapor Vape Bar,2550 San Ramon Valley Boulevard J San Ramon CA 94583 United States,vaper
-e523f54b294e5fd44d5931b52d34e433f7d87a3c,38.4539454,-121.3701765,G Vapers,8359 Elk Grove Florin Rd #103 Sacramento CA 95829 USA,vaper
-9f08cc353412379dd03211290418baf98e9b79d7,34.1719119,-118.4393722,Vapers Wholesale Sherman Oaks,14048 Burbank Blvd Sherman Oaks CA 91401 USA,vaper
-61f9b0b5678f1afea663111be4c1cc27d2bffd49,34.0627828,-118.1294977,Vaper Venue 2.0,501 W Garvey Ave #106 Monterey Park CA 91754 USA,vaper
-6029eb1292438ade210afd7edee203f46f1c516a,34.1009175,-118.1125712,Arowana Vaper,849 Padilla St San Gabriel CA 91776 USA,vaper
-324acf311955447e0e659092b2a1c19836b5ae75,34.04559,-117.849716,Vapor Junkies,1321 N Grand Ave Walnut CA 91789 USA,vaper
-0efc736959c5364de3ac1a94ed690aa8d77c4a8c,32.8348584,-117.1888175,Vapin' The 619,4730 Clairemont Mesa Blvd San Diego CA 92117 USA,vapin
-ba45b9fa6fb534e33bc50b5fd266923a855538e6,33.9254817,-117.9299346,BZ Vapin Vape Shop,1403 E Lambert Rd La Habra CA 90631 USA,vapin
-b42c9c8beae203b224484f3b401bd2842e76e3ae,32.8203567,-116.9615742,Vapin the 619,1571 Magnolia Ave El Cajon CA 92020 USA,vapin
-e4dcbc59df66a983c6fabcacc4b20873d66be836,34.163095,-118.3279132,Elevated Vaping,2227 W Olive Ave Burbank CA 91506 USA,vaping
-6b665f112512a2ae9681ac8a14cd191fbff552e2,40.415152,-120.6503782,Lassen Vape,1604 Main St Susanville CA 96130 USA,vaping
-a4a6be1f6881c234b0f25f538ede549355283530,39.3926902,-123.3472329,Dabworks LLC,1611 S Main St a Willits CA 95490 USA,vaping
-887485076f0f0cdcff33bf5fb9700e81089d8471,38.7432426,-121.2568058,3 Monkeys Smoke Shop,1850 Douglas Blvd Roseville CA 95661 USA,vaping
-fc8ee0c1a08f0d72fc05f1ffabbe5db78b688a67,38.9168454,-119.9986101,Heads Up,2176 Lake Tahoe Blvd South Lake Tahoe CA 96150 USA,vaping
-6a7aa24f3730f57609a41f63ef9ee4fa3a1daf45,37.6139449,-122.405417,Millbrae Vape,1703 El Camino Real Millbrae CA 94030 USA,vaping
-311f4ece762eac0eef954296a865bcd34779b18d,38.104532,-122.237964,We know smoke And vape,522 Tuolumne St Vallejo CA 94590 USA,vaping
-f7a839b5ecf63637f778193acfd68f5a668c5e84,36.3244334,-119.2610111,Visalia Smoke Shop,645 Lovers lane Visalia CA 93292 USA,vaping
-4269e62cf98d06ef119a8a018e20b29378d61ecf,36.296498,-119.333245,Cigarette Depot,3837 W Caldwell Ave E Visalia CA 93277 USA,vaping
-c06a59b3f0bd56e5033f34152b01d9145bf8661e,33.9428429,-118.1948907,Casa De Vape,4386 Tweedy Blvd South Gate CA 90280 USA,vaping
-311a4727a8484f71e0cf331e8d24e2ad2b43be5b,33.819502,-117.9406416,Vaping American Made Products,910 Euclid St Anaheim CA 92802 USA,vaping
-160a38eb06709bbee9a50f07b54fcb7b0e758896,35.3748923,-119.1060544,Dabber Box,1759 Elzworth St ste 7 Bakersfield CA 93312 USA,vaping
-9b65050dd185663e6c371aed3eb6376f8970f284,34.3771777,-118.5674303,SCV Vape,25269 The Old Rd Stevenson Ranch CA 91381 USA,vaping
-4e12f4aaabd789f276f127f04741787aea6088e6,34.4161544,-118.4750566,Vaping District,19443 Soledad Canyon Rd #103 Santa Clarita CA 91351 USA,vaping
-0e862102bac736d5cb66d7b16426db20a6681852,34.2218842,-118.4283493,Xplicit Vape - Panorama City,13545 Roscoe Blvd Panorama City CA 91402 USA,vaping
-37f978323b9efbb0af5c95bb63fa74a47c5a8e30,34.102656,-118.2922608,V For Vape.,1727 N Vermont Ave #210 Los Angeles CA 90027 USA,vaping
-38d1d91eadedea734eb0a80444ee45a4a343635a,33.8321131,-118.0389903,Vape Escape,5363 Lincoln Ave Cypress CA 90630 USA,vaping
-29c12512e4c4cc333fbea7b9ae5ee8f03c3303c8,34.0737453,-118.3095017,The Vape Shop,125 N Western Ave #104 Los Angeles CA 90004 USA,vaping
-96c2b5e407014cd87960a846bbed97b097fa052b,33.7079237,-117.7793826,Vape & Co.,4200 Trabuco Rd #105 Irvine CA 92620 USA,vaping
-01e25a81c45ac61bd520f7cffed22aa5f1d68dce,33.830723,-118.2898413,The Vape Empire,21720 S Vermont Ave #107 Torrance CA 90502 USA,vaping
-002c61ce487d79589adc60a1bf5d0dd2c2f584d5,33.8291112,-118.0288717,Vape Couture,9171 Valley View St Cypress CA 90630 USA,vaping
-0c7097eb20bb5b6bbb37fa2d88a4a6cf40e457e7,33.9178073,-117.9174434,FA Vaping Vape Shop,1219 W Imperial Hwy #103 Brea CA 92821 USA,vaping
-dba6c534516ffcfa3ff49449e99e3fa44f466ae2,33.9107878,-117.8892204,Vape Headquarters,391 S State College Blvd Brea CA 92821 USA,vaping
-3bafe0250b743a7c5e29a5c94bd9b3799be9d698,33.685002,-117.36563,Bubbles Smoke & Vape,30850 Riverside Dr Lake Elsinore CA 92530 USA,vaping
-dff0ac78de2496a29f5bc8686e33e0a77a7f2532,33.6934928,-117.3349137,Vapeway Vape Shop,29280 Central Ave Suite E Lake Elsinore CA 92532 USA,vaping
-fb4d724c9b006444021ddd1ac57d3c4dac75a2a8,33.884503,-117.225254,Perris Vape,25045 Red Maple Ln #203 Moreno Valley CA 92551 USA,vaping
-498d780717c98f1b692867f9666bbcf7a8c2f9bd,33.459113,-117.6530219,San Clemente Vape & Cigars,620 Camino De Los Mares e San Clemente CA 92673 USA,vaping
-12ca49e0a41b378e801d2238254ef3804d5de60a,33.6220358,-117.7248908,Kingdom Elixir,23182 Alcalde Dr f Laguna Hills CA 92653 USA,vaping
-ef81b42b888552daaf40a73e63a80c505bb665ca,33.1737568,-117.3613608,The Vape Ministry,1837A S Coast Hwy Oceanside CA 92054 USA,vaping
-d71c60e343d90d7a0e0a13bfdd93ff78c8da4833,32.6932489,-117.1261936,The Vape Corner,3158 Main St San Diego CA 92113 USA,vaping
-426aeb167131c6564de2108fcc2bf45a10ebab07,33.1559057,-117.1294305,Vape House Electronic Cigarette,979 Woodland Pkwy San Marcos CA 92069 USA,vaping
-742424395f10ee64968b292be3cef7decbf906b8,38.0067591,-121.8421169,Voltage Smoke Shop & Gifts | Electronic Cigarettes Store,4235 Century Blvd Pittsburg CA 94565 USA,electronic+cigarette
-93bddd3ed6160f6685c447f52bc1633152aabcd1,38.0105353,-122.0447831,Apollo Future Technology,4085 Nelson Ave I Concord CA 94520 USA,electronic+cigarette
-b74088e6dc71e40305c08ee52747d7d650c86408,37.6341175,-122.1108775,Best Choice Electronic Cigarettes | e-Cigarettes,26250 Industrial Blvd Hayward CA 94545 USA,electronic+cigarette
-03e30c2a3ee108ccf6366fa54179040d6151fda6,40.597787,-124.155734,Top Digital Cigs - The Electronic Cigarette Super Store,1049 Main St Fortuna CA 95540 USA,electronic+cigarette
-114d91c178a9cf6007168e418edc3b33e28bcbd9,34.1569493,-118.7987953,The eCiggy Electronic Cigarettes,5740 Corsa Ave #102 Westlake Village CA 91362 USA,electronic+cigarette
-c90a293e00eabc7e7004ab685b6d51481101c6aa,34.0315151,-118.446375,Vape Place 100% VG Natural E-liquid Vape Shop and Electronic Cigarette Store,11725 W Pico Blvd Los Angeles CA 90064 USA,electronic+cigarette
-a7c097cb92ade5661a6080ed17d7fb909f03015d,34.1979771,-118.4922144,T T Zig Electronic Cigarette,7020 Hayvenhurst Ave Van Nuys CA 91406 USA,electronic+cigarette
-abc1ea51675a2d8d078dbd0c96ce101258dafe61,34.0484048,-118.4433859,CITIZEN ELECTRONIC CIGARETTE,11041 California State Route 2 #707 Los Angeles CA 90025 USA,electronic+cigarette
-43698d99932f1789d32314a091f01058d6628763,34.06037,-118.397694,Ophis Vape, Electronic Cigarette Wholesaler,350 S Reeves Dr #203 Beverly Hills CA 90212 USA,electronic+cigarette
-29e2390288c5e3bc665223a384696c1015601bc0,34.0376406,-118.2341354,Ttzig Electronic Cigarette Spl,1340 E 6th St Los Angeles CA 90021 USA,electronic+cigarette
-7e5b77acf1a6a1d8e83fbe834b72f585c5cd444b,38.769205,-121.3318602,Tobacco 4 Ever,4021 Woodcreek Oaks Blvd #140 Roseville CA 95747 USA,electronic+cigarette
-3fd485f3bacec032775c5974eab4a3009856ef96,37.7701592,-122.4474999,Ashbury Tobacco Center,1524 Haight St San Francisco CA 94117 USA,electronic+cigarette
-236a32a66436bdace4233b91cb7d56e24acbb394,33.8821994,-117.599305,SimpleCig Electronic Cigarette,1785 Pomona Rd b Corona CA 92880 USA,electronic+cigarette
-2cfac84d8dc7d40cb3319df16ae63b4435df98ee,33.765703,-118.1591516,Match Free Electronic Cigarettes,2769 E Broadway Long Beach CA 90803 USA,electronic+cigarette
-181ea5480f5c8105ffd51f3270c7b21308b2d648,33.758867,-118.13231,My Best E-Cigarette Reviews,5318 E 2nd St #352 Long Beach CA 90803 USA,electronic+cigarette
-3d9f6243eeeb4f7c4b7afb3706e0232c1911a72a,33.9651129,-118.0700062,Sam's Smoke & Vape Store - Electronic Cigarettes,11515 Slauson Ave Whittier CA 90606 USA,electronic+cigarette
-2e41857950676a83779a4281f79c425790a3a321,33.8730686,-118.3618074,Vape Place E-liquid vape shop,2705 Artesia Blvd Redondo Beach CA 90278 USA,electronic+cigarette
-566491f3abdc0d89fe60479c0d80fb43059dfcac,34.2712796,-118.7032445,Vaporizer Merchant Accounts,4680 E Los Angeles Ave Simi Valley CA 93063 USA,electronic+cigarette
-95dcc39f220e2a62461412a0cfee2e8b39ef642a,33.6817597,-117.8867235,VaP Vaporizers - Electronic Vape Shop,3033 Bristol St Costa Mesa CA 92626 USA,electronic+cigarette
-fc834df646fde80b189d6def061537654c587fea,33.9166899,-117.2423359,Planet Of The Vapes,24021 Alessandro Blvd Suite 123A Moreno Valley CA 92553 USA,electronic+cigarette
-7f731dd0d4f395bc4aef0a1c4e9112d8d323cfa7,33.9435304,-117.2259957,Supreme Gallery Smoke & Vape Inc,12190 Perris Blvd Suite I - J Moreno Valley CA 92557 United States,electronic+cigarette
-27e3321fb5d03d14d1c406fa7ba4b90f9d58ebf2,33.5133274,-117.1609287,Smokeless Selects Electronic Cigarettes and Cigars,27576 Commerce Center Dr Temecula CA 92590 USA,electronic+cigarette
-290b6d0c4600a7806473e5e7782492dd490b9849,32.8383441,-116.9989452,United Vapes,9157 Mission Gorge Rd Santee CA 92071 USA,electronic+cigarette
-c95ca543dcc699bf0c70b7656d9604123f4c10e7,32.8322658,-117.1498924,Vape58,8055 Clairemont Mesa Blvd #108 San Diego CA 92111 USA,electronic+cigarette
-920d98d0d9d356c1b78122a028855ea4effb60fa,32.76857,-117.1488531,Fresh Vapes,1640 Camino Del Rio N San Diego CA 92108 USA,electronic+cigarette
+ChIJ2ZXz2xtm0FQRgeg37d6jGLM,41.770273,-124.1996319,High Tide Vapes,1329 Northcrest Dr Crescent City CA 95531 USA,ecig
+ChIJHUGwFAZKhIARX8w83aZZuRc,38.3550512,-122.7139029,E-CIG 101,5665 Redwood Dr Rohnert Park CA 94928 USA,ecig
+ChIJJetGzz6u3IAR8gRkWTN1GV4,33.9754872,-117.3420561,E-Cig City 4,1400 University Ave #107 Riverside CA 92507 USA,ecig
+ChIJxYxSRd_o3IARdX01tVcwd2I,33.6024819,-117.69214,E-Cig Gallery,24781 Alicia Pkwy Suite D Laguna Hills CA 92653 USA,ecig
+ChIJnwlTQPPe3IARnKWq_gaqWIs,33.676153,-117.855475,ECig Emporium,2222 Michelson Dr #238 Irvine CA 92612 USA,ecig
+ChIJHaxPyOkm3YARt23Khv2hQNg,33.700971,-117.9868531,VaporDNA,8162 Talbert Ave Huntington Beach CA 92646 USA,ecig
+ChIJEym7GH3-2oAR4JjicE4IyCQ,33.7216466,-116.3754667,E-Cig City Palm Desert,73910 CA-111 Unit L Palm Desert CA 92260 USA,ecig
+ChIJs1rI8xQxw4ARsAmM9tE0ywk,34.108583,-117.671241,E-Cig City Upland,3681 1229 W Foothill Blvd Upland CA 91786 United States,ecig
+ChIJExeU95NW2YARsUbQ12f72z8,32.764384,-117.06092,E Cig Creations - Vape Shop San Diego,6375 El Cajon Blvd Ste C San Diego CA 92115 USA,ecig
+ChIJW7EPKARX0VQR-XIQ22tYNi4,40.857374,-124.0720431,Ω Divine Tribe Ω,56 Sunnybrae Center Arcata CA 95521 USA,ecig
+ChIJ-RmsgmRV0VQR1o_11IVLOr0,40.801839,-124.166724,Humboldt Vape Co.,413 5th St Eureka CA 95501 USA,ecig
+ChIJORu3oQ9X0VQRsyKu3rMzjmw,40.8690513,-124.0864714,BigFish Vapor Lab,774 9th St Arcata CA 95521 USA,ecig
+ChIJ6-8RIflkgYAR--0b7eWj7Kw,39.1458965,-123.2070495,Build A Ecig,534 S State St Ukiah CA 95482 USA,ecig
+ChIJe6b8ZveZhYARlMuQyE2T-aY,37.9711101,-122.5254701,VIP San Rafael- Smoke Shop & E-cig Center,826 2nd St b San Rafael CA 94901 USA,ecig
+ChIJd9MlRYAng4ARdnU9fn173bM,39.7509623,-121.8541811,Netvapes®,169 Cohasset Rd #7 Chico CA 95926 USA,ecig
+ChIJ93ryY2jB0lQRkxamzB1jNuw,40.4501,-122.29299,Big City Vapor,2303 #B Balls Ferry Rd. Anderson CA 96007 United States,ecig
+ChIJx6wc2EwGhYAR5mMR5QJTMGQ,38.2877861,-122.3100226,E-Cig 101 Napa,2762 Old Sonoma Rd Napa CA 94558 USA,ecig
+ChIJoS81Vng4hIAR3QiAzYy5mD4,38.4672759,-122.720403,Digital Ciggz - Mendocino Avenue,2750 Mendocino Ave Santa Rosa CA 95403 USA,ecig
+ChIJH4nOsko4hIARq-QJPICqcLg,38.4454812,-122.7185488,Digital Ciggz - College Avenue,450 College Ave Santa Rosa CA 95401 USA,ecig
+ChIJSTpp7P1HhIARyX8UffZ56z4,38.440426,-122.7111672,Smoke & Mirrors Vapor Lounge,730 3rd St Santa Rosa CA 95404 USA,ecig
+ChIJD_4ZWm1KhIARKJM9-vkR17Q,38.345973,-122.707474,Vanquish Vapes,190 Raley's Town Centre Rohnert Park CA 94928 USA,ecig
+ChIJD9zeOtdJhIARp_18R_qgaeY,38.3935014,-122.7132536,Dabs Smoke Shop,3444 Santa Rosa Ave Santa Rosa CA 95407 USA,ecig
+ChIJwWRao51XhYARtGbYNF6GQxU,37.9989687,-121.7956678,Volcano Fine Electronic Cigarettes,401 Sunset Dr Antioch CA 94509 USA,ecig
+ChIJ7wfQ6qishIARnkypTdND9FY,39.1420106,-121.6382323,Netvapes®,1421 Colusa Hwy Yuba City CA 95993 USA,ecig
+ChIJ0yXI7hbkmoAR149LhoQIAm8,38.6695781,-121.1559649,Smokeless Smoking Vapor Lounge,1001 E Bidwell St Suite 102 Folsom CA 95630 USA,ecig
+ChIJc8Zpvxofm4ARADTihWhP3KQ,38.788765,-121.22834,Vapor 93,4253 Rocklin Rd Rocklin CA 95677 USA,ecig
+ChIJn3sfByfY3IARdrt-RJ3x_vM,33.7826536,-117.8928461,Ecig n Vapes,20 City Blvd W Orange CA 92868 USA,ecig
+ChIJ7c5q28aPmYARD3Occi9Fa6w,38.919967,-119.993662,Tahoe Big Cloudz,2318 Lake Tahoe Blvd South Lake Tahoe CA 96150 USA,ecig
+ChIJYaJAh3aQmYAR9t_7LcLsKn8,38.9559458,-119.944709,Tahoe Big Cloudz #2,4035 Lake Tahoe Blvd South Lake Tahoe CA 96150 USA,ecig
+ChIJKZGEteKZhYARuS7VmiWZOb4,37.97397,-122.535865,Digital Ciggz - San Rafael,1560 4th St San Rafael CA 94901 USA,ecig
+ChIJM9DQ2haHhYARXa-nfxXm3l4,37.780882,-122.474169,Vapurr Labs Express e-cig and e-liquid,5100 Geary Blvd San Francisco CA 94118 USA,ecig
+ChIJD1jVJ46AhYARrQCmzjLUBUs,37.7866951,-122.412657,Gone With The Smoke,569 Geary Blvd San Francisco CA 94102 USA,ecig
+ChIJ-24WSBKHhYARqzj9t0CTGrY,37.7764922,-122.4784859,Vapurr Labs Express e-cig and e-liquid,1821 Balboa St San Francisco CA 94121 USA,ecig
+ChIJmfOMuwm0hYAR5iFCEkWzP98,38.2499079,-122.6291653,Smoke Depot Smoke Shop,231 N McDowell Blvd Petaluma CA 94954 USA,ecig
+ChIJD3kmNvGAhYAR_ZD6936i-IU,37.7539894,-122.4139662,Vapory Shop,2707 Folsom St San Francisco CA 94110 USA,ecig
+ChIJ8966tduAhYARh7cMIAPOeeo,37.8001008,-122.4323649,Frisco Vapor - Electronic Cigarette Store,1881 Lombard St San Francisco CA 94123 USA,ecig
+ChIJLz3Kw6TOj4ARrZQ4BrjFfuo,37.4067369,-121.8864169,E-Cig City 8,2068 N Capitol Ave San Jose CA 95132 USA,ecig
+ChIJy4eIqo6AhYAR58yORBiPajw,37.7899707,-122.4073318,Vapor Smoke Shop,435 Stockton St San Francisco CA 94108 USA,ecig
+ChIJgxr3-1lihYARK8vfYZojff8,38.0104962,-122.0447804,Apollo E-Cigarettes,4085 Nelson Ave G Concord CA 94520 USA,ecig
+ChIJBSaMp8mVj4ARZqFDKB4kDYA,37.6065758,-122.0638477,Cool Vape,2472 Whipple Rd #3 Hayward CA 94544 USA,ecig
+ChIJO6QeAhTnj4ARCawC_23WmhE,37.6936214,-121.7474651,Royale Vapor,4177 First St Livermore CA 94551 USA,ecig
+ChIJj-cRI-eGj4ARPvPDKjMAGo8,37.783164,-122.2409861,Tasty Vapor,1017 22nd Ave #110 Oakland CA 94619 USA,ecig
+ChIJbe9Ybd4GhYARXCrkfvBvKlQ,38.3203352,-122.3071781,Vape The Grape,3371 Old California Way Napa CA 94558 USA,ecig
+ChIJpUns8Puej4ARJ6F055lrWy8,37.5453041,-122.3044063,The Vapor Cave,116 E 25th Ave San Mateo CA 94403 USA,ecig
+ChIJc1l_hqyjj4ARvpkzYIxJ0pw,37.4877732,-122.2374516,It Is Vapor,650 El Camino Real F Redwood City CA 94063 USA,ecig
+ChIJm9x1atd5j4ARzDa-geWGOh4,37.6254986,-122.4114666,Vapory Shop,559 San Mateo Ave San Bruno CA 94066 USA,ecig
+ChIJb2a8QCHMj4ARdVWUjjFup7I,37.39794,-121.874477,Cool Vape,1699 N Capitol Ave Suite 50 San Jose CA 95132 USA,ecig
+ChIJazQhEr_yj4ARtNwxQBrVyas,37.77287,-121.973787,Nexus Vapor Vape Bar,2550 San Ramon Valley Boulevard J San Ramon CA 94583 United States,ecig
+ChIJu3mctz4GhYARMsxXWKBM0qA,38.282246,-122.2930917,Cal Ecigs,1700 W Imola Ave Napa CA 94559 USA,ecig
+ChIJO_9iT5NWkIARYE6tPa2lgCQ,37.6516595,-120.9936562,Switch To Vapor,518 McHenry Ave Modesto CA 95354 USA,ecig
+ChIJdSfYUHLPkIARrkYLH80rbCw,37.9764178,-120.324084,Frosted Vapors,14673 Mono Way Sonora CA 95370 USA,ecig
+ChIJvT7UcmwVjoARKV6ap2UUWuw,36.9735633,-121.9637261,Beyond Vape,4150 Capitola Rd Suite Q Capitola CA 95010 USA,ecig
+ChIJAXX2_ydAjoARrhRD5wWGk90,36.970355,-122.026852,Green Vapors,411 Cedar St Santa Cruz CA 95060 USA,ecig
+ChIJCYHS4h9-j4ARL9zn5k4LBbk,37.770355,-122.4248668,Vapor Den SF,16 Guerrero St San Francisco CA 94103 USA,ecig
+ChIJpTxWAv9CkYARI4kY6sO8PRo,37.302151,-120.485261,The Vapors Merced,615 W Main St Merced CA 95340 USA,ecig
+ChIJs5SPtge46oAR5ReeAd2l9GQ,36.0772302,-119.0434969,E-Cig Room,600 N Prospect St Porterville CA 93257 USA,ecig
+ChIJz_pYL5Du3IARVkeRCRdrTQA,33.563882,-117.6574738,E-Cig City Mission Viejo,27500 Marguerite Pkwy #2 Mission Viejo CA 92692 USA,ecig
+ChIJeZZPYFB13IARH5xMd8PPahs,33.1354157,-117.1821653,Cloud 9 E-Cig,813 W San Marcos Blvd San Marcos CA 92078 USA,ecig
+ChIJRVALg53024ARM4UBtw1XT58,33.1226995,-117.0800283,Cloud 9 E-Cig,200 E Grand Ave Escondido CA 92025 USA,ecig
+ChIJ93oIcnlclIARTqbWjKl3YSw,36.8125171,-119.7005574,Fresno Vapor (Clovis Location),1526 Clovis Ave Clovis CA 93612 USA,ecig
+ChIJW76VMkJdlIARQdxgq2-H7_k,36.8221548,-119.7736144,Fresno City Vapor,6203 5769 N First St Fresno CA 93710 United States,ecig
+ChIJV9xo9-ZnlIARs0KYbknIKqw,36.8223671,-119.8092431,Elite Vapor Shop,5771 N Palm Ave Fresno CA 93704 USA,ecig
+ChIJZZjc1_Y0joARUjMdiU4d89c,37.2731222,-121.9321672,Atomic eCigs,2686 Union Ave San Jose CA 95124 USA,ecig
+ChIJYUo0yYPDlIARNwHJ7M3vEog,36.3250935,-119.6530074,Vape Culture,523 W 7th St Hanford CA 93230 USA,ecig
+ChIJdbgCuv3OwoAR7nDtXKFUw9w,34.003189,-118.166763,E-Cig City Commerce,5211 E Washington Blvd #10 Commerce CA 90040 USA,ecig
+ChIJ0wgQ4jgTwYAR97W79Z1rYSM,35.649452,-117.670426,Ridgecrest Vapors,1545 N China Lake Blvd Ridgecrest CA 93555 USA,ecig
+ChIJG1Xqi60pw4ARvODPt-CiphU,34.0699489,-117.8894612,myVapors Vape and E- Cig,196 S Citrus St West Covina CA 91791 USA,ecig
+ChIJQeL8vchswYARJ_QA5hfJacY,35.6256851,-117.6713901,KCW Vapors,257 Balsam St Ridgecrest CA 93555 USA,ecig
+ChIJHZyWXodr7IARr0USnRuThec,34.9566687,-120.4360568,Cal State Vape,401 N Broadway C Santa Maria CA 93454 USA,ecig
+ChIJcUDzW2NA6YARH0xmTiPp0Vg,34.4425623,-119.8300596,Santa Barbara Vapor,160 N Fairview Ave Suite 1 Goleta CA 93117 USA,ecig
+ChIJxYj0KS5A6oAR5oI-pPm5JlY,35.314487,-119.0571273,Infinite Vapes in Bakersfield, Ca,4501 Stine Rd #102 Bakersfield CA 93313 USA,ecig
+ChIJ4e9liYZE6oARXKwZxMp5g1E,35.382282,-119.14754,Smoker's Alley,13075 Rosedale Hwy A Bakersfield CA 93314 USA,ecig
+ChIJOwDFpjF-24ARzcey7aiTZfk,33.51351,-117.15968,Jay's Vapors E Cig Supply (Electronic Cigarette Retail Store),27713 Jefferson Ave #102 Temecula CA 92590 USA,ecig
+ChIJI1PJ7VlawoAR0YLd1USUzZ8,34.6600306,-118.1462056,ENDLESS VAPORS,818 W Ave L Lancaster CA 93534 USA,ecig
+ChIJdRAN6EhawoARfWkseTblTJs,34.6809216,-118.1568714,AV VAPES,43925 15th St W Lancaster CA 93534 USA,ecig
+ChIJQzjnyT9mw4ARLOm6xnY8F_U,34.4724278,-117.3403233,Ecig stop,14845 Monarch Blvd Victorville CA 92395 USA,ecig
+ChIJI1NITdrVwoARV3MSGOSxY9A,34.0084895,-117.9567918,E-Cig City 5,16042 Gale Ave Hacienda Heights CA 91745 USA,ecig
+ChIJFy814bdawoARimB8li-MdzM,34.6987477,-118.1353376,Mr.Vape,403 W Lancaster Blvd Lancaster CA 93536 USA,ecig
+ChIJUUB5Abd8xIAR3Ve7-mOy5Ow,34.888423,-116.996866,Vape Naked,1870-1869 E Main St Barstow CA 92311 USA,ecig
+ChIJBxCN2Xlkw4ARje-p8sPJoFQ,34.5421357,-117.2713443,The Broke Smoker Vape Shop,16025 Kamana Rd #101 Apple Valley CA 92307 USA,ecig
+ChIJXVkbCHdkw4ARQXGDx0d8NpY,34.5397018,-117.2713394,Apple Valley Vapor,17993 California 18 #3 Apple Valley CA 92307 United States,ecig
+ChIJyQyEXpJjw4ARCYt0Jbt7qR8,34.53865,-117.254482,Vaper Rizing,18768 US Highway 18 #165 Apple Valley CA 92307 United States,ecig
+ChIJfdHNPJNjw4ARJD4BWxhd29c,34.5370907,-117.2529202,Smokin Out Vapor, Glass, & More,18835 CA-18 Apple Valley CA 92307 USA,ecig
+ChIJDdKIgSu7woARg_hNBgOTQcA,34.0127915,-118.4832906,Vapor Delight - Vape & Glass Smoke Accessories,1855 Lincoln Blvd Santa Monica CA 90404 USA,ecig
+ChIJbdehOcm6woARAy2fEavwW3k,33.9929147,-118.4787717,Venice Smoke Free Life,517 Ocean Front Walk #3 Venice CA 90291 USA,ecig
+ChIJc03xsI66woAR2QO_j8UL_hM,33.990856,-118.446326,Venice Vapor Lab / Electronic Cigarettes,13464 W Washington Blvd Marina Del Rey CA 90292 USA,ecig
+ChIJDyOyh0u5woARU4IKMl0PuBU,34.0730069,-118.3755295,Vapor Delight - Vape & Glass Smoke Accessories,8474 W 3rd St Los Angeles CA 90048 USA,ecig
+ChIJwzVCl6K7woARErBhUbWI8eU,34.0411842,-118.4297377,CIGAVETTE,2355 Westwood Blvd Los Angeles CA 90064 USA,ecig
+ChIJgdbj5c7HwoARGDvZq6Lx7CY,34.0372807,-118.2586954,Downtown Vape,117 E 12th St Los Angeles CA 90015 USA,ecig
+ChIJn2Pn0qw36IARPwmMIuMyxtw,34.2010702,-119.007666,Vapage Premium Vaping & E-Cigarette Outfitters,750 Calle Plano Camarillo CA 93012 USA,ecig
+ChIJf8kRuhO-woARjCDbrNrSbo4,34.1404837,-118.3774487,Vaporcade,11271 Ventura Blvd #176 Studio City CA 91604 USA,ecig
+ChIJt-40wMQt3YARRzaMvvqFh1U,33.8323871,-118.0812874,E-Cig City 2,11811 E Carson St Hawaiian Gardens CA 90716 USA,ecig
+ChIJy_ERbkMk6IARD5CdiWqEgCM,34.1569493,-118.7987953,The eCiggy Electronic Cigarettes,5740 Corsa Ave #102 Westlake Village CA 91362 USA,ecig
+ChIJ28X9Ljrv3IAR-xSaxlthVqI,33.5699189,-117.7068152,E-Cig Vault Vape Shop and Lounge Aliso Viejo,27058 La Paz Rd Aliso Viejo CA 92656 USA,ecig
+ChIJn3ksj9Do3IARsqEhb16erUA,33.5932455,-117.6986937,E-Cig Hub,25401 Alicia Pkwy K Laguna Hills CA 92653 USA,ecig
+ChIJyem49ZvGwoARvN0l5hjXQlU,34.0901888,-118.2121021,Vapeology LA,3714 N Figueroa St Los Angeles CA 90065 USA,ecig
+ChIJiYsE_PHo3IARJL-6E6oRpkI,33.613792,-117.7078317,Clean Smoke Electronic Cigarettes,24012 Avenida De La Carlota Laguna Hills CA 92653 USA,ecig
+ChIJkaLgl77W3IAR4_kRepd10KM,33.861451,-117.850203,GANJA JUICE,1313 North Miller Street D Anaheim CA 92806 United States,ecig
+ChIJ5-RrZ4gp3YARtB7nXuPLews,33.8487754,-117.9587699,Vapor Bombz,1142 N Brookhurst St Anaheim CA 92801 USA,ecig
+ChIJ9arfbfLf3IARjQs6P0k-46w,33.63222,-117.914887,Flawless Vape Shop,333 E 17th St #21a Costa Mesa CA 92627 USA,ecig
+ChIJ1xvA9Rjf3IARFR7L7PzfyhU,33.68176,-117.886724,Flawless Vape Shop,3033 Bristol St Costa Mesa CA 92626 USA,ecig
+ChIJVVEjbwLR3IARkD1Cg_jDY9E,33.8520664,-117.7926756,Flawless Vape Shop,5589 E Santa Ana Canyon Rd Anaheim CA 92807 USA,ecig
+ChIJc0arVHQ2w4ARUzwT0YmsGgU,34.1107684,-117.5770337,Flawless Vape Shop,7890 Haven Ave #13a Rancho Cucamonga CA 91703 USA,ecig
+ChIJ7Rqlk4_GwoARCio_GtSoqGQ,34.0829834,-118.2185429,The Drip Club,2664 Lacy St b Los Angeles CA 90031 USA,ecig
+ChIJb15vcH7NwoARCRBR-zd46-Y,33.9313981,-118.1145081,Beyond Vape,9455 Firestone Blvd Downey CA 90241 USA,ecig
+ChIJbaaWJcM0w4ARyHVpZmNuedw,34.036221,-117.609083,RUTHLESS VAPOR,2040 S Lynx Pl Ontario CA 91761 USA,ecig
+ChIJWTYGI2_03IARMhnJrDDB5mY,33.4258289,-117.6106224,San Clemente Vape Lounge,401 S El Camino Real g San Clemente CA 92672 USA,ecig
+ChIJaf1z3Wco3YARCsBCymXpcQI,33.78735,-117.960642,Huff and Puffers,12105 Brookhurst St Suite E Garden Grove CA 92840 USA,ecig
+ChIJ9__i3WEqw4AR5pr3wc3BHMI,33.9877748,-117.9064144,Clearmist Vape & E Cig,1729 Fullerton Rd Rowland Heights CA 91748 USA,ecig
+ChIJu4KYemTx3IARF624nRNZzXM,33.4583503,-117.6500213,Vape Oasis,120 647 Camino De Los Mares San Clemente CA 92673 United States,ecig
+ChIJrbvvUlDw3IAR6FoQ8mAtC5o,33.498778,-117.66229,Dana Vape,B2 31952 Camino Capistrano San Juan Capistrano CA 92675 United States,ecig
+ChIJc9wC_vu0woARapiOiuEn__M,33.8719995,-118.3511012,Cloudscape Vape,17494 Hawthorne Blvd Torrance CA 90504 USA,ecig
+ChIJkZsY6DjFwoARNSpi5YHi9gc,34.0779367,-118.1284769,Activape Alhambra,500 W Valley Blvd Alhambra CA 91803 USA,ecig
+ChIJAbpyfvbI3IARVFuV-X6TPuo,33.8821994,-117.599305,SimpleCig Electronic Cigarette,1785 Pomona Rd b Corona CA 92880 USA,ecig
+ChIJZ5c9VDc50YAR97-bqDJi-Ec,33.6113796,-114.5892895,Vape it Forward,601 E Hobsonway Blythe CA 92225 USA,ecig
+ChIJcwyGYGz03IAR0V97i4XU5Cg,33.4245266,-117.6168413,Vix Vapes,239 Avenida Del Mar San Clemente CA 92672 USA,ecig
+ChIJ-0BT2Q9y3IAREeBhT6hV8BE,33.1598468,-117.3452584,Mix Vapes,3060 Roosevelt St Carlsbad CA 92008 USA,ecig
+ChIJzVSo7Vvw3IAR1fSUfmFZroA,33.4647445,-117.7071313,South County Vapors Dana Point,34085 Pacific Coast Hwy #102 Dana Point CA 92629 USA,ecig
+ChIJJ81AS_p03IARW8Ulyp_lW8Q,33.1507506,-117.229466,Vape Craft Inc,2322 La Mirada Dr Vista CA 92083 USA,ecig
+ChIJLywwE6Di24ARTC8851pFwaQ,32.8453891,-116.9631394,Imperial Smoke,10870 Hartley Rd B Santee CA 92071 USA,ecig
+ChIJezSzucFV2YARFnSQofBpUZo,32.790393,-117.099175,Vapor Invasion,10433 Friars Rd Ste F San Diego CA 92120 USA,ecig
+ChIJAS5QNFj924AROcPg_x1cNMI,32.7244236,-117.2290896,Eliminator Vapes,1337 Rosecrans St San Diego CA 92106 USA,ecig
+ChIJYf3XkdZN2YARfP_x88aULxY,32.6134493,-117.0830988,Mr. Vapor,1010 Broadway Chula Vista CA 91911 USA,ecig
+ChIJ0X1MjKdU2YAResIbdxntZYs,32.7154859,-117.1599835,Vape King - San Diego,989 Fifth Ave San Diego CA 92101 USA,ecig
+ChIJvSjvw4H024AR2o2nGWgACKg,33.1128569,-117.0805212,The Vape Lounge,360 W 9th Ave Escondido CA 92025 USA,ecig
+ChIJTbl2aLPi24ARChdkMV4eINQ,32.774983,-117.026653,Sun Vapers,5263 Baltimore Dr La Mesa CA 91942 USA,ecig
+ChIJa_WIwBdmw4ARnC9m5vh3CLI,34.473356,-117.348231,E Cigarette,14400 Bear Valley Rd Victorville CA 92392 USA,ecigarette
+ChIJaXa4PySWnYARjlfKkemre0M,40.415152,-120.6503782,Lassen Vape,1604 Main St Susanville CA 96130 USA,ecigarette
+ChIJTciIMGDRmoARD40B56w5lEg,38.5514695,-121.535881,Cloud 9,2050 Town Center Plz #B150 West Sacramento CA 95691 United States,ecigarette
+ChIJCeVffeQpm4ARoBXqXOusg60,38.6573557,-121.5226697,Cloud 9,2721 Del Paso Rd Sacramento CA 95835 USA,ecigarette
+ChIJF6yWectxm4ARC2tu0eTF3vY,39.202593,-121.061572,Gold Country Vapor,760 S Auburn St Grass Valley CA 95945 USA,ecigarette
+ChIJDzjGpz5wm4ARC-EYXAs3VbU,39.219315,-121.061997,Millenium Smoke Shop,102 E Main St Grass Valley CA 95945 USA,ecigarette
+ChIJw-mJ2rXgmoAR8as0TQzRg-E,38.6638343,-121.2419921,The Bee Vape & Smoke Shop,8546 Madison Ave Fair Oaks CA 95628 USA,ecigarette
+ChIJ6UIQwechm4ARfZLJBtYh23E,38.7847062,-121.273055,3 Monkeys Vape and Smoke Shop,10000 Fairway Dr #130 Roseville CA 95678 USA,ecigarette
+ChIJo8Z91Qchm4ARwWdlnrTYlQ8,38.7622503,-121.3126397,3 Monkeys Smoke & Vape Shop,5140 Foothills Blvd #170 Roseville CA 95747 USA,ecigarette
+ChIJkQvF2hMQm4ARUnzF7THvRK0,38.9431406,-121.0979397,Auburn Vapor,3037 Grass Valley Hwy Auburn CA 95602 USA,ecigarette
+ChIJb8X3CdnemoARcrMmVf3daSU,38.6660996,-121.339948,Vape Bunker by Doomsday Gourmet,5320 Auburn Blvd Sacramento CA 95841 USA,ecigarette
+ChIJ8fvRuuDQmoARE1S1Da22tQ8,38.5675633,-121.4866052,NXNW Vapor,1809 S St #99 Sacramento CA 95811 USA,ecigarette
+ChIJOf9iZveZhYARjBE1jYK-KUo,37.971041,-122.5254193,VIP Vape Store,826 2nd St Suite B San Rafael CA 94901 USA,ecigarette
+ChIJMTL4JZdhhYARG80iU6ILILU,37.9066547,-122.0659795,To The Cloud Vapor Store,1990 N California Blvd Walnut Creek CA 94596 USA,ecigarette
+ChIJp012dnxmhYARoLwQNAA-bC4,38.0023113,-122.05199,EC Vape and Smoke,1776 Arnold Industrial Way #I Concord CA 94520 USA,ecigarette
+ChIJA4JYEz4NkIARpU90fHsq3LI,37.9840909,-121.2843629,209 Ziggy's Smoke Shop,1235 E Alpine Ave Stockton CA 95204 USA,ecigarette
+ChIJwfHxE6JXkIAR7ijO_M7WGa0,37.735702,-120.934858,Liquid E Fusion,3324 Santa Fe St Suite A Riverbank CA 95367 USA,ecigarette
+ChIJ_xmDp9HFkIARSLRxpDw8cpU,37.9844662,-120.3818288,Mountain Vapors,83 S Stewart St #206 Sonora CA 95370 USA,ecigarette
+ChIJ75cGXShdlIARqWrf8JhnB6E,36.8381529,-119.744937,Satyr Vapor,7018 N Maple Ave Fresno CA 93720 USA,ecigarette
+ChIJ6137J1lclIARWmIiuEtrdto,36.809319,-119.7252534,T.G.I.Vape,711 W Shaw Ave Clovis CA 93612 USA,ecigarette
+ChIJt_LCdf49voARKBaa3jVPk8M,37.3601989,-118.3950518,Grand Vapors,224 S Main St Bishop CA 93514 USA,ecigarette
+ChIJecSWA74vlYAR9DCFnx3PPVU,36.3263203,-119.2598386,Vape Savvy,534 S Lovers Ln Visalia CA 93292 USA,ecigarette
+ChIJ_8yTpn9s7IARh1wPzp9jchk,34.9533124,-120.4338721,Central City Vapors,205 E Main St Santa Maria CA 93454 USA,ecigarette
+ChIJMyraL99B6oARpFQAZa0kwyY,35.3385004,-119.0500285,Vape Zone,4113 Ming Ave Bakersfield CA 93309 USA,ecigarette
+ChIJcbWclz5q6oARJ4iOnynaaBk,35.3563257,-119.0192399,Vape Fame,145 Chester Ave Bakersfield CA 93301 USA,ecigarette
+ChIJaVWTKuWs6YARB5U69bk3roo,34.2809908,-119.2873686,Sam's Smoke Shop,881 E Main St Ventura CA 93001 USA,ecigarette
+ChIJCQrLcT2t6YARwD21CNljZz8,34.276047,-119.26469,Coil Oil,2350 E Main St #101 Ventura CA 93003 USA,ecigarette
+ChIJO28pF-n3wYARDQfr2hqw8I0,35.125011,-118.467222,Vaperizen,798 Tucker Rd Tehachapi CA 93561 USA,ecigarette
+ChIJp74lf13f3IAREfM76u_g44w,33.676565,-117.915962,Electronic E Cigarette Liquid,2855 Pinecreek Dr Costa Mesa CA 92626 USA,ecigarette
+ChIJS-J5-NfawoAR5SEscDmcHrw,34.1031316,-118.1005889,Vape Icon,113 W Las Tunas Dr #206 San Gabriel CA 91776 USA,ecigarette
+ChIJq6qqqq0pw4ARiBh-tkajCOo,34.0345838,-117.9368484,Vapebox,15940 Kaplan Ave City of Industry CA 91744 USA,ecigarette
+ChIJIYlWbXnY3IAR9K77Jmg2pvg,33.6987863,-117.9165702,Vapor Intelligent,3506 W Lake Center Dr Santa Ana CA 92704 USA,ecigarette
+ChIJhWRmSyw0w4ARfSucfKQF5t4,34.095364,-117.600611,Vapoorzon,9375 E 9th St Suit 201 Rancho Cucamonga CA 91730 USA,ecigarette
+ChIJwXXRdhYn3YARd8ZEn_cDauU,33.7135868,-117.9298248,Smoke and Vape,17197 Newhope St suite f Fountain Valley CA 92708 USA,ecigarette
+ChIJvybJlcjZ3IARqu4ujDg1F0g,33.7760532,-117.8690666,Green Nicotine Electronic Cigarette,2850 N Main St Santa Ana CA 92701 USA,ecigarette
+ChIJNa7bnk6q3IARir2e_UTieRY,34.0571405,-117.2145494,Electric Lotus Manufacturing,1740 Howard Pl Redlands CA 92373 USA,ecigarette
+ChIJ_QjdcSPGwoARJfFEfw6Mes8,34.0376406,-118.2341354,Ttzig Electronic Cigarette Spl,1340 E 6th St Los Angeles CA 90021 USA,ecigarette
+ChIJhYtMQiyWwoARSIgh1LvEksU,34.149209,-118.4357788,E Cigarette Insurance,13907 Ventura Blvd #106 Sherman Oaks CA 91423 USA,ecigarette
+ChIJQxeX2--x3IAR9737iKkMJb4,33.9557959,-117.3300522,Vapor Cig,5225 Canyon Crest Dr #1 Riverside CA 92507 USA,ecigarette
+ChIJG9JRSDqq3IARBBzQdbqr28Q,34.047104,-117.206461,White Horse Vapor Redlands California,1506 Barton Rd Redlands CA 92373 USA,ecigarette
+ChIJSSL2wld_24AR-YE4tA7LOvg,33.4823933,-117.0897049,Diamond Vapor Lounge,32483 Temecula Pkwy e117 Temecula CA 92592 USA,ecigarette
+ChIJ04wn_e1W24ARPY7Wa3v1V74,34.029728,-117.114187,Vape Attic,31608 Yucaipa Blvd #4 Yucaipa CA 92399 USA,ecigarette
+ChIJNzx9q-Px3IARykrfJe9obbw,33.5086527,-117.6598365,Vaperie,31105 Rancho Viejo Rd San Juan Capistrano CA 92675 USA,ecigarette
+ChIJVYyHw3ji24AR8RFD2vgh2hY,32.8533448,-116.9313928,Smoker's Choice,9662A Winter Gardens Blvd Lakeside CA 92040 USA,ecigarette
+ChIJH5v27wBe14ARduTp3cYXmcs,32.824815,-115.569949,Deluxe Vapes,690 Main St El Centro CA 92243 USA,ecigarette
+ChIJDSWLKzBn14ARPexKTleAmvY,32.7929725,-115.5589524,Deluxe Vapes - El Centro,690 Main St El Centro CA 92243 USA,ecigarette
+ChIJmzg-GfCs6YAR5FTkbtCs9g0,34.1631489,-118.3279471,Elevated Vaping,2227 West Olive Avenue Suite D (Side Door) Burbank CA 91506 United States,vape
+ChIJoc7j1DfGwoARnE1hq0IUBEw,34.0472616,-118.2437728,City of Vape,307 Boyd St Los Angeles CA 90013 USA,vape
+ChIJh7C6wJVGzlQRfV7W50nQCzc,41.6985384,-122.6387513,North Cloud Vape Distribution,2216 Fairlane Rd D Yreka CA 96097 USA,vape
+ChIJKy2cXifnzVQR09YMQpwiv8Q,41.313934,-122.312035,Cloud City Vape Co.,305 Chestnut St Mt Shasta CA 96067 USA,vape
+ChIJ56KCRG8nm4ARVwYqaCc5mm0,38.703756,-121.38382,Cheaper Cigarettes Vape & Smoke Shop,7529 Watt Ave North Highlands CA 95660 USA,vape
+ChIJM1HKI5SAhYAR1fgbiaF7iV8,37.786575,-122.4200161,Smoke Vape & Beyond,1047 Polk St San Francisco CA 94109 USA,vape
+ChIJGRs0rc59j4ARsuN5ig5TIBY,37.7256252,-122.4636878,Happy Vape,1963 Ocean Ave San Francisco CA 94127 USA,vape
+ChIJ6b52UEBTm4ARw87AVyT3xlw,39.137727,-121.607745,Quality Vapes,200 Bridge St Yuba City CA 95991 USA,vape
+ChIJE9sti-3QhIAREJxsrG0bpQg,38.6784212,-121.783109,Star Zone Smoke and Vape shop,9 Main St Woodland CA 95695 USA,vape
+ChIJtRElUT3Mj4AR4Tnwd34jGLY,37.3900776,-121.8788521,Vape Lounge,1599 Flickinger Ave San Jose CA 95131 USA,vape
+ChIJS_s09LpClIARyL4oWZobzKs,36.8510867,-119.7768723,Century Vape,7767 N First St Fresno CA 93720 USA,vape
+ChIJ8QDaBkoVjoAR1gyvYnXdDQs,36.9629576,-121.9874013,Santa Cruz Vapors,1701 Portola Dr Santa Cruz CA 95066 USA,vape
+ChIJs9jSTTBmlIARCgFgn0hvp7I,36.8079,-119.844103,Century Vape,2787 W Shaw Ave #106 Fresno CA 93711 USA,vape
+ChIJ8b8PO1JnlIARzePB0q-IkZA,36.75752,-119.798677,Diamond Vape Shop and Lounge,1140 N Van Ness Ave Fresno CA 93728 USA,vape
+ChIJXUGHaAVX0VQRrO5ohU4_Bjs,40.8690238,-124.0895307,Arcata Vapery - Vape Shop,1020 8th St Arcata CA 95521 USA,vape
+ChIJtb_0BPj_01QRTUJsEMMWox0,40.7814714,-124.1851941,S.T.I.L.,2940 Broadway St # E Eureka CA 95501 USA,vape
+ChIJWzbBqnQO1FQRCSBLc7SOl8E,40.5822077,-124.1454022,Cigarette Payless,745 S Fortuna Blvd Fortuna CA 95540 USA,vape
+ChIJKeJkXjDt0lQRqKAqZ5ed5t8,40.598336,-122.384704,Discount Vapes,0748 537 N Market St suite c Redding CA 96002 United States,vape
+ChIJXbhY_Zjs0lQR8TbfdyWYs0o,40.5633269,-122.361982,Puffys Vapes & Smokes,3025 Bechelli Ln Redding CA 96002 USA,vape
+ChIJ20Ch58_r0lQRjk8kgIkSgt0,40.521308,-122.382949,Tobacco & More,6392 Westside Rd # E Redding CA 96001 USA,vape
+ChIJ_Ub0fzKT0lQR-wJ89UYDC54,40.5875892,-122.3529269,Smoke & Vape,1340 churn creek rd suite C1 Redding CA 96003 United States,vape
+ChIJAQCQJKHs0lQRLPwVgi81cKs,40.5630873,-122.3511032,Mad Cloudz Vape,1109 Hartnell Ave #8 Redding CA 96002 USA,vape
+ChIJPbiPtbns0lQRmT-_kN9_Lm4,40.5818784,-122.391506,Nor Cal Vape,1700 California St Redding CA 96001 USA,vape
+ChIJRx3O5UuU0lQRxBohgtkbg2E,40.563291,-122.236515,Shasta Vape,22049 Old 44 Dr Palo Cedro CA 96073 USA,vape
+ChIJLT7ckiiM0lQRtqYOg6C-V1o,40.679811,-122.352093,Tobacco&Vape,5320 Shasta Dam Blvd Shasta Lake CA 96019 USA,vape
+ChIJQXckIrZe7IARo65xPRLH7A0,35.1214632,-120.6127204,Amsterdam Vape Cafe & Gallery,1519 W Grand Ave Grover Beach CA 93433 USA,vape
+ChIJacirmDaQwoARuluES-ZLOwY,34.2895306,-118.4335279,VALLEY VAPE SHOP,603 N Maclay Ave San Fernando CA 91340 USA,vape
+ChIJ15FXsyOcwoAR08NeMFGGzZc,34.1881363,-118.6061659,Titanic Vape,6457 Topanga Canyon Blvd Canoga Park CA 91303 USA,vape
+ChIJsW52hbSbwoAR94TB9FZ0lyE,34.2242121,-118.5357768,So Cal Vape Lounge,8452 Reseda Blvd Northridge CA 91324 USA,vape
+ChIJWejqRNy-woARlGqgNYDmu30,34.0984539,-118.3541847,The Vapor Spot- Vape Shop and Vapor Bar,7551 Sunset Blvd Los Angeles CA 90046 USA,vape
+ChIJm2TS-Tq6woARrv3HPAH8xq4,34.0148283,-118.4073713,Nana's Vape Shop,10812 Washington Blvd Culver City CA 90232 USA,vape
+ChIJIWRZnMW-woAR_aVw-s2M8r0,34.062131,-118.3133811,The Vapor Shop - Vape Bar and Vape Lounge,3959 Wilshire Blvd Los Angeles CA 90010 USA,vape
+ChIJK94wHPnEwoARsWWyF08j3q8,34.097703,-118.1549093,Super Vape,200 Huntington Dr N Alhambra CA 91801 USA,vape
+ChIJC2vkCwjMwoARyYMVr0FDAXo,33.9428429,-118.1948907,Casa De Vape,4386 Tweedy Blvd South Gate CA 90280 USA,vape
+ChIJH8OtvT5mw4ARnQKdwkpxQEM,34.469318,-117.343096,Vape Town,12055 Mariposa Rd Unit G Hesperia CA 92345 USA,vape
+ChIJP77ItBcvw4ARKGPV8Rlttcg,34.1069091,-117.8060696,Mode Vape,133 E Bonita Ave #100 San Dimas CA 91773 USA,vape
+ChIJfQhl9mYqw4ARZ2i6UZk3Ajk,33.9950374,-117.9054369,Ultramist Vape,18222 Gale Ave City of Industry CA 91748 USA,vape
+ChIJS3Fh9I8y3YAR_9UlcvK-vtc,33.8606327,-118.1242566,Amsterdam Smoke and Vape Store,5521 South St Lakewood CA 90713 USA,vape
+ChIJ5cJT9UNgw4ARb6fmDy7YPc0,34.4708078,-117.2044162,Vape Out,21065 Bear Valley Rd ste 3 Apple Valley CA 92308 USA,vape
+ChIJt_da2C423YARBb0J0bbJjCg,33.7349629,-118.2927103,Cleopatra Tobacco & Vape, smoke shop, Vape shop, Cigar shop, water pipes,1005 S Gaffey St San Pedro CA 90731 USA,vape
+ChIJE2SSQTgx3YAR0Krn1T48VgY,33.7707401,-118.1926256,Amsterdam Smoke and Vape Store,315 Pine Ave Long Beach CA 90802 USA,vape
+ChIJCbFUunMs3YARpYDxnL53GmI,33.858299,-118.0264583,The Juice Joint Vape Co.,6122 Orangethorpe Ave #104 Buena Park CA 90620 USA,vape
+ChIJ_9viYxPB0lQRp5612RdFtv0,40.4537311,-122.2876965,Tobbacco&More,2619 Balls Ferry Rd Anderson CA 96007 USA,vape
+ChIJn7Wf0ruDgoARdQZl7YWOlm0,40.1778497,-122.2362779,Sub Culture,335 Walnut St Red Bluff CA 96080 USA,vape
+ChIJSSmW9weDgoARQnnN5wNouN0,40.180661,-122.228241,Tobacco & More,84 Belle Mill Rd Red Bluff CA 96080 USA,vape
+ChIJsXwN-zSCgoARZRW9VCjaeaE,40.188417,-122.245988,TLC Scientific Lab-Store,111 Treasure Dr Red Bluff CA 96080 USA,vape
+ChIJTbAQlDQmg4AR4OMNsDT-T7Q,39.721829,-121.828965,Hi Five Tobacco,1414 Park Ave Chico CA 95928 USA,vape
+ChIJfTrXv2gUnIARe1fszs4gXm0,39.8064489,-120.4690285,Higher Elevation Smoke Shop & Gallery,189 Commercial St Portola CA 96122 USA,vape
+ChIJuagYsD5wm4ARp7QSu2a4yQI,39.2193952,-121.0614335,Blaze N Js,114 E Main St Grass Valley CA 95945 USA,vape
+ChIJ3-BveTdo6oARrezizsC3zJ8,35.4197497,-119.025909,Go Star Vape And Smoke,300 Norris Rd Bakersfield CA 93308 USA,vape
+ChIJYwPoJie_woARM4KuaU9uitQ,34.098452,-118.343503,The Vapor Shop - Vape Bar and Vape Lounge,7061 Sunset Blvd Los Angeles CA 90028 USA,vape
+ChIJqzo9KGT_g4ARWBBsutuxgSA,38.800351,-123.0170339,Aces High Smoke Shop,421 S Cloverdale Blvd Cloverdale CA 95425 USA,vape
+ChIJL7nuZ_lkgYART-vNQWZm-_Y,39.14758,-123.206834,Emerald Triangle Glassworks,415 S State St Ukiah CA 95482 USA,vape
+ChIJIW8VO8mLg4ARYNQxfvTdfK8,38.9546489,-122.6456896,A & T's Tobacco N More,14260 Lakeshore Dr Clearlake CA 95422 USA,vape
+ChIJFc6WyNZJhIAR-udWfsfKFKw,38.3952584,-122.7128755,The Mighty Quinn,3372 Santa Rosa Ave Santa Rosa CA 95407 USA,vape
+ChIJvbuqR8AFhYARjjZQdNDKpyg,38.2813141,-122.2737797,The Mighty Quinn,110 Soscol Ave Napa CA 94559 USA,vape
+ChIJgeT43O5lhYARymPcby6J6ME,38.0092921,-122.0987609,Stop N Vape,3798 Pacheco Blvd Martinez CA 94553 USA,vape
+ChIJrU4xlqe2hYARMErAnZrjNxs,38.234041,-122.641007,The Mighty Quinn,16 Western Ave Petaluma CA 94952 USA,vape
+ChIJbWtf0FashYARVfF_wiCOjlo,38.3175364,-122.4843883,Sonoma Smoke and Vape,17549 Sonoma Hwy Sonoma CA 95476 USA,vape
+ChIJu3mctz4GhYARpSTdgX-HiZc,38.282246,-122.2930917,Napa Vape Company llc,1700 W Imola Ave Napa CA 94559 USA,vape
+ChIJC7P4xXI9hYARHzNUV7BkLRs,38.335997,-121.97143,Vap'In Peace,1981 Alamo Dr Ste A Vacaville CA 95687 USA,vape
+ChIJoZk55TUUhYARNvhgP3Yoo38,38.2489333,-122.0434082,Fairfield Cigar And Vape,801 Texas St Fairfield CA 94533 USA,vape
+ChIJ1UXkOhJzhYAR8aMJZYw3mm8,38.1053847,-122.237987,U-Know Smoke and Vape Shop,618 Tuolumne St Vallejo CA 94590 USA,vape
+ChIJ89NcPxJzhYARQSLA-TZr1Xo,38.1049712,-122.2384569,Vapor Pharm Vape Shop,621 Tuolumne St Vallejo CA 94590 USA,vape
+ChIJXwAegzrWmoARGt4nNXy84cY,38.646727,-121.491775,Sahara Hookah / CHI VAPE,1309 N Market Blvd #200 Sacramento CA 95834 USA,vape
+ChIJRS-r4kramoARI-cvbf42wTQ,38.5909993,-121.4019644,Tonic Vape & Smoke Shop,1401 Fulton Ave Sacramento CA 95825 USA,vape
+ChIJcSUyESbbmoARrs4yWm5e27w,38.548648,-121.393785,Habits Vape & Smoke shop,8391 Folsom Blvd #7 Sacramento CA 95826 USA,vape
+ChIJIxp-Ot_emoARLKF0MNQX_4U,38.668207,-121.3362041,Honey Vape & Smoke Shop,5500 Auburn Blvd Sacramento CA 95841 USA,vape
+ChIJue2zQ3I4hIARX8ELgpaFMPw,38.4573137,-122.7305947,The Humidor,746 Coddingtown Center Santa Rosa CA 95401 USA,vape
+ChIJD48sYXd3j4ARyn5W1lt2V04,37.613989,-122.4054461,Millbrae Vape,1703 El Camino Real Millbrae CA 94030 USA,vape
+ChIJN3qcSWYMkIARzMr-vmC2sjQ,38.0113007,-121.3182798,Vape Division,526 W Benjamin Holt Dr Stockton CA 95207 USA,vape
+ChIJT5d-dkWfj4ARruaJXRVS1zE,37.5216051,-122.2777071,Belmont Vape,840 El Camino Real B Belmont CA 94002 USA,vape
+ChIJ6ZoGiUmRj4ARiOi1_b5_lM4,37.6441692,-122.1042912,Smokey's Smoke Shop / Vape Shop & Gifts,25088 Hesperian Blvd Hayward CA 94545 USA,vape
+ChIJk5SVC3Ojj4AR30Pkps6eRWA,37.4700895,-122.2126296,Redwood Vape,2853 El Camino Real Redwood City CA 94061 USA,vape
+ChIJP1uBWLJ2hYAR3ae0gz_OXC8,38.0357716,-122.2682364,Vape Breakfast Classics - E Liquid,527 Second St Rodeo CA 94572 USA,vape
+ChIJGViwpBB2hIARN1mbgOHfvqI,38.9115863,-122.6117932,Ritchey's Riptide Lounge,9800 CA-53 Lower Lake CA 95457 USA,vape
+ChIJuVNIvVJAkIARiv_OC_KIec4,37.7975438,-121.2182261,Aces of Vape,223 W Yosemite Ave Manteca CA 95336 USA,vape
+ChIJQ5XFO8DQmoAR_rdpbtFKtgM,38.5841482,-121.4890174,The Vapor Spot,530 12th St Sacramento CA 95814 USA,vape
+ChIJX_qF1szWmoARLLEXtXkqJe0,38.5817412,-121.5058487,Boss Vapor Co,1115 Front St #2 Sacramento CA 95814 USA,vape
+ChIJcTgYK7_QmoARWLxneM2JvHo,38.5788773,-121.465808,Exhale Smoke Shop,2830 E St Sacramento CA 95816 USA,vape
+ChIJuwtsdMHQmoARoP3eeJi8eqA,38.5772094,-121.4828391,Planet Of The Vapes,1730 J St A2 Sacramento CA 95816 USA,vape
+ChIJj8aykZAphYAR9mHAv6uNIrs,38.560825,-121.734634,Smoke Hut,1300 E Covell Blvd Davis CA 95616 USA,vape
+ChIJ4Wsi4U4nm4AR-V5nPGNmeEs,38.7127818,-121.3624676,3 Monkeys vape & smokes,4400 Elverta Rd unit 130 Antelope CA 95843 USA,vape
+ChIJbWFj-h0gm4ARalxOiqaaCxo,38.7439041,-121.2624812,Galleria Vape And Smoke,1720 Douglas Blvd Roseville CA 95661 USA,vape
+ChIJa-3z0orXmoARHg3YssJcies,38.6554202,-121.4478669,Rio Smoke Shop,4803 Rio Linda Blvd Sacramento CA 95838 USA,vape
+ChIJxxp8GhzSmoARmwgnGhPmdf0,38.5082665,-121.5424185,Greenhaven Smoke and Vape Shop,261 Florin Rd Sacramento CA 95831 USA,vape
+ChIJTfn8aDw9m4ARqbt-urLm4v4,38.887108,-121.2932229,Bee 2 Vape & Smoke Shop,150 G St Lincoln CA 95648 USA,vape
+ChIJY-Y_EAYgm4ARCEQ7_eEp4ok,38.7304884,-121.2732745,Cirby Smoke Shop,970 Sunrise Ave Roseville CA 95661 USA,vape
+ChIJs2fw3EEhm4ARFUElsfswFTU,38.769205,-121.3318602,Tobacco 4 Ever,4021 Woodcreek Oaks Blvd #140 Roseville CA 95747 USA,vape
+ChIJFzgUUc0im4ARqxbDXyp_hh4,38.8705568,-121.2965063,3 Monkeys Vape and Smoke Shop,900 Sterling Pkwy #50 Lincoln CA 95648 USA,vape
+ChIJdU2p-BremoARa2H5VKFCUPQ,38.6629068,-121.2716033,Cloud City Vape and Glass Smoke Shop,5362 Sunrise Blvd Fair Oaks CA 95628 USA,vape
+ChIJHRjY_mXZmoARavLTgM_vilU,38.627363,-121.38385,Cigarettes And More,3413 Watt Ave Sacramento CA 95821 USA,vape
+ChIJ4XfHVBrnmoAR_C9UzO3aubI,38.6448974,-121.2263547,Fumare Smoke Shop,4333 Hazel Ave Fair Oaks CA 95628 USA,vape
+ChIJD54KwicFm4AR6WyIr-ibf-g,38.9020746,-121.0668253,Gold Country Vapor,175 Elm Ave Auburn CA 95603 USA,vape
+ChIJB5YGrXMfm4ARQbxpSXM52Pk,38.7801924,-121.2431703,710 Vapor Clouds,6015 Pacific St Rocklin CA 95677 USA,vape
+ChIJWSXnjvIlhYARvOOfhqFFIJo,38.4696462,-121.821183,3 Monkeys #3 Dixon, CA,115 E Dorset Dr Dixon CA 95620 USA,vape
+ChIJ745Bf3Egm4ARiRiv05uaFxk,38.7278022,-121.2909505,Millenium Smoke Shop,1000 Melody Ln #100 Roseville CA 95678 USA,vape
+ChIJu9-DrNjQhIARvvnT9PGaZ8A,38.669155,-121.764585,Highlife Smoke And Vape Shop,825 East St #105 Woodland CA 95776 USA,vape
+ChIJteWEOzRGmoARZtjg--vHCJQ,38.7617555,-120.578574,13 Smokes And Vape (Smoke Shop),6454 Pony Express Trail #33 Pollock Pines CA 95726 USA,vape
+ChIJTQym0_Yfm4ARCWmgnfGE3bo,38.7432426,-121.2568058,3 Monkeys Vape and Smokes,1850 Douglas Blvd Roseville CA 95661 USA,vape
+ChIJSQiPQS_bmoARIcCjhkdcf6A,38.5476959,-121.3927923,FOLSOM VAPE & SMOKE,8399 Folsom Blv St 3B Sacramento CA 95826 United States,vape
+ChIJNcYsfavmmoARoGnKtgRITMs,38.6715977,-121.1629442,Folsom Tobacco,657 E Bidwell St Folsom CA 95630 USA,vape
+ChIJH2a3FU3amoARvtDg3SrmUcQ,38.585709,-121.400502,Twisted Smoke Shop Fulton Ave,1120 Fulton Ave Sacramento CA 95825 USA,vape
+ChIJNT6g5Fcgm4ARmQQpOU3-wWI,38.7451774,-121.3080454,HiFi Smoke Shop,3031 Foothills Blvd #130 Roseville CA 95747 USA,vape
+ChIJ6zHkeIz9dkARIssQ-yyo8f8,38.6630909,-121.3095009,The Paradox Smoke and Vape Shop,6630 Madison Ave E Carmichael CA 95608 USA,vape
+ChIJq_t7Uclxm4ARp_rZkW0sIhY,39.198943,-121.062727,Cig Mart smoke shop,151 W McKnight Way # G Grass Valley CA 95949 USA,vape
+ChIJkfzQGoR7moARxhkh3YV6udA,38.365748,-120.797633,Switch To Vapor,12336 Martell Rd Martell CA 95654 USA,vape
+ChIJ8xIeSZZQmoARdIl13GS49C0,38.7319012,-120.7792811,Broadway Smoke n Vape,1390 Broadway Placerville CA 95667 USA,vape
+ChIJf2DrGnnfmoAR5jTb-x3iimI,38.7092794,-121.3118786,Vape and Smoke 4 Less,7883 Lichen Dr Citrus Heights CA 95621 USA,vape
+ChIJC8gPzDPem4ARp0DtoL0d8-s,39.3264625,-120.2102858,The Smoke Island,11400 Donner Pass Rd #15 Truckee CA 96161 USA,vape
+ChIJ27-iazx8j4ARMBvh-HB5HV0,37.7055334,-122.4621549,Sensual Cloud Vapors,6340 Mission St Daly City CA 94014 USA,vape
+ChIJgRuN4HJKhIARf1fIx3CldY0,38.3448797,-122.7110945,Al Sahara Smoke Shop,4 Enterprise Dr Rohnert Park CA 94928 USA,vape
+ChIJjxM3YXd3j4ARzzdqCB-JTpA,37.6139449,-122.405417,Millbrae Vape,1703 El Camino Real Millbrae CA 94030 USA,vape
+ChIJlcxNT_qZhYARhu-TQHH6seE,37.972892,-122.527854,The Mighty Quinn,1099 4th St G San Rafael CA 94901 USA,vape
+ChIJaWxlERJzhYAR3YWoM0QjH_g,38.104532,-122.237964,We know smoke And vape,522 Tuolumne St Vallejo CA 94590 USA,vape
+ChIJ67qaan2HhYAR522gl2ttxi4,37.7537757,-122.4820875,Cheaper Cigarettes,1709 Noriega St San Francisco CA 94122 USA,vape
+ChIJcZAzJg18j4ARbSWS566PQ48,37.6880233,-122.4686058,Vape Dreams,16 Washington St Daly City CA 94014 USA,vape
+ChIJ97ZLcpx5j4ARMUsCxS8Js1o,37.6498685,-122.4313337,The Vaping Buddha,615 W Orange Ave South San Francisco CA 94080 USA,vape
+ChIJZ8jOkNN7j4ARa0TD8SD2nzw,37.6502902,-122.4534356,Pure Mist Boutique & Vape Lounge,2085 Gellert Blvd Daly City CA 94015 USA,vape
+ChIJc52lDuOAhYARLy-LaIhNkqI,37.8080142,-122.4150652,SF Smoke N' Vape,155 Jefferson St San Francisco CA 94133 USA,vape
+ChIJKQISR0W-j4AR4QSKaLDd-RE,37.5507885,-122.0509624,Vaporation - Vape Shop, Smoke Products and Glass Accessories,34917 Newark Blvd Newark CA 94560 USA,vape
+ChIJBcRnujx-j4AR1SLxSvh6_lQ,37.7619735,-122.4196682,City Smoke Shop,2196 Mission St San Francisco CA 94110 USA,vape
+ChIJFckjI0XLj4ARX5iozH2M0w4,37.324159,-121.9143873,It Is Vapor 7,265 Meridian Ave #1 San Jose CA 95126 USA,vape
+ChIJvxQQJrcwhIARZHbw7gGfNrs,38.391811,-122.817998,Redwood Empire Vape Shop,976 Gravenstein Hwy S Sebastopol CA 95472 USA,vape
+ChIJW3g5uyeSj4ARuYy7AMSVG_U,37.6961094,-122.0820408,Ready Set Vape,3024 Castro Valley Blvd Castro Valley CA 94546 USA,vape
+ChIJvav0BzU9kIARaki3ctUPOds,37.740376,-121.442462,The Twilight Zone Smoke and Vape.,1391 W 11th St Tracy CA 95376 USA,vape
+ChIJ3XGkvo5XhYAR9wAdod0_jbM,37.9840745,-121.8038805,Mistique Vape & Taste Saloon,3721 Sunset Ln #105 Antioch CA 94509 USA,vape
+ChIJexpN6jVhhYARa-bINgYpdy4,37.954614,-122.059655,Nexus Vapor Vape Bar,1600 Contra Costa Boulevard e Pleasant Hill CA 94523 United States,vape
+ChIJpb5GscwihYARTq5NRq66u-k,38.368058,-121.963338,Vacaville Vaporium,1631 E Monte Vista Ave Vacaville CA 95688 USA,vape
+ChIJSSVuwJdhhYARtUlIUorIkPg,37.908483,-122.062015,Vapor 1,2085 N Broadway #300 Walnut Creek CA 94596 USA,vape
+ChIJWT31uQ3pj4ARaht4oZj6Xyk,37.677973,-121.875109,VAPOR,1807 Santa Rita Rd E Pleasanton CA 94566 USA,vape
+ChIJO78wESy-j4ARfaLBqpkeSlc,37.575494,-122.043019,The Art of Vapor,34241 Fremont Blvd Fremont CA 94555 USA,vape
+ChIJXzB5mAgYkIARrCTk5y5ajPc,37.759973,-121.457605,Vape Guyz,West Valley Mall 3200 Naglee Rd Suite 495 Tracy CA 95304 United States,vape
+ChIJIZ57pVdZhYARpDxl-RCYUS8,38.0070783,-121.8927499,KJ's Vapor Shop,3105 Railroad Ave Pittsburg CA 94565 USA,vape
+ChIJHUd8qNGWj4ARRefZ0Oxe7so,37.6278858,-122.1209023,Platinum Vapes,26013 Eden Landing Rd Hayward CA 94545 USA,vape
+ChIJpylHf1Tsj4ARNkP-sBIpYRY,37.7241182,-121.9419437,Bay Fog Vapor,21310 San Ramon Valley Blvd #4 San Ramon CA 94583 USA,vape
+ChIJLyvdQ_mej4ARxoFU_nJeLRM,37.5451551,-122.3062006,San Mateo Vape,2323 S El Camino Real San Mateo CA 94403 USA,vape
+ChIJr4yy4MDgj4ARk3svpak9Kz4,37.7052707,-121.7009696,VaporWarehouse,7697 Hawthorn Avenue Livermore CA 94550 USA,vape
+ChIJ8_zA9FIUhYARIov_JfWfmbA,38.2385578,-122.0408711,Suisun Smoke Shop,623 Main St Suisun City CA 94585 USA,vape
+ChIJry45VC98hYARagjUmR5u-yk,37.8685843,-122.2594428,WHELANS GLASS GALLERY, VAPOR, CIGAR, GIFT & SMOKE SHOP,2486 Bancroft Way Berkeley CA 94704 USA,vape
+ChIJdaGviyHnj4ARHzezEqrO8Vc,37.7058695,-121.7408269,Vapor Laze,922 Larkspur Dr A2 Livermore CA 94551 USA,vape
+ChIJnwP10zs9kIARAv9ajiH3f90,37.7399439,-121.4310559,vapor city,359 W 11th St f Tracy CA 95376 USA,vape
+ChIJ44OeAfmfmoAR7lWaFIausoo,38.1283065,-121.2593679,Tobacco City N Vape,550 S Cherokee Ln # G Lodi CA 95240 USA,vape
+ChIJW-wOLNKRj4AROc4TF-mJqm4,37.7022404,-122.123904,5 Star Smoke Shop & Gifts,15640 E 14th St San Leandro CA 94578 USA,vape
+ChIJddb2DB5ehYARlIfwdVoh_qg,37.963274,-121.990655,Voltage Smoke & Gifts,4330 Clayton Rd Concord CA 94521 USA,vape
+ChIJtUfPsA3pj4ARz-W2FVWUq5w,37.677987,-121.874943,Cigars Tobacco Hut,1807 Santa Rita Rd ste e Pleasanton CA 94566 USA,vape
+ChIJUQg44iTJj4AROC6RfTRf1wo,37.419136,-121.915934,Vape One,794 Barber Lane second floor Ulferts Center Milpitas CA 95035 United States,vape
+ChIJpSty8BLKj4ARyud98RdNQwg,37.352721,-121.9792802,Vape Affair,2905 El Camino Real Santa Clara CA 95051 USA,vape
+ChIJm_P4GJRmhYARV7ptORNfOTY,37.979357,-122.065885,Legends Smoke Shop,565 Contra Costa Blvd Pleasant Hill CA 94523 USA,vape
+ChIJzWsgFEiRj4AR5-6lJWAkd-A,37.6474088,-122.105569,The Gr8 Vape,1090 La Playa Dr Hayward CA 94545 USA,vape
+ChIJpeG1umUCkYARgJb_5tofe7M,37.6372761,-120.7674063,Jays Vape & Tobacco,12162 Yosemite Blvd Waterford CA 95386 USA,vape
+ChIJn5bmiflTkIARYdNGFOpavGE,37.6537119,-120.9933388,Yo Mommas Favorite Vape Shop,700 McHenry Ave A Modesto CA 95350 USA,vape
+ChIJi0ZboV8MkIARxBaE1VL8h_s,38.0082004,-121.3099944,Stockton Smokeshop & Vape,6107 N El Dorado St Stockton CA 95207 USA,vape
+ChIJT0dM-rsKkIARS4sD8Q_tr28,38.1017709,-121.2792489,VapeLife,2525 S Hutchins St Lodi CA 95240 USA,vape
+ChIJmSQYLDUMkIAR48ignbIFY_Y,37.9846021,-121.3344364,Vapor Workz,2233 Grand Canal Blvd Stockton CA 95207 USA,vape
+ChIJ82M65u4LkIARAgdaA8Ou8As,38.0343298,-121.3392091,Planet Of The Vapes,9305 Thornton Rd B Stockton CA 95209 USA,vape
+ChIJofihE6jFmoARTBpqn7F7qqw,38.4949596,-121.4103502,Vape Nation Smoke Shop,7900 Florin Rd ste 10 Sacramento CA 95828 USA,vape
+ChIJhbqs7_JTkIARpR3omnxtxdY,37.643144,-120.997273,Still Smoking,1313 J St Modesto CA 95354 USA,vape
+ChIJSXP2OfifmoARxqCvIqFbV70,38.1306606,-121.273633,King's Closet,230 S School St Lodi CA 95240 USA,vape
+ChIJY-jb39RTkIARobuvAcEIhBo,37.6463449,-121.0315057,Cigarettes For Less,901 N Carpenter Rd # 8 Modesto CA 95351 USA,vape
+ChIJdVs7N9nFmoARQNgknUnns6Q,38.4592264,-121.416684,NXNW Vapor,8211 Bruceville Rd Ste B105 Sacramento CA 95823 USA,vape
+ChIJP-Lpg0YMkIARvNdedP3Y_lU,37.9993517,-121.3258373,Vapor Mo's,5648 N Pershing Ave Stockton CA 95207 USA,vape
+ChIJV-xda2ZUkIAR7-Ld52y0Qm8,37.6383864,-120.9695544,SMOKE CITY,1601 Yosemite Blvd Modesto CA 95354 USA,vape
+ChIJZ5ht1b1TdkAR1Z7cOZ1tYgs,38.526931,-121.408604,Switch to Vapor,5301 Power Inn Rd #110 Sacramento CA 95820 USA,vape
+ChIJ9dhp0XMNkIARBYSbFzpvqK4,37.9707386,-121.3003585,Haze Vapors,214 Dorris Pl Stockton CA 95204 USA,vape
+ChIJY2-dBSWgmoARfwB2dGap0Fg,38.1446198,-121.2717539,Big Blaze smoke shop,851 N Sacramento St Lodi CA 95240 USA,vape
+ChIJ53PhqC_FmoARUKnY9AVBsRw,38.526706,-121.4085624,Vaping Image,5301 Power Inn Rd Sacramento CA 95820 USA,vape
+ChIJK2nFxwsNkIARSnkeGFwbNa4,37.9778092,-121.3047249,King Pin Smokeshop,3210 Pacific Ave Stockton CA 95204 USA,vape
+ChIJwVHd07vMj4AR0oWKZ0yOFKk,37.3336178,-121.8850613,San Jose Vape,112 Paseo De San Antonio San Jose CA 95112 USA,vape
+ChIJBxZpIDPamoARu633EWdinlw,38.6006682,-121.4012098,Vape Unlimited,1966 Fulton Ave Sacramento CA 95825 USA,vape
+ChIJR1Oa54PdmoARns8qdp1FCXQ,38.617574,-121.271498,Gaga Smoke Shop,11110 Coloma Rd #44 Rancho Cordova CA 95670 USA,vape
+ChIJKxi_NtLFkIARRJ4oOqq2Td0,37.982741,-120.3849373,Sierra Smoke 'n Vape,4952 152 W Stockton St Sonora CA 95370 United States,vape
+ChIJPfxNpsGrxIARGdX501ajGTE,34.204684,-117.105679,West Coast Vape Shop,31972 Hilltop Blvd Running Springs CA 92382 USA,vape
+ChIJ0aJzF_opw4AR-LJPSziobHc,34.0330299,-117.9151196,The Vape Society,2411 S Azusa Ave West Covina CA 91792 USA,vape
+ChIJn6T7TKWs3IARJm9snxvJBWk,34.0869885,-117.2792168,Vape Warehouse,738 S Waterman Ave A-22 San Bernardino CA 92408 USA,vape
+ChIJf93KxNDV3IARI3n6KUniINs,33.8744826,-117.8875552,Vape Citi,2485 E Chapman Ave Fullerton CA 92831 USA,vape
+ChIJ4_0boB-m3IARaZzbY_yuWrw,33.9386655,-117.24559,The Barrel Lounge Vape Room,23901 Sunnymead Boulevard b Moreno Valley CA 92553 USA,vape
+ChIJsyFoZoYu3YAR4F3jE60rTxw,33.8177385,-118.0607799,Vapor Zone Vape Shop,9923 Walker St Cypress CA 90630 USA,vape
+ChIJGzwXnM4p3YARefRl7KpX73w,33.819502,-117.9406416,Vaping American Made Products,910 Euclid St Anaheim CA 92802 USA,vape
+ChIJF_QbjUGm3IAROAulPJ_X6MU,33.9166899,-117.2423359,Planet Of The Vapes,24021 Alessandro Blvd Suite 123A Moreno Valley CA 92553 USA,vape
+ChIJUXciP6rmjYARPEj20vhlZbU,36.616144,-121.903496,The Vape Club,800 Lighthouse Ave Monterey CA 93940 USA,vape
+ChIJDT5W8SPkjYARYa62seEzByI,36.5979419,-121.8950768,Smokestacks Vape Bar,490 Alvarado St Monterey CA 93940 USA,vape
+ChIJd7KcK7EzjoAR6k9WiBeuX2g,37.275205,-121.8644555,Chill Vape,705 W Capitol Expy #60 San Jose CA 95136 USA,vape
+ChIJHWN1iBu1j4ARE47KVYlJxKc,37.3029454,-122.0327223,Monsters of Rock 2 Smoke Shop & Vape,1189 S De Anza Blvd San Jose CA 95129 USA,vape
+ChIJ8ynl5MgzjoARzC5HCjUf2og,37.2666799,-121.8655379,Stay Vaped,4470 Pearl Ave San Jose CA 95136 USA,vape
+ChIJzX_JV7rKj4ARFpMXn7Jxu_U,37.3047613,-121.978374,Silicon Valley Power Vapors,1122 Saratoga Ave San Jose CA 95129 USA,vape
+ChIJu1dYOnQtjoAR3SGP0xm_qSA,37.3132752,-121.7927236,Platinum Vapes,2764 Aborn Rd San Jose CA 95121 USA,vape
+ChIJJxEpxdYzjoARSBakpNj551Y,37.2547376,-121.8643873,Abyss Vapor Lounge,5406 Thornwood Dr #175b San Jose CA 95123 USA,vape
+ChIJEf56cjQ1joARojqVIzzWXP8,37.2937097,-121.9649791,Vapors Smoke Shop,880 W Hamilton Ave Campbell CA 95008 USA,vape
+ChIJ350IlUzKj4AReO7sY0H5Fqo,37.3540536,-121.9490435,Hot Box Smoke Shop,1111 El Camino Real #3 Santa Clara CA 95050 USA,vape
+ChIJvwEhenC2j4ARH6qsK30mg1g,37.3632,-122.0256753,Great Vape Inc.,583 E El Camino Real Sunnyvale CA 94087 USA,vape
+ChIJuc6bvwVPjoARQ0whz8z8I8Y,37.1263354,-122.1220223,BC Vapors,13266 Highway 9 E Boulder Creek CA 95006 USA,vape
+ChIJKYdBjb0yjoAR26CqiRoYoPk,37.3203642,-121.8262896,Star Vapes Smoke Shop,1692 Tully Rd #15 San Jose CA 95122 USA,vape
+ChIJpRUDKFzNj4AR5ouCTj7xSKQ,37.3555082,-121.8512972,Lynn's Vape Shop,1939 Alum Rock Ave g San Jose CA 95116 USA,vape
+ChIJCzk1DzEbjoAR7C5IGCh6S4Q,36.9027262,-121.7484766,DULEE'S TOBACCO,53 Porter Dr Watsonville CA 95076 USA,vape
+ChIJy5N4jrY0joARsbbVFto8hCU,37.3047815,-121.9213367,TWIZTED GLASS,1052 Leigh Ave #40 San Jose CA 95126 USA,vape
+ChIJZxCu8dT3kYARpWPkYGt7BGA,36.848905,-121.40218,Green Rush Smoke Shop #2,728 San Benito St Hollister CA 95023 USA,vape
+ChIJOTnksc6wj4ARdMxObuLryNM,37.3889596,-122.0897584,Fatty Zone,1398 W El Camino Real a Mountain View CA 94040 USA,vape
+ChIJ2cxl-73GyIARiBKYGjV_yeA,37.5223753,-122.004522,Platinum Vapes,39245 Cedar Blvd Newark CA 94560 USA,vape
+ChIJIQvrZg9PjoARlguPl5Y-OTU,37.1246233,-122.1218298,Boulder Creek Smoke And Vape,13140 CA-9 Boulder Creek CA 95006 USA,vape
+ChIJ-QUQS9njkYAR0fB4Iy5w_mc,37.0265739,-121.5656734,Green rush smoke and vape shop,8610-8660 San Ysidro Ave Gilroy CA 95020 USA,vape
+ChIJg_pBk9iTj4AR4aVX8gl0PKc,37.67127,-122.082312,Vapor Zone & Novelty,943 C St Hayward CA 94541 USA,vape
+ChIJx4sQ1mvsj4ARUBKjYCuslzs,37.7071824,-121.9286423,Smoker Friendly Dublin Smoke Shop,7135 Amador Plaza Rd Dublin CA 94568 USA,vape
+ChIJn3-CzrOAj4ARzPf8gDxVzhE,37.8082402,-122.2689578,The Twilight Zone - Smoke Shop,1929 Broadway Oakland CA 94612 USA,vape
+ChIJ6STg5EPpj4ARqwBIrNAaf7U,37.6903321,-121.8852534,FonDude E-Juice,5627 Stoneridge Dr #322 Pleasanton CA 94588 USA,vape
+ChIJWTRgw9zjkYARjdESDb1DQkI,37.0222654,-121.5635016,Vape This Smoke That,681 Leavesley Rd suite 70 Gilroy CA 95020 USA,vape
+ChIJQ_0G_QFDkYARYi2F3Cf_DAA,37.3012545,-120.4814532,Brick House Smoke Shop,1720 K St Merced CA 95340 USA,vape
+ChIJJ_wOcvB-kYARrJXJX6_ey1k,37.0565392,-120.8377236,Uptown smoke shop,1247 E Pacheco Blvd Los Banos CA 93635 USA,vape
+ChIJKZIryMdDkYARl1IsIOQR2YI,37.330727,-120.468165,Cigarettes & Cigars,3528 G St Merced CA 95340 USA,vape
+ChIJw3MkRQ1rkYARg2oL_bPzUrM,37.3595774,-120.596132,World of Smoke,2698 First St Atwater CA 95301 USA,vape
+ChIJOYhRy1lCkYARxA89I_fl_i8,37.3038634,-120.4947183,Smoke Palace,1204 W 16th St Merced CA 95340 USA,vape
+ChIJ__1i2dizkYARhm289HjROk4,37.4662753,-121.1413288,M&S Mini Market & Smoke Shop,1010 W Las Palmas Ave Patterson CA 95363 USA,vape
+ChIJqV5usUdclIARWtnhN8NKldE,36.7934106,-119.7284876,Imperial Vape,#B 4946 E Ashlan Ave Fresno CA 93726 United States,vape
+ChIJM04ZKgZdlIARvaeDxJknu9k,36.8073804,-119.7538723,THE VAPE SHOP,4930 N Cedar Ave Fresno CA 93726 USA,vape
+ChIJzQhMStZnlIARv67p4pnlV2g,36.8235916,-119.8267089,THE GREENMILE VAPE & SMOKE SHOP,2014 W Bullard Ave Fresno CA 93711 USA,vape
+ChIJPwblOwZdlIARitrCS3gBICI,36.8084097,-119.7531849,Empire Smoke & Vape,2051 E Shaw Ave Ste 101 Fresno CA 93710 USA,vape
+ChIJFztGLV9elIARfXhENfOkVM8,36.7433121,-119.744888,Royal Vapes,4613 E Tulare Ave Fresno CA 93702 USA,vape
+ChIJpYC2E2UMlIARBySZfiSOlXU,36.96604,-120.0530059,No Limit Smoke Shop,632 E Yosemite Ave #116 Madera CA 93638 USA,vape
+ChIJdXfS6DJDlIARf2TZeVVX4LM,36.8526072,-119.727854,American Vapor,N. 1215 N Willow Ave #160 Clovis CA 93619 United States,vape
+ChIJJb7Pk0IMlIARBT5A4jZ1BKI,36.9721144,-120.0422769,Toby's Vapes,1490 Tozer St Madera CA 93638 USA,vape
+ChIJU1UapmVclIAR7rh8Wyn5e4o,36.80987,-119.711678,Royal Vapes Clovis,131 W Shaw Ave Clovis CA 93612 USA,vape
+ChIJvWjnUxpnlIARigcI5AGqomM,36.7723052,-119.82629,D's Smoke House,1254 W Clinton Ave Fresno CA 93705 USA,vape
+ChIJMVIvkU_4lIARApidHrMUNdg,36.7063844,-119.5707338,Drip Vapor Lounge,2407 Jensen Ave Sanger CA 93657 USA,vape
+ChIJj-8VOlJnlIARouAWBvAqMuI,36.7574197,-119.7985941,Satyr Vapor,1140 N Van Ness Ave #105 Fresno CA 93728 USA,vape
+ChIJ1_w6lBhmlIAR52FyskjVCZY,36.808793,-119.859516,Tower Smoke,3660 W Shaw Ave Fresno CA 93711 USA,vape
+ChIJf4uskWVnlIARgHRPU3DKF3Q,36.7791899,-119.8003233,Tower Smoke,3135 N Maroa Ave Fresno CA 93704 USA,vape
+ChIJOQ99PetnlIARBo8d_q5gRQA,36.8116456,-119.8074319,Cigars Limited,5160 N Palm Ave Fresno CA 93704 USA,vape
+ChIJ9T9JONHilIARhSoOTU0s0CE,36.6033874,-119.4583388,Reedley Smoke Shop,793 N Reed Ave Reedley CA 93654 USA,vape
+ChIJcxXo8MVhw4AR9vdexaIHAPo,34.4991629,-117.1905639,OG Vape Shop,21699 Yucca Loma Rd Apple Valley CA 92307 USA,vape
+ChIJTZ4bjMG-woARgQQJ33Fh8so,34.0977004,-118.3641492,Vape & Smoke Shop,7982 Sunset Blvd Los Angeles CA 90046 USA,vape
+ChIJ-YLV8KYb24AR23PxGI3qPk4,33.8191088,-116.5458593,Michael's Vape Shop,333 S Indian Canyon Dr Palm Springs CA 92262 USA,vape
+ChIJd8PGQRnY3IARa3x6rCQr9CU,33.7934147,-118.0094182,Vape Genie Wholesale & Distribution,11652 Knott Ave F-5 Garden Grove CA 92841 United States,vape
+ChIJMWvO78Ax3YAR8DlTV2OGBqM,33.7840884,-118.1335692,Breathe Vape,5107 E Pacific Coast Hwy Long Beach CA 90804 USA,vape
+ChIJKeCLG3r-2oART8cWtxDW15c,33.721683,-116.3744,111 Smoke vape,73960 hwy 111 3 Palm Desert CA 92260 United States,vape
+ChIJm7CDp1b52oARAPDC-MN9tDI,33.721763,-116.388695,Desert Vapors - Palm Desert,73140 CA-111 #5 Palm Desert CA 92260 USA,vape
+ChIJYXdJP40m3YAR7jJj8V1nv7I,33.743111,-118.034175,West Coast Vape Supply,5445 Oceanus Dr #102 Huntington Beach CA 92649 USA,vape
+ChIJ83uXPGvc3IARuZCXQ_fLYkQ,33.706157,-117.8065494,MyVapors Express Vape & E-Cigarrette,3059 Edinger Ave Tustin CA 92780 USA,vape
+ChIJY8bUJy0n3YARMVPUSHAbseg,33.6861586,-117.963387,Smoke Shop & Vape Shop,19027 Bushard St Huntington Beach CA 92646 USA,vape
+ChIJ4XhZptn8jYARDOLp5g3o6lM,36.6872939,-121.7967031,Marina Spirit Vape and Smoke Shop,3170 Vista Del Camino Cir Marina CA 93933 USA,vape
+ChIJ6c8hTzX_jYARUNogSPd9Seo,36.6948994,-121.652109,Vape3one,1055 N Main St Salinas CA 93906 USA,vape
+ChIJ5cxvGjb_jYARO4O1xptXFkY,36.7001888,-121.6517556,Smokin Up Smoke Shop,1252 N Main St Salinas CA 93906 USA,vape
+ChIJy_goEJTC7IARL9q9EKfYvS4,35.4955231,-120.6841653,Rare Candy Vape Co.,6145 San Anselmo Rd Atascadero CA 93422 USA,vape
+ChIJs7KE5YbC7IARzHLH1UcTf20,35.4905435,-120.6693407,Stellar Vapes,6025 Palma Ave Atascadero CA 93422 USA,vape
+ChIJd7lXVc_p7IARIsNQRo-K64g,35.4731752,-120.654509,Cal State Vape,8420 El Camino Real b Atascadero CA 93422 United States,vape
+ChIJZwq_nKnx7IARHjRC-5NpvoE,35.2906779,-120.6595672,Royal Smoke and Vape,592 California Blvd San Luis Obispo CA 93401 USA,vape
+ChIJWTR_8YPDlIARPDJAbSuUW6g,36.3242771,-119.6551841,Sal's Tobacco,110 N 11th Ave Hanford CA 93230 USA,vape
+ChIJyaDZDZnAlIARUpK2kIF1nsA,36.3077975,-119.7813377,The GreenMile Vape & Smoke Shop,855 N Lemoore Ave # 130 Lemoore CA 93245 USA,vape
+ChIJbesBBatu6oARsOSGj1yMgLU,35.39281,-118.950422,Deluxe Tobacco & Vape,2600 Oswell St ste j Bakersfield CA 93306 USA,vape
+ChIJAQAwOPXH6oARySKIAf2g96I,36.0654123,-119.0475838,z's smoke shop & vapes,1365 W Olive Ave f Porterville CA 93257 USA,vape
+ChIJNZDOBa1u6oARDnKppycLvBc,35.397178,-118.950956,Kool Aid Smoke And Vape,3805 Auburn St Bakersfield CA 93306 USA,vape
+ChIJ56xWtLRB6oARwr_OUwQ-5ec,35.3173335,-119.0738358,Smokers vape station,6401 White Ln #102 Bakersfield CA 93309 USA,vape
+ChIJmd5kyL1B6oARWQ4DcQBe1as,35.334065,-119.076515,Payless Cigarettes,6661 Ming Ave Bakersfield CA 93309 USA,vape
+ChIJP34xTJlq6oARcGmabc_7fMk,35.3098489,-119.0400881,Vapery Sitty,3401 Pacheco Rd Suite L Bakersfield CA 93313 USA,vape
+ChIJyci4qsNB6oARtrKfH9w0ZkY,35.3380311,-119.060384,Smoke Scene,5149 Ming Ave Bakersfield CA 93309 USA,vape
+ChIJvwO_Pttlw4AR7ilZZ0lHOO8,34.5061288,-117.330511,HOTBOX VAPE,14084 Amargosa Rd #220 Victorville CA 92392 USA,vape
+ChIJ30ikdp-bwoARYaghMTPkogo,34.2317419,-118.5575174,Smoke N' Vape Wholesale,19441 Business Center Dr #108 Northridge CA 91324 USA,vape
+ChIJ5ZWlPZR8xIAREbFVHUaQG2A,34.8850465,-117.0126703,The Vape Shop,967 Armory Rd Barstow CA 92311 USA,vape
+ChIJOcEdjghKw4ARmB7WNhs55Fo,34.10486,-117.546033,The Vapour Lounge,8188 Rochester Ave d Rancho Cucamonga CA 91730 USA,vape
+ChIJSy_rZkAxw4ARLcGCnmo8BVc,34.1069635,-117.66449,Vape Shop:Vapor Boss,959 W Foothill Blvd Upland CA 91786 USA,vape
+ChIJcyxYEoom3YARvD8SwWOir8I,33.7164888,-117.9996839,Vapor HB,16942 Gothard St Huntington Beach CA 92647 USA,vape
+ChIJwdQl1nlA6YARs0x-wJ2XEMs,34.4359488,-119.8237911,Hollister Smoke & Vape Shop,5718 Hollister Ave #103 Goleta CA 93117 USA,vape
+ChIJYZfg0H9r7IARA100pCZ_wbM,34.9485828,-120.4363132,Amsterdam Lounge & Smoke Shop,437 S Broadway Santa Maria CA 93458 USA,vape
+ChIJvd3gLmAZ7IARfIzLaFg9I-Y,34.6911204,-120.4363626,Hi time tobacco,1430 Burton Mesa Blvd Lompoc CA 93436 USA,vape
+ChIJc8C0XYYT6YAR-1-cgUTKoUI,34.419828,-119.692098,Santa Barbara Vapor,234 E Haley St Santa Barbara CA 93101 USA,vape
+ChIJX1l9kXgU6YARmOD5SeNTjGY,34.4197083,-119.6971455,Anacapa Vapor,701 Anacapa St A Santa Barbara CA 93101 USA,vape
+ChIJezxsw7de7IARNxYejeUZNv8,35.1213589,-120.6102886,Sector Vape,1741 W Grand Ave Grover Beach CA 93433 USA,vape
+ChIJuXd8yOSs6YARymPuX1l4Pfs,34.2807183,-119.2859847,Vape Creations,964 E Main St Ventura CA 93001 USA,vape
+ChIJK2QkLAzj7IARU8aFExB3Vcc,35.3117762,-120.8326856,Tobacco Castle " VAPE SHOP",2179 10th St Los Osos CA 93402 USA,vape
+ChIJ-SeT2SMy6IARXhFxRiY_pHo,34.2784886,-118.8865046,Queens Vape,476 W Los Angeles Ave #12 Moorpark CA 93021 USA,vape
+ChIJpZSKXGg_6YARCmd6D9Af_jY,34.4129556,-119.856058,Isla Vista Vapor,6549 Pardall Rd c Goleta CA 93117 USA,vape
+ChIJj3CSMmBr7IARyXF9lhJEyfQ,34.932868,-120.436559,Royal smoke and vape,1531 S Broadway ste A Santa Maria CA 93454 USA,vape
+ChIJqyCgzceGwoAROez3bZENWlA,34.3771777,-118.5674303,SCV Vape,25269 The Old Rd Stevenson Ranch CA 91381 USA,vape
+ChIJVQc9sIiewoARzhJLh2pc66k,34.165768,-118.62285,Hidden Vape,22776 Ventura Blvd Suite A Woodland Hills CA 91364 USA,vape
+ChIJAaY4hmaQwoARwoAd72WYda8,34.2642266,-118.4682076,Got Vape,15418 Chatsworth St Mission Hills CA 91345 USA,vape
+ChIJl5vQE6yZwoARdU6v33fVd0U,34.165081,-118.526243,Charlie's Vape Bar & Lounge,18054 Ventura Blvd Encino CA 91316 USA,vape
+ChIJJXy30PmHwoAR__9cD1HTDZI,34.4507002,-118.4971891,Cloud 9 Vape Pure,28124 Bouquet Canyon Rd Santa Clarita CA 91350 USA,vape
+ChIJBQOzCNKWwoARBgj88621So0,34.2218842,-118.4283493,Xplicit Vape - Panorama City,13545 Roscoe Blvd Panorama City CA 91402 USA,vape
+ChIJU8FqLM-XwoARghc3nPFAjCs,34.1544956,-118.4488635,The Vapor Spot- Vape Shop and Vapor Bar,4553 Van Nuys Blvd Sherman Oaks CA 91403 USA,vape
+ChIJQ1H9ILsy3YARRA1kCvGNSGg,33.8791529,-118.124912,Vape it Easy,17038 Bellflower Blvd Bellflower CA 90706 USA,vape
+ChIJe2WYDQpD6oARhq2BXzrTLa0,35.3882388,-119.1114152,Luxor Vape Lounge & Cafe,3015 Calloway Dr #10 Bakersfield CA 93312 USA,vape
+ChIJV6ByRlOt6YAR1ZMj5hacxxE,34.263864,-119.239015,Beach Vapes Ventura,3959 E Main St D Ventura CA 93003 USA,vape
+ChIJt3cM2HKHwoAR31ktceI2KO4,34.4209213,-118.5425729,The Vapor Department,23130 Valencia Blvd Valencia CA 91355 USA,vape
+ChIJz8NO1wFN6IAR7hWAqSr2QSM,34.2379326,-119.1683027,Vapor Forrest,2860 E Vineyard Ave e Oxnard CA 93036 USA,vape
+ChIJaTIfRaxB6oARHjG8_pbhsMQ,35.317535,-119.084697,Vapors Paradise Smoke Shop,7401 White Ln #5 Bakersfield CA 93309 USA,vape
+ChIJMyzNJO1p6oARNdf--I_Zhkk,35.3819414,-119.0237271,Teds Vapor Hut,2501 F St Bakersfield CA 93301 USA,vape
+ChIJj8V4w35HwoARf_Wt29WiMEk,34.8595231,-118.1629501,Vape And Bake,2689 Sierra Hwy Rosamond CA 93560 USA,vape
+ChIJJcNTFYI4woARnfQck5QC6_Y,34.8640333,-118.1663719,High Desert Vapor,2997 Desert St Rosamond CA 93560 USA,vape
+ChIJfX6EZxlbwoARWz1HwZA4JmA,34.674424,-118.16758,Vic's Vicious Vapes,2046 W Ave K Lancaster CA 93536 USA,vape
+ChIJq6r6rO1jw4ARpg5gq_2bGcc,34.5330899,-117.253135,Dripstick Vape,18835 Chapae Ln Apple Valley CA 92307 USA,vape
+ChIJeVDCJ4Jnw4ARE3ew8KGtK5E,34.4230192,-117.3170456,760Vapor,15885 Main St #200 Hesperia CA 92345 USA,vape
+ChIJU1oTZ25cwoARB76JjjMDG9U,34.6317847,-118.2200169,Premium Cigars & Vape,5037 Avenue N #7 Quartz Hill CA 93536 USA,vape
+ChIJBaBU6H17xIARqrHKDwXvzuU,34.899026,-117.025531,Smoked Out Smoke Shop & Vape,215 E Main St Barstow CA 92311 USA,vape
+ChIJU3lF46F8xIARAmI2OETLDEA,34.897639,-117.008494,So*Cal Smoke & Vape Shop,1251 E Main St #8 Barstow CA 92311 USA,vape
+ChIJ9zDZCNllw4ARmMpEhWEX6YY,34.500537,-117.329705,Cloud District Vape Shop,6410 15315 Tamarack Dr suite 2 Victorville CA 92392 United States,vape
+ChIJM86oxNVgw4AR5GI5tXDxFCk,34.470632,-117.2625053,The Vape Shop,18361 Bear Valley Rd #7 Hesperia CA 92345 USA,vape
+ChIJn0kLIlhmw4ARvVpSehOIvdo,34.4700052,-117.3161223,Vape Shop,Hesperia CA 92345 USA,vape
+ChIJcco-A4Jnw4ARQ7lXxqNfk1E,34.423828,-117.315262,Best Deal Tobacco & Vape,15928 Main St #300 Hesperia CA 92345 USA,vape
+ChIJhzzdydD024ARFHjH6aptIk0,33.1324714,-117.1201047,Marlow's Vape Lounge,630 Nordahl Rd San Marcos CA 92069 USA,vape
+ChIJtd0YgUEh3YARJ84QKQ42Qgc,33.657774,-118.0008645,Vape It Up HB,Walnut Ave Huntington Beach CA 92648 USA,vape
+ChIJU61Wzobz24ARQpyrSpGOKUE,33.1046779,-117.0755697,Euphoria Vapor Outlet Escondido Vape Shop,410 W Felicita Ave Escondido CA 92025 USA,vape
+ChIJeTil1IeIwoARtnjSmyIRz5A,34.4161544,-118.4750566,Vaping District,19443 Soledad Canyon Rd #103 Santa Clarita CA 91351 USA,vape
+ChIJYRjUFywp6IARVSUgZwR_xu8,34.2706262,-118.7615017,Zee Vape & Hookah,1869 Erringer Rd Simi Valley CA 93065 USA,vape
+ChIJAUpLZ0ecwoARAfcc0Hh4G0A,34.2014776,-118.6107531,Vape Ciggy,22209 Sherman Way Canoga Park CA 91303 USA,vape
+ChIJnd-wtPpN6IARKmPNnJtXadg,34.195837,-119.220602,Steam of Oxnard,600 S Victoria Ave A600 Oxnard CA 93035 USA,vape
+ChIJSUvl2a1P6IARma194314W_o,34.1479313,-119.1949022,Vapor Forrest,425 E Port Hueneme Rd Port Hueneme CA 93041 USA,vape
+ChIJbx0aIDWHwoARmkYtOPaiDos,34.4102764,-118.5784769,Smoke Depot & Vapor Lounge,26930 The Old Rd Valencia CA 91381 USA,vape
+ChIJ3RJH4peQwoARjpH3ykMmlvc,34.2351002,-118.4740294,VapeTag North Hills,15650 Nordhoff St #106b North Hills CA 91343 USA,vape
+ChIJDX9QtitM6IARxfVjN1dg5tY,34.199864,-119.1813652,iSmoke Shop,321 S C St #100 Oxnard CA 93030 USA,vape
+ChIJP9qVmMC1woARnKg2B6EPidE,33.9015976,-118.3021778,Vape In The Box,1448 W Rosecrans Ave Gardena CA 90249 USA,vape
+ChIJhe2eGXC7woARjKVqeXmrXJI,34.045799,-118.450795,Apollo Vapor store • USA portable dry herbs vaporizers • Los Angeles online best sale shop near me,11400 W Olympic Blvd #267 Los Angeles CA 90064 USA,vape
+ChIJQyn3eMKawoARS-KxHMTGUbQ,34.2650917,-118.517978,Ark Smoke Shop,17609 Chatsworth St Granada Hills CA 91344 USA,vape
+ChIJ7_ZSNyQo6IARZpOxUXSdCJE,34.2716705,-118.6800831,Simi Vapor,5716 E Los Angeles Ave Simi Valley CA 93063 USA,vape
+ChIJYVForeYu6IARLMaUn8kCNHo,34.2616858,-118.7946734,HOOKAH VALLEY,1230 Madera Rd #3 Simi Valley CA 93065 USA,vape
+ChIJJ74X-S61woAR6iAJtSGl4zI,33.846716,-118.3376624,XL Vape,2807 Oregon Ct Torrance CA 90503 USA,vape
+ChIJpZY9LDbGwoART-D22oI45Zw,34.0469235,-118.2441952,The Wall Street Vape Supply CO.,330 Wall St Los Angeles CA 90013 USA,vape
+ChIJ03ps_mZK3YARjZGjYJ0ApRY,33.795378,-118.319789,Let's vape II,25220 Narbonne Ave Ste A Lomita CA 90717 USA,vape
+ChIJdWU4qaO7woARNX2Bu-L_Stk,34.0385402,-118.4312467,LA Cloud Supply Smoke Shop,10956 W Pico Blvd Los Angeles CA 90064 USA,vape
+ChIJgZK68jC5woARIc6gu0ruVWQ,34.0706072,-118.3617807,Smoke And Vape Depot,353 S Fairfax Ave Los Angeles CA 90036 USA,vape
+ChIJx3bcwoK0woARkr22ERSfV5Q,33.8581076,-118.3908412,Cigar Hookah & Beyond Smoke and Vape Shop,432 Pacific Coast Hwy Hermosa Beach CA 90254 USA,vape
+ChIJGY0cUpC6woARCPMmRiLfv2s,33.9869914,-118.4536156,The Green House Smoke and Vapor Shop,736 Washington Blvd Marina Del Rey CA 90292 USA,vape
+ChIJ__-PJE3GwoAR2fvSyEHufpA,34.053435,-118.251403,neuro vape,255 S Grand Ave Los Angeles CA 90012 USA,vape
+ChIJXdmeZKgp6IARv-IdfuxqtGE,34.284795,-118.717254,The V Spot Vapor Simi Valley,2760 Tapo Canyon Rd #9 Simi Valley CA 93063 USA,vape
+ChIJ5XZyeqGbwoARTcCFrueatoU,34.2311657,-118.5530631,The Vapor Spot,8850 Tampa Ave #106 Northridge CA 91324 USA,vape
+ChIJkz9QAE-WwoARlKL7bVPJKe4,34.1719017,-118.4306508,Payless Vapes,13648 Burbank Blvd Sherman Oaks CA 91401 USA,vape
+ChIJu5k3MAC1woAR5HfG3THRpuY,33.8765519,-118.3454154,Prestige Smoke and Vape,4068 Redondo Beach Blvd Torrance CA 90504 USA,vape
+ChIJu6cB_m1K3YARjt8bKYJSPfI,33.7890895,-118.3117393,The Discounted Shop- Hygeia Vape & Smoke Shop,1876 Pacific Coast Hwy Lomita CA 90717 USA,vape
+ChIJDzJX6KK4woARg_i-3ZFb7aU,34.0737453,-118.3095017,The Vape Shop,125 N Western Ave #104 Los Angeles CA 90004 USA,vape
+ChIJb-GOChqcwoAREMXMKX_XKF0,34.1940225,-118.5960565,Vanowen Smoke House,21301 Vanowen St Canoga Park CA 91303 USA,vape
+ChIJpRGPT93HwoARP-ekwo7EqNg,34.0287441,-118.2752424,Doux Vape,2508 S Figueroa St Los Angeles CA 90007 USA,vape
+ChIJT7wQva7AwoARc35hM9KN9nk,34.102656,-118.2922608,V For Vape.,1727 N Vermont Ave #210 Los Angeles CA 90027 USA,vape
+ChIJe8E9nBO-woARyrnlCeb0jqA,34.13996,-118.376349,Chill N Vape Lounge,11314 Ventura Blvd Studio City CA 91604 USA,vape
+ChIJ6SXsx_3AwoAR2ZpgRvj3WD0,34.140771,-118.254663,The Vape Theory,420 S Brand Blvd Glendale CA 91204 USA,vape
+ChIJm9xhdRpL3YARlcUdyQ0iI6E,33.805877,-118.35821,Blitzkrieg Urban Supply,24020 Vista Montana b Torrance CA 90505 USA,vape
+ChIJZ5yJ7j0z3YAR4PKK4BCwV9A,33.8599896,-118.1755875,B&M Vape & Cigars,Long Beach CA 90805 USA,vape
+ChIJ4WY3yGRK3YARCx8nJHjWrSg,33.7983428,-118.311718,Let's Vape Inc,1886 Lomita Blvd c Lomita CA 90717 USA,vape
+ChIJN4d5YsicwoARK6h8I44mHaQ,34.2538725,-118.6055388,818 VAPOR BAR,10104 Topanga Canyon Blvd Chatsworth CA 91311 USA,vape
+ChIJB2TaUe8l3YAR-UslVRtA0pg,33.7359315,-118.0310179,USA Vape Lab,15572 Commerce Ln Huntington Beach CA 92649 USA,vape
+ChIJRaw7YDfR3IARidHTMvT3VqE,33.8607758,-117.8194789,Abstrakt Vape Co.,1241 N Lakeview Ave ste d Anaheim CA 92807 USA,vape
+ChIJXbhqTW8g3YAR4FTGBB3R2xo,33.6382356,-117.9425488,Vape Goddess,1011 Brioso Dr Costa Mesa CA 92627 USA,vape
+ChIJF-xv1OXV3IARPzAvS93zRDo,33.8714623,-117.9076403,CKS Vape,131 N Raymond Ave Fullerton CA 92831 USA,vape
+ChIJw7yrVKUy3YARuvg7iu35Kpo,33.8819361,-118.123957,LA Vape Company,9836 Flower St Bellflower CA 90000 USA,vape
+ChIJb3Ew3jYvw4ARU5c7cQY_3Bc,34.105434,-117.817517,Smoke and Dreams Vape & Smoke Shop,633 Arrow Hwy San Dimas CA 91773 USA,vape
+ChIJjzcrrzEp3YARNV3H12-mouo,33.8097021,-118.0103913,Vape Envy,10506 Knott Ave Stanton CA 90680 USA,vape
+ChIJAfOkKTEow4AR_vJxVTfsp90,34.075989,-117.908169,Ultramist Vape,351 N Azusa Ave West Covina CA 91791 USA,vape
+ChIJy-kBCF_V3IAR_bp3OuGFkpo,33.9241233,-117.9227208,Vape Bartender,2120 E Lambert Rd Suite #A La Habra CA 90631 USA,vape
+ChIJpRfr8NYr3YAROlGPR1-RBOA,33.8488406,-117.9797157,Vape Bums Supply Co.,1169 N Knollwood Cir Anaheim CA 92801 USA,vape
+ChIJT1WRQNxp6oAR9pTmXx7cYN0,33.714913,-117.796385,Luxor Vape Distro,51 Peters Canyon Rd Irvine CA 92606 USA,vape
+ChIJbccEMwTR3IAR3V063PyHZVw,33.8586261,-117.7911882,Vape works,5642 E La Palma Ave #102 Anaheim CA 92807 USA,vape
+ChIJC21To4TXwoARrwoBVn19GjQ,34.0866262,-117.9651758,Puff & Pass Smoke and Vape,14151 Ramona Blvd #2B Baldwin Park CA 91706 USA,vape
+ChIJs8vfTmMy3YARCK2gWoRHILM,33.8465389,-118.1239726,Genki Vape,5528 Del Amo Blvd Lakewood CA 90713 USA,vape
+ChIJCaRzO1HawoARGXXJjBeYXv0,34.1068144,-118.0581566,Aqua Vape,9678 E Las Tunas Dr Temple City CA 91780 USA,vape
+ChIJ-8ERMx4s3YARE5GQlQbGS-U,33.8321131,-118.0389903,Vape Escape,5363 Lincoln Ave Cypress CA 90630 USA,vape
+ChIJeeby2wfV3IARcC02HHkkuMU,33.9107878,-117.8892204,Vape Headquarters,391 S State College Blvd Brea CA 92821 USA,vape
+ChIJl6QRp2cr3YARPDCHCepYMUQ,33.8974345,-118.0088613,Vape Nation,15086 Rosecrans Ave La Mirada CA 90638 USA,vape
+ChIJO0A3Qd7awoAR-yuvmRc3ejk,34.1024812,-118.0908011,Just Vape LA,124 S San Gabriel Blvd San Gabriel CA 91776 USA,vape
+ChIJy-rglZHPwoARRHQjsIVt8xs,34.0400862,-118.1438693,The Vape Unit,2099 S Atlantic Blvd N Monterey Park CA 91754 USA,vape
+ChIJubPXSe8x3YARD-kpWxZ7DN4,33.7950291,-118.1257178,The Vape Depot,2139 N Bellflower Blvd Long Beach CA 90815 USA,vape
+ChIJ2zX32r4ow4ARgSLhwhY0fG4,34.1069167,-117.849596,Mode Vape - Glendora,747 E Arrow Hwy B Glendora CA 91740 USA,vape
+ChIJd50D9__V3IARNOQE8u4uPWI,33.860165,-117.924854,Fresh Tobacco Smoke & Vape,1125 S Harbor Blvd b Fullerton CA 92832 USA,vape
+ChIJlTeNxpDawoARrbBKPXmJcWs,34.0793344,-118.0821927,The VAPE Site,3927 Walnut Grove Ave #123 Rosemead CA 91770 USA,vape
+ChIJAQDkMpgr3YARwV1tzgDE7Rs,33.872992,-117.998,Vape Social,6026 Beach Blvd Buena Park CA 90621 USA,vape
+ChIJKcTArujV3IARXV3ErxIj-tg,33.8743804,-117.9065434,The House Of Glass & Vape,1209 E Chapman Ave Fullerton CA 92831 USA,vape
+ChIJhfRUlLPNwoARW49m-pCG1BI,33.9402046,-118.1549007,RC Smoke Shop & Vape,7352 Stewart and Gray Rd Downey CA 90241 USA,vape
+ChIJoUb0HPwqw4ARhEWd9xfdClk,33.9876028,-117.8829871,The VAPE Site,19257 Colima Rd Rowland Heights CA 91748 USA,vape
+ChIJtd_Htq6o3IARw7nmuK2ion4,33.9434543,-117.2603303,EPiK Vape,12220 Pigeon Pass Rd L Moreno Valley CA 92557 USA,vape
+ChIJ03NL0lW03IARjHg9rfCWnjE,34.0038038,-117.4988818,Great Vape,4660 Galena St B Riverside CA 92509 USA,vape
+ChIJ8TmFUVu33IARortLpBfRcR0,33.8967312,-117.4726677,Landslide Vape - Online Only,3410 La Sierra Ave Unit 161 Riverside CA 92503 USA,vape
+ChIJw7nAsTql3IARjIz3PbHxg_4,33.8864215,-117.3490315,Van Buren Vape Smoke Shop,17966 Van Buren Boulevard Riverside CA 92508 USA,vape
+ChIJQQGHLlqq3IARNXeYRuBjUNo,34.0687055,-117.2062774,The Vape Warehouse 2,1235 Indiana Ct Unit 109 Redlands CA 92374 USA,vape
+ChIJ_XiymM5Xw4AROfHr95ag5HM,34.2485726,-117.1896581,Vanity Vape,280 CA-173 Lake Arrowhead CA 92352 USA,vape
+ChIJD2nqM76Z3IARTnG4p49OZ6g,33.6934928,-117.3349137,Vapeway Vape Shop,29280 Central Ave Suite E Lake Elsinore CA 92532 USA,vape
+ChIJP9sr2HG43IARt7CHJ4Zv3U0,33.843336,-117.538007,VAPEWAY VAPE SHOP,2363 California Ave #202 Corona CA 92881 USA,vape
+ChIJ538U11qq3IARxWjH4yAchlo,34.0657145,-117.2054848,Vape Plus,1480 Industrial Park Ave Redlands CA 92374 USA,vape
+ChIJmeMXt52C3IARywZ9gYH9VmM,33.5993039,-117.1759859,Almond Vape & Smoke,27890 Clinton Keith Rd Murrieta CA 92562 USA,vape
+ChIJKZRj5luC3IARKx16PcsyX2I,33.5731641,-117.2040854,Vape Krave,40685 California Oaks Rd B Murrieta CA 92562 USA,vape
+ChIJdw9XVHe0xIAR640rI93R74Q,34.2434329,-116.8853425,The Daily Vape,42011 Big Bear Blvd Big Bear Lake CA 92315 USA,vape
+ChIJB0mVAKZi24AROyQbIT-l4Uc,33.639906,-117.167033,The Vape Lodge 2,33040 Antelope Rd Suite 115 Murrieta CA 92563 USA,vape
+ChIJVZCpFAiC3IARO7BgdR7nwnM,33.5555381,-117.1748332,Unique Vapors Vape Shop,40250 Murrieta Hot Springs Rd Suite 113 Murrieta CA 92563 USA,vape
+ChIJN-8DMK5E24ARcXgLXpgls3M,33.931761,-116.976775,Smoke & Vape,754 Beaumont Ave Beaumont CA 92223 USA,vape
+ChIJK-P73vNW24AR9QJOLHifv6M,34.0282772,-117.1189142,Smoke Smart Vape Shope,Hampton Rd Yucaipa CA 92399 USA,vape
+ChIJm7xWFEWv3IARntfwg5t94tw,33.9451976,-117.2794192,Vape Shop:Vapor Boss,12125 Day St J303 Moreno Valley CA 92557 USA,vape
+ChIJEVK-o-Cm3IARLpMRqtUqj_o,33.884503,-117.225254,Perris Vape,25045 Red Maple Ln #203 Moreno Valley CA 92551 USA,vape
+ChIJcy26Jl6X3IARW_G82zKdztk,33.685002,-117.36563,Bubbles Smoke & Vape,30850 Riverside Dr Lake Elsinore CA 92530 USA,vape
+ChIJjUzQUYNNw4ARDBTAoteI30A,34.1226984,-117.3733339,Rialto Smoke And Vape,222 W Baseline Rd Rialto CA 92376 USA,vape
+ChIJSWng2las3IARA5J3lj6xKG0,34.0460328,-117.3064574,Mystic Vape,1220 E Washington St Colton CA 92324 USA,vape
+ChIJ0yc4OKyy3IARSVSJMSn98sQ,34.072431,-117.369667,Kustom Vapes Rialto,A2 1613 S Riverside Ave Rialto CA 92376 United States,vape
+ChIJx11jz7RMw4ARvRT9Sn8heN8,34.0610807,-117.4360398,Pure Vapor Fontana,10650 Sierra Ave Fontana CA 92337 USA,vape
+ChIJz9QmJAG03IARgq6qSAw2sQg,33.9769771,-117.4588794,VapeRoots,8022 Limonite Ave Riverside CA 92509 USA,vape
+ChIJSSBRe3CC3IAR2sXu7W-yjB0,33.572831,-117.182835,Vaapescape,39840 Los Alamos Rd Murrieta CA 92562 USA,vape
+ChIJy5GVDBhVw4AR49IRPcdMHUE,34.1352147,-117.2101438,Ace of Vapes,3545 E Highland Ave Highland CA 92346 USA,vape
+ChIJzzMlVK6c3IARrJCmSr5EsD4,33.6148313,-117.2586338,Rippin Vapors Wildomar,34859 Frederick St #114 Wildomar CA 92595 USA,vape
+ChIJP4ihqw2q3IAR87_xHLMK42U,34.0569537,-117.1823853,Upscale Vapes,112 Orange St Redlands CA 92373 USA,vape
+ChIJb5K6HdpUw4ARZobvo8rxHGI,34.121928,-117.226504,IE Smoke Shop,26498 Base Line St Ste D Highland CA 92346 USA,vape
+ChIJf_JFsTOx3IAR3ZO46VCg2eg,33.9462904,-117.4522604,Smoked Out Vapors,7207 Arlington Ave h Riverside CA 92503 USA,vape
+ChIJbUQpyBR-24AREjFGnejLwic,33.5331558,-117.1508344,Tobacco & vape,40335 Winchester Rd c Temecula CA 92591 USA,vape
+ChIJ3z658e8n24ARv5fqPrUEMzs,34.121191,-116.4321786,Next level vaping,56460 Twentynine Palms Highway Yucca Valley CA 92284 USA,vape
+ChIJfz0XG_qx3IARP0Z4fw-g9rw,33.9877265,-117.3725554,Third Street Vapes,3257 Market Street #2 Riverside CA 92501 USA,vape
+ChIJKw3iB7N_24ARsrdGh_k8msU,33.5079275,-117.1416501,The Vape Lodge,29760 Rancho California Rd #102 Temecula CA 92591 USA,vape
+ChIJX7AnKnFi24ARsuxGn5cs4ow,33.6826066,-117.1700535,Almond Smoke Shop +,Menifee Town Center Shopping Center 30145 Antelope Rd #104 Menifee CA 92584 United States,vape
+ChIJiXPDtgWl3IARFYiXAd_ctxI,33.8897634,-117.3222752,Rize Vapor,19510 Van Buren Boulevard F3-130 Riverside CA 92508 USA,vape
+ChIJ398YQIpRw4ARwzj27MZCO7M,34.169092,-117.333937,Daniel's Smoke Shop,4434 University Pkwy i San Bernardino CA 92407 USA,vape
+ChIJNZJFpIJE24ARJiy9_s4Q-Dw,33.92811,-116.9492475,Smokey's Smoke Shop,1671 E 6th St Beaumont CA 92223 USA,vape
+ChIJwSTh9R8uw4ARpsIDJgC1aX8,34.0889195,-117.7385285,Pomona Smoke N Vape,636 E Arrow Hwy Pomona CA 91767 USA,vape
+ChIJYemojeYc24AR_fMj77AFGlI,33.815493,-116.474938,111 Smoke Shop,68031 Ramon Rd Cathedral City CA 92234 USA,vape
+ChIJX7D7oETH2oAR2fG_qu7fbxc,34.1511281,-116.0544719,Next Level Vaping No.2,5653 Plaza Rd Twentynine Palms CA 92277 USA,vape
+ChIJcV4Ql2_H2oAROOZEYZGpXzg,34.1649904,-116.0544466,Alien vapory,4890 Adobe Rd Twentynine Palms CA 92277 USA,vape
+ChIJSWaonZrH2oARyEudcwifulc,34.1872436,-116.0552327,my vape life,3668 Adobe Rd Twentynine Palms CA 92277 USA,vape
+ChIJT1JE_Nj52oARjR501Lc_lVk,33.7345967,-116.2331716,Desert Vapors - Indio,43430 Monroe St Indio CA 92201 USA,vape
+ChIJWaTrP5do24ARDqy5LV7SC-0,33.7815394,-116.9723497,Hookah Zone & Vape Lounge,500 S State St San Jacinto CA 92583 USA,vape
+ChIJW08Es-1D24ARMLP9tXrXYY0,33.9250554,-116.9106939,Sunset Vapors,3166 W Ramsey St Banning CA 92220 USA,vape
+ChIJ54OpGaUb24ARFDRv4gp4cX8,33.8243624,-116.5465371,The Vapor Door,172 N Palm Canyon Dr Palm Springs CA 92262 USA,vape
+ChIJ3b-qX1P_24ARhi4C-DvgbGE,32.8791688,-117.1673195,Smoking Section Smoke Shop / Vape Shop,6904 Miramar Rd #208 San Diego CA 92121 USA,vape
+ChIJVec_t6lQ2YARqNG8t9m76w8,32.7472945,-116.986995,Valley Vape and Glass,9717 Campo Rd Spring Valley CA 91977 USA,vape
+ChIJQX4T0kg50YARjnwD9mU5EBA,33.6105374,-114.5976417,Steve's Smoke Shop,409 Hobsonway Blythe CA 92225 USA,vape
+ChIJKTeluOPx3IARWod2tje1ifE,33.493683,-117.6638704,Golden Coast Vapes,32301 Camino Capistrano a San Juan Capistrano CA 92675 USA,vape
+ChIJ7ZUTq_9x3IAR4tzSLgmFnGE,33.1709742,-117.3589968,Outer Limits Smoke Shop,2027 S Coast Hwy Oceanside CA 92054 USA,vape
+ChIJ2zwRcYlx3IARWqvN68wR3mk,33.1781956,-117.3308209,Aroma Avenue Vape,2525 El Camino Real Carlsbad CA 92008 USA,vape
+ChIJTxg-Uj9x3IAR6dIWvbHCk8Y,33.2076131,-117.286108,Cigarettes 4 Less,4170 Oceanside Blvd #177C Oceanside CA 92056 USA,vape
+ChIJbzF3Jxrp3IAReLMa1Mappn0,33.6147765,-117.6807062,Club Vapor USA,24002 Vía Fabricante # 303 Mission Viejo CA 92691 USA,vape
+ChIJG4oYQBrp3IAR3-DW0pzOKlo,33.6161963,-117.6801854,South County Vapors,23891 Vía Fabricante Mission Viejo CA 92691 USA,vape
+ChIJ-WcjWe0L3IAR9z7Zhm-NK_E,33.046655,-117.2556756,South Coast Vapor Co.,1532 Encinitas Blvd Encinitas CA 92024 USA,vape
+ChIJkeWUUjBX2YARV7kx2VOH3Io,32.8061445,-117.2210135,Euphoria Vapor Outlet,2710 Garnet Ave #105 San Diego CA 92109 USA,vape
+ChIJ65RPdCcA3IARjJEGRLowvuE,32.7889994,-117.2056515,Vape & Smoke Shop Universe,2525 Morena Blvd San Diego CA 92110 USA,vape
+ChIJu0WhzokA3IARcyp2wKcOMn0,32.8348584,-117.1888175,Vapin' The 619,4730 Clairemont Mesa Blvd San Diego CA 92117 USA,vape
+ChIJx2Mj2Uz_24ARIbubj_LXNl4,32.8813558,-117.1586502,Vape & Smoke Shop Universe,7190 Miramar Rd suite 111 San Diego CA 92121 USA,vape
+ChIJ8W_oX1jx24ARG96vUhoOIws,33.071445,-117.066738,Vape Avenue Escondido,272 E Via Rancho Pkwy Escondido CA 92025 USA,vape
+ChIJ5WP312Lo3IAR_XUoTRs9u88,33.6220358,-117.7248908,Kingdom Elixir,23182 Alcalde Dr f Laguna Hills CA 92653 USA,vape
+ChIJI9bg-f1x3IARxdNSD8rEw14,33.1737568,-117.3613608,The Vape Ministry,1837A S Coast Hwy Oceanside CA 92054 USA,vape
+ChIJTfhRGBrX3IAR7I7PS26rqyA,33.824637,-117.86104,Dr. Vapor Warehouse,2199 N Batavia St a Orange CA 92865 USA,vape
+ChIJSaLqZij-24ARZGgcMr-AWHU,32.8108797,-117.1158586,Vape Kingz,3755 Murphy Canyon Rd San Diego CA 92123 USA,vape
+ChIJsWuUMsZV2YARSZofqIWyPdU,32.781983,-117.099891,Vape Up USA San Diego,5863 Mission Gorge Rd Suite B San Diego CA 92120 USA,vape
+ChIJcVqe2X5Q2YARj1i17eX-YWo,32.731719,-116.972414,Vaping Veteran's Supplies LLC,10174 Austin Drive BOX 1333 Spring Valley CA 91977 United States,vape
+ChIJ6xUxm4D_24ARrhTbz7AqEYk,32.8213706,-117.1555657,Illusions Vape Smoke Shop,4488 Convoy St Suite F San Diego CA 92111 USA,vape
+ChIJgQ6z48X524AR2lh4Y65W0Vg,32.9613074,-117.1141294,Vape Yosi,9926 Carmel Mountain Rd San Diego CA 92129 USA,vape
+ChIJH6jxl4VR2YARcwYVLMESzyU,32.684662,-117.071493,Vape Pharm,3403 East Plaza Boulevard Suite J-1 National City CA 91950 United States,vape
+ChIJ12Douyn524ARfQ0IiZT3FSE,32.897366,-117.124586,Vape Supplies On Point,9420 Activity Rd E San Diego CA 92126 USA,vape
+ChIJJRbfhgNy3IAR-GuzvjmFxqU,33.1559057,-117.1294305,Vape House Electronic Cigarette,979 Woodland Pkwy San Marcos CA 92069 USA,vape
+ChIJqSVZ0t1O2YARmLGEnWOpe78,32.5942074,-117.0391277,Vape & Smoke Universe,4360 Main St Ste 202 Chula Vista CA 91911 USA,vape
+ChIJJ0_k8QlT2YARKpt_MtNlZw0,32.696117,-117.1280108,National Ave Smoke & Vape Shop,2541 3094 National Ave San Diego CA 92113 United States,vape
+ChIJvVnNVL3_24ARf74hToWA5zU,32.8322658,-117.1498924,Vape58,8055 Clairemont Mesa Blvd #108 San Diego CA 92111 USA,vape
+ChIJtS6C0Q5T2YAR3JgnmVWkTTY,32.693109,-117.13275,Euphoria Vapor Outlet,2842 Main St San Diego CA 92113 USA,vape
+ChIJtQ6iTlj924AR2QH7zzU2YTk,32.8383441,-116.9989452,United Vapes,9157 Mission Gorge Rd Santee CA 92071 USA,vape
+ChIJlzg0Znfi24AR3KMwvcsJlBU,32.85704,-116.925982,Vapor Meister,12346 Woodside Ave D Lakeside CA 92040 United States,vape
+ChIJcyyIkKPo24ARyOdUqI4fj3I,33.0446234,-116.8642287,Vapor Trail Ink,711 Main St Ramona CA 92065 USA,vape
+ChIJ2T7LpOOq3oARFMmuUkOeZYw,32.749912,-117.20476,Midway Cigars & Smoke Shop,3555 Rosecrans St #105B San Diego CA 92110 USA,vape
+ChIJYwZvtHji24AR1an3ObQjaWw,32.8524533,-116.9320253,Cloud 9 Smoke Shop,9610 Winter Gardens Blvd unit f Lakeside CA 92040 USA,vape
+ChIJU1C86e5W2YARaeO4YB_LhOQ,32.768407,-117.047928,Illusions Smoke Shop,6957 El Cajon Blvd #101 San Diego CA 92115 USA,vape
+ChIJL1OW0iv524ARRcvJbhjHse0,32.8949412,-117.1231942,Vaperoo,9467 Black Mountain Rd San Diego CA 92126 USA,vape
+ChIJtyv7h5pF2YARI4QTafiWTlE,32.623272,-116.9698865,Vape Elements,2015 Birch Rd Chula Vista CA 91915 USA,vape
+ChIJ81eDOwDm24ARTwWj-sI2RZU,33.027796,-116.8891505,main smoke shop,2330 Main St g Ramona CA 92065 USA,vape
+ChIJ_aXaDt503IAR4ykxrFhyGTU,33.1366512,-117.2260421,yougotejuice.com,1485 Poinsettia Ave Ste 112 Vista CA 92081 USA,vape
+ChIJGc6rhjZu3IART_5ui27NzrI,33.1990848,-117.3819076,Syndicate Vapes,514 N Coast Hwy Oceanside CA 92054 USA,vape
+ChIJTxnOxcFg14ARkI4z2kOz1a0,32.7930582,-115.5578362,Main Street Vapory,660 Main St El Centro CA 92243 USA,vape
+ChIJfYvLjKdT2YARZGUChM17j3c,32.6932489,-117.1261936,The Vape Corner,3158 Main St San Diego CA 92113 USA,vape
+ChIJm05dCZf_24ARTszUpnIPpKU,32.8298324,-117.1525803,The Switch SD Vape Shop,4853 Convoy St San Diego CA 92111 USA,vape
+ChIJ84Buwv5U2YAR9qoL4mkhst8,32.759816,-117.130058,OSV Vape Shop,4535 30th St #121 San Diego CA 92116 USA,vape
+ChIJixSMQe9W2YARR3gytC-gkhE,32.760195,-117.068774,Aztec Vape Shop,5971 El Cajon Blvd San Diego CA 92115 USA,vape
+ChIJkQXa6nxO2YARa19KKcRCKFE,32.6144242,-117.0692074,Vape Up USA,1079 3rd Ave a Chula Vista CA 91911 USA,vape
+ChIJaS1F2ddb2YARR7k0f2ozTKw,32.7678195,-116.9285292,Euphoria Vapor Outlet,1530 Jamacha Road Ste P El Cajon CA 92019 United States,vape
+ChIJL3_ydwtY2YAR-EGCezNJYSA,32.8395273,-116.9645586,Euphoria Vapor Outlet,10769 Woodside Ave #204 Santee CA 92071 USA,vape
+ChIJi_DGo2ZV0VQR6bSLchabGXI,40.803195,-124.156214,Riverwalk Vapors,510 O St suite e Eureka CA 95501 USA,vapor
+ChIJd8diaMfs0lQR8v1QbAxtWGo,40.5702936,-122.338268,Golden State Vapor,2537 Victor Ave Redding CA 96002 USA,vapor
+ChIJAaeeTneVwoARbpQ2eQX7D1c,34.1774822,-118.3406788,Caught the Vapors,2718 W Burbank Blvd Burbank CA 91505 USA,vapor
+ChIJ07UsJCm6woAR2h7EvZdhoLM,34.0408692,-118.428929,The Vapor Spot- Vape Shop and Vapor Bar,2378 Westwood Blvd Los Angeles CA 90064 USA,vapor
+ChIJ-7HTYwq1woARubqLpl2LNWU,33.8826466,-118.3259681,Vicious Vapor,16300 Crenshaw Blvd #103 Torrance CA 90504 USA,vapor
+ChIJ8-Jh_zkow4ARlBgX5WXx1Pg,34.0794393,-117.9072636,Vapor Devils,500 N Azusa Ave suite 111 West Covina CA 91791 USA,vapor
+ChIJb1XmTZgz3YARBWslo75vpZQ,33.8281551,-118.1853402,Vapor Craze,3837 Atlantic Ave Long Beach CA 90807 USA,vapor
+ChIJL9Z4X5Ap3YAR3lY6EnAb1SY,33.838257,-117.958388,Vapor Store Smoke Shop,500 N Brookhurst St #101 Anaheim CA 92801 USA,vapor
+ChIJxXwvF0ov3YARmAaYyubq9TI,33.773048,-118.02335,Simple Vapors II,13077 Springdale St Westminster CA 92683 USA,vapor
+ChIJAQDAS8De3IARijzEVSvT5F4,33.692034,-117.857375,Verdict Vapors,17865 Sky Park Cir Irvine CA 92614 USA,vapor
+ChIJUa56qoZ7moARd___IkR0O6M,38.3664996,-120.7975936,It is vapor,11215- 12019 Martell Rd Jackson CA 95642 United States,vapor
+ChIJWxXlBXMfm4AR0wJMD9L3cbY,38.7802388,-121.2432142,Gifts & Smokes For Less,6015 Pacific St Rocklin CA 95677 USA,vapor
+ChIJD9QhDBqgmoARg3bM_uIoZlc,38.1306606,-121.273633,King of Vapor,230 S School St Lodi CA 95240 USA,vapor
+ChIJg3woU9YEm4ARCAz339z7190,38.8999987,-121.0694018,Clock Town Smoke Shop/It Is Vapor Express,1039 High St Auburn CA 95603 USA,vapor
+ChIJ1bpyuU3emoAR7_m-i-VHZz8,38.6788356,-121.2949751,Omega Vapor Supply,7291 Greenback Ln #1 Citrus Heights CA 95621 USA,vapor
+ChIJk7TsXHqej4ARJmBcRndlT-Q,37.566682,-122.320407,The Zone Smoke Shop and Vapor,516 E 3rd Ave San Mateo CA 94401 USA,vapor
+ChIJK0tgKMiVj4ARpFRHBVfwgq0,37.6059077,-122.0612748,Green Vapors,2428 Whipple Rd #104 Hayward CA 94544 USA,vapor
+ChIJfV6s04QCkIAR0Vsa079XLc8,37.8902411,-121.6202751,Cigar Loft Smoke and Vapor Shop,14870 CA-4 b Discovery Bay CA 94505 USA,vapor
+ChIJna9DVZe_j4ARHni1HUyAx-c,37.5627036,-122.010331,Vapor Planes,3679 Thornton Ave Fremont CA 94536 USA,vapor
+ChIJjQzSshp3hYARgMV_4gSr11Q,37.989898,-122.2999485,Better Cloud Vapor,2564 Appian Way Pinole CA 94564 USA,vapor
+ChIJkeVnkc3Aj4ARw6hxFW2R40U,37.5328168,-121.9595568,Vapor & Stogies,4020 Bay St Fremont CA 94538 USA,vapor
+ChIJ_eTtFiV5hYARVMSDBN4LOss,37.8956756,-122.3011624,Better Cloud Vapor,600 San Pablo Ave #105 Albany CA 94706 USA,vapor
+ChIJN-6wlVw0joARaWPpyuDM2yo,37.26145,-121.929059,us vapor mods,14938 Camden Ave San Jose CA 95124 USA,vapor
+ChIJnUGO3FuFj4ARhQolhDjcObA,37.705298,-122.180851,Empire Smoke Shop,2139 Doolittle Dr San Leandro CA 94577 USA,vapor
+ChIJsf8AKVg9kIARHsq6v8vajlI,37.7618431,-121.4333971,Tracy Vapors,551 W Clover Rd Tracy CA 95376 USA,vapor
+ChIJmVtP3HEgjoARbtDUbIQVXhg,37.111719,-121.63914,Morgan Hill Vapors,15650 Vineyard Blvd j Morgan Hill CA 95037 USA,vapor
+ChIJl5qQpp4xjoARSHqn30WeYUY,37.2898596,-121.848584,Hella Good Vapors,2951 Monterey Rd #30 San Jose CA 95111 USA,vapor
+ChIJe73iqB7Nj4ARSab79M5QJW0,37.3555093,-121.851105,Plush Vapors,1915 Alum Rock Ave San Jose CA 95116 USA,vapor
+ChIJTXHo0lddlIARtg8VRAwwTaw,36.8272591,-119.7883354,High Stakes Vapor (by appointment only),90 E Escalon Ave #112 Fresno CA 93710 USA,vapor
+ChIJFx1gcZ9clIAR9_vzDePnN3k,36.838463,-119.69962,C-City Smoke Shop and Vapor,435 N Clovis Ave #106 Clovis CA 93611 USA,vapor
+ChIJreY1fUsxw4ARRE6GzbEuj4c,34.1075632,-117.6456158,Classic Vapor Inc,373 E Foothill Blvd Upland CA 91786 USA,vapor
+ChIJWyhemoS1woARW9EPITJiZPk,33.8932448,-118.308546,Vapor Range,15210 S Western Ave Gardena CA 90249 USA,vapor
+ChIJn092zwUz3YAROb_xtdHss1E,33.8463375,-118.1685259,City Vapors,1942 E Del Amo Blvd Long Beach CA 90807 USA,vapor
+ChIJY3vlojfGwoARcSrKzUSLtK0,34.045791,-118.242423,US Vape Wholesale - Vapor Wholesale Supply,413 E 4th St Los Angeles CA 90013 USA,vapor
+ChIJDcI_e5Mnw4ARKfNFSc1VWRU,34.1326209,-117.9077879,Rippin Vapors Azusa,625 N Azusa Ave Azusa CA 91702 USA,vapor
+ChIJ20HmrPJClIAR3jxOmiDPGTw,36.870825,-119.765659,Glass Lab @ Champlain,1097 E Champlain Dr Fresno CA 93720 USA,vapor
+ChIJQ-_-uj_qwoARbEclOYFuLBk,34.2178571,-118.2272244,Crystal Vapor,2259 Foothill Blvd La Cañada Flintridge CA 91011 USA,vapor
+ChIJ2Y6R7JvY3IAR11BGiREvTkI,33.7235102,-117.9177411,E-Juice Vapor,16520 Harbor Blvd Fountain Valley CA 92708 USA,vapor
+ChIJVWuj3acl3YAR8cMDQmwNirw,33.712795,-118.063434,Sunset Vapor,17212 Pacific Coast Hwy Ste A Huntington Beach CA 92649 USA,vapor
+ChIJO9ULXonf3IARpGABr2t0smc,33.6575323,-117.9017629,Vapor Shot,2428 Newport Blvd #4 Costa Mesa CA 92627 USA,vapor
+ChIJpfsA-eUu6IARRLbuU0vU6sI,34.2660541,-118.7954979,Cloud10 Vapor Bar,1464 Madera Rd L Simi Valley CA 93065 USA,vapor
+ChIJ1QKc0kjBwoARXSfPipw6Jco,34.140914,-118.224856,Simply Vapor,2700 Colorado Blvd Eagle Rock Plaza Next To Game Stop Los Angeles CA 90041 United States,vapor
+ChIJo4qPz7go3YAR4bcuRxf7j6I,33.7769301,-118.0019087,Vapor Generics,12761 Western Ave Garden Grove CA 92841 USA,vapor
+ChIJI3ml6bpcwoARf_HuX5-1T8g,34.6457838,-118.2190395,High Desert Vapor,5015 W Ave M Quartz Hill CA 93536 USA,vapor
+ChIJSZOU5pcUw4ARY2rhHl8_qNo,34.4267156,-117.5735398,Phelan Vape Shop,4050 Phelan Rd #9 Phelan CA 92371 USA,vapor
+ChIJE4ipK6dU2YARcvGw7Q4LH7M,32.7183465,-117.1560789,Vapor High USA,1281 Ninth Ave #704 San Diego CA 92101 USA,vapor
+ChIJlUSYbzsl6IARg9HCg7SfLvo,34.179142,-118.858582,The V Spot Vapor,1165 E Thousands Oaks Blvd Thousand Oaks CA 91362 United States,vapor
+ChIJ_QFIaSyWwoAR1CxJX1fAtgc,34.1492533,-118.4357968,Vapor Shop & Lounge Of Sherman Oaks,13909 Ventura Blvd Sherman Oaks CA 91423 USA,vapor
+ChIJ6REvtXCVwoARdyNRdut4UpQ,34.1775758,-118.3405861,Caught the Vapors,2716 W Burbank Blvd Burbank CA 91505 USA,vapor
+ChIJi_a8_QiWwoARlVuAOOGa6wg,34.1655096,-118.396947,Studio City Vapor,5219 Laurel Canyon Blvd Valley Village CA 91607 USA,vapor
+ChIJOYlhH_3AwoARtRhrALFArqA,34.1380155,-118.2553335,Pure Blue Vapor Lounge,707 S Brand Blvd Glendale CA 91204 USA,vapor
+ChIJtxaFfhBL3YARmWkmeCpKQnA,33.8058767,-118.3582098,Vapor Hood,24020 Vista Montana Torrance CA 90505 USA,vapor
+ChIJ74pb0_OVwoARsZogtogciSY,34.1654438,-118.3751286,Vapor Delux - North Hollywood,5221 Lankershim Blvd North Hollywood CA 91601 USA,vapor
+ChIJi8R2e9SbwoARMNM06R0Yg1o,34.2038985,-118.5363253,B B's Smoke Shop,7329 Reseda Blvd Reseda CA 91335 USA,vapor
+ChIJz6TyThK-woARgtKhh-9GQxU,34.1395366,-118.3788958,Endless Vapors LA,11392 Ventura Blvd Studio City CA 91604 USA,vapor
+ChIJy1Rl4jjBwoARlgflsyyL7Q0,34.1254353,-118.2321495,Vida Cali Vapor,4115 Verdugo Rd Los Angeles CA 90065 USA,vapor
+ChIJbcOaJMXQwoARB4yjk609RCM,34.0490428,-118.0332027,Steep Vapors,11135 Rush St South El Monte CA 91733 USA,vapor
+ChIJPeoKoN7HwoAR8FdlETl1X9Q,34.025123,-118.27158,Kalari Vapor Los Angeles,2641 S Hill St b Los Angeles CA 90007 USA,vapor
+ChIJq6qqqi60woARwOHvVGEJAro,33.9127807,-118.3520389,Vapor Rejuvination Therapy,Hawthorne CA 90250 USA,vapor
+ChIJ8V5dZOnTwoARvL7VtJRTTDc,33.9781092,-118.0370155,The Vapor Box,7028 Greenleaf Ave e Whittier CA 90602 USA,vapor
+ChIJudXlVVEo6IARGo2wj1SI5Yk,34.2713353,-118.7136433,Vapor Nuvola,4210 E Los Angeles Ave Simi Valley CA 93063 USA,vapor
+ChIJSXsJAepK3YARK2UnWKLHIkk,33.8210394,-118.3286131,VaporDNA,22517 Crenshaw Blvd Torrance CA 90505 USA,vapor
+ChIJVVUZyN3b3IARURC1nnEfHdE,33.74186,-117.8238962,Blaq Vapor,100 W Main St Tustin CA 92780 USA,vapor
+ChIJL-vMZYAo3YARH-p06SUCoSc,33.7672409,-117.9727621,Crown Vapors,13471 Magnolia St Garden Grove CA 92844 USA,vapor
+ChIJddU6fYnf3IAR_nFLnt2QJjw,33.638976,-117.921612,C3 Vapors and Coffee Shop,1779 Newport Blvd Costa Mesa CA 92627 USA,vapor
+ChIJ73PCp1DFwoARqIOSCF12XMM,34.0626403,-118.1239713,Vapor Times,149 W Garvey Ave Monterey Park CA 91754 USA,vapor
+ChIJ-2TqJWXo3IARN7Ap2T3k2ak,33.6277475,-117.7248621,Vapor Craze,23016 Lake Forest Dr Laguna Hills CA 92653 USA,vapor
+ChIJ9Sz2W-fZ3IARbUlTWBnXXRY,33.788138,-117.8540602,Dr. Vapor The Old Towne Vape,111 N Olive St Orange CA 92866 USA,vapor
+ChIJUV0RSJC4woARpunjR8YWIr8,34.062131,-118.3133811,The Vapor Shop - Vape Bar and Vape Lounge,3959 Wilshire Blvd Unit 13B Los Angeles CA 90010 USA,vapor
+ChIJt4FG-zHWwoARYX1mq2e-bv8,34.056263,-117.937062,Orgazmic Vapor,1104 Wescove Pl West Covina CA 91790 USA,vapor
+ChIJOWzYRV8pw4AR9ntbLpA40qs,34.04559,-117.849716,Vapor Junkies,1321 N Grand Ave Walnut CA 91789 USA,vapor
+ChIJp7ni1V4n3YARy8iHC5R3g1k,33.7302676,-117.9244673,8 Ball Vapor,11759 Edinger Ave Fountain Valley CA 92708 USA,vapor
+ChIJg5bPOk7X3IARC75q_N3aK0o,33.8089702,-117.8391746,Vapor Labs,1424 E Katella Ave Orange CA 92867 USA,vapor
+ChIJ7ZrgEtvJ3IARvOTvqC8Lv8s,33.9221974,-117.5591706,Stella Vapors Lounge,2743 Hamner Ave #109 Norco CA 92860 USA,vapor
+ChIJc4CLDVQxw4ARGBwVgeU2hss,34.086529,-117.6691012,Everlast Vapor, Ontario, CA,1520 N Mountain Ave #115 Ontario CA 91762 USA,vapor
+ChIJ1Y4Jkk_d3IARMpY3CTyB_TQ,33.6669749,-117.7483248,Sugoi Vapor,208 Technology Dr #M Irvine CA 92618 United States,vapor
+ChIJqfxsBxgvw4ARZB5S4CB_BFw,34.1036313,-117.8078286,Vape Shop:Vapor Boss,105 Arrow Hwy San Dimas CA 91773 USA,vapor
+ChIJxxU0mcAl3YARyjYl9Wo8MdA,33.7241028,-118.0420968,Surf City Vapors,16373 Bolsa Chica St Huntington Beach CA 92649 USA,vapor
+ChIJRdT3_4wu3YARkvAXHOvXJM0,33.8088467,-118.056801,Vapor Gauge Inc,10572 Calle Lee # 128 Los Alamitos CA 90720 USA,vapor
+ChIJG25e61id3IARXrFMV2A1H4M,33.641023,-117.1750864,Menifee Vapor Pros,27701 Scott Rd #202 Menifee CA 92584 USA,vapor
+ChIJOXE1dyV-24ARu4jdslVpixE,33.5163552,-117.1643516,Rippin Vapors Temecula,27470 Commerce Center Dr g Temecula CA 92590 USA,vapor
+ChIJeR4A0otMw4ARtQBdJ0SKRZY,34.106916,-117.428593,Vapor Boss,17218 E Foothill Blvd Unit 101 Fontana CA 92335 USA,vapor
+ChIJYzyzEzqq3IAREtX4CEJnWfE,34.0487404,-117.2081123,M&J Smoke Shop and Vapor,1566 Barton Rd Redlands CA 92373 USA,vapor
+ChIJnyj7QpZ-3IARwvkF86QXiYQ,33.3773278,-117.2521136,Norse Vapor,122 W Ash St Fallbrook CA 92028 USA,vapor
+ChIJ-2Ulx55y3YAREOKrRrEEfbQ,33.3439328,-118.3270559,Inno-Vapor Digital,161 Metropole Ave Avalon CA 90704 USA,vapor
+ChIJQ3SX-f1x3IAROn3ggra9i_g,33.1736582,-117.3613596,Gonzo Vapors,1839 S Coast Hwy Oceanside CA 92054 USA,vapor
+ChIJhQXD749x3IARBEyMoPKZffk,33.1858556,-117.3272055,Z Vapor Room,2216 S El Camino Real #103 Oceanside CA 92054 USA,vapor
+ChIJcVNWS8BV2YARe72rTx3BYlc,32.7900073,-117.1001122,Euphoria Vapor Outlet,10389 Friars Rd San Diego CA 92120 USA,vapor
+ChIJT-4uev2q3oARRZGJkcs-Jm0,32.745313,-117.211358,No Butts About It! Vape Shop and Lounge..,3045 Rosecrans St #207 San Diego CA 92110 USA,vapor
+ChIJgVhQod5x3IARiNV9Z7MKNPk,33.1940892,-117.3561489,Cloudhaven Vapors,1910 Oceanside Blvd b Oceanside CA 92054 USA,vapor
+ChIJqVFr5-VN2YARilOvio8zkyk,32.632555,-117.0896552,Euphoria Vapor Outlet,459 Broadway A Chula Vista CA 91910 USA,vapor
+ChIJ36QJRmcp3YAR7yZz6Ylb12k,33.838118,-117.994047,Vaper Venue,8600 Beach Blvd #103 Buena Park CA 90620 USA,vaper
+ChIJy3KR6EnGwoARzYS38zj3nBg,34.1719119,-118.4393722,Vapers Wholesale Sherman Oaks,14048 Burbank Blvd Sherman Oaks CA 91401 USA,vaper
+ChIJgab2XMPQmoARQoatIHC2Ac0,38.5679864,-121.4645234,Built to Win,3241 Folsom Blvd Sacramento CA 95816 USA,vaper
+ChIJz3S-PLnGmoAR9tGEYwoB_DI,38.4539454,-121.3701765,G Vapers,8359 Elk Grove Florin Rd #103 Sacramento CA 95829 USA,vaper
+ChIJTV7uU9XEwoARzW52VIfJkaM,34.1009175,-118.1125712,Arowana Vaper,849 Padilla St San Gabriel CA 91776 USA,vaper
+ChIJVfUjgVvFwoARv00LNok6qQY,34.0627828,-118.1294977,Vaper Venue 2.0,501 W Garvey Ave #106 Monterey Park CA 91754 USA,vaper
+ChIJpRWMA9Qz3YARRmT7qNiZZfE,33.8049816,-118.1645915,Vapers Choice Cotton,2201 E Willow St D 227 Signal Hill CA 90755 USA,vaper
+ChIJkYZOeDu_woARNQnUyDKErEA,34.1018634,-118.3317341,Vape Shop HOLLYWOOD / N HUDSON,6521 Hollywood Blvd A Los Angeles CA 90028 United States,vaper
+ChIJzwiIYVTf3IARLKHBiwlg6Wo,33.6925014,-117.9206796,Select Vape,F6 3303 Harbor Blvd Costa Mesa CA 92626 United States,vaper
+ChIJMVcseH0m3YAR2pkPNvVHHPo,33.716731,-118.009385,MetaVape,6829 Warner Ave Huntington Beach CA 92647 USA,vaper
+ChIJlc5ZgkBY2YARk_ZA5NVkTQE,32.8203567,-116.9615742,Vapin the 619,1571 Magnolia Ave El Cajon CA 92020 USA,vapin
+ChIJfQ8zsKYq3YARB-1nRPGEnuQ,33.9254817,-117.9299346,BZ Vapin Vape Shop,1403 E Lambert Rd La Habra CA 90631 USA,vapin
+ChIJUwcdb6pTm4ARacy0cRGkIO4,39.128015,-121.581585,Smoke Shop,937 N Beale Rd # B Marysville CA 95901 USA,vaping
+ChIJoS2II5FTdkARyI2JRl5D2uk,38.5324398,-121.4942987,Broham Art & Tobacco,4643 Freeport Blvd Sacramento CA 95822 USA,vaping
+ChIJoUjKDWoFm4ARBPQGPTRyEG8,38.921355,-121.056949,Millenium Smoke Shop,13334 Lincoln Way Auburn CA 95603 USA,vaping
+ChIJs-5dIjPamoARI5Hl8YUZA0U,38.600324,-121.401177,Blow and Tell Smoke Shop اراجيل ومعسل,1914 Fulton Ave Sacramento CA 95825 USA,vaping
+ChIJVZSXAAwnm4ARXg3vAyn5q7M,38.7137953,-121.3940759,Blaze Smoke Shop,7943 Watt Ave Antelope CA 95843 USA,vaping
+ChIJDXcG0c37moARQ_k6Wwyn2cg,38.6969383,-121.0021096,Elite Smoke Shop,3000 Green Valley Rd suite # 09 Cameron Park CA 95682 USA,vaping
+ChIJLbG8tLmPmYARF2GgcoVNNZs,38.9168454,-119.9986101,Heads Up,2176 Lake Tahoe Blvd South Lake Tahoe CA 96150 USA,vaping
+ChIJcT_Mm8mAhYARnYu60P_HmGY,37.7867895,-122.4399268,Sam's Smoke Shop,1838 Divisadero St San Francisco CA 94115 USA,vaping
+ChIJ-xFRxZSAhYARx5ae9x1DtfM,37.790238,-122.420378,Jeet Big Times Smoke Shop,1444 Polk St San Francisco CA 94109 USA,vaping
+ChIJX9tkklJzhYARaJqI24Yvudk,38.1256771,-122.2542503,smoke city smoke & vape shop,3752 Sonoma Blvd Vallejo CA 94589 USA,vaping
+ChIJ0-OlKEQ9hYARUB8nOUqyl6s,38.3516632,-121.9758294,SMOKE DIVISION,153 Peabody Rd Vacaville CA 95687 USA,vaping
+ChIJzapUl1JAkIARUh8Au4jV010,37.7974216,-121.2189946,Keep Sake Smoke Shop,253 W Yosemite Ave Manteca CA 95336 USA,vaping
+ChIJe8AWHFNzkIARedLoQBMk-sA,38.0374527,-121.2608936,Cigarettes 4 Less,4011 E Morada Ln Stockton CA 95212 USA,vaping
+ChIJjXZ3dBYVjoARoF_88E7JcVw,36.9638361,-121.968444,Irie Motivations,3617 Portola Dr A Santa Cruz CA 95062 USA,vaping
+ChIJWxkHarqRj4ARqOefhPKRjso,37.6863173,-122.1163988,Gorilla Clouds Smoke Shop & Vape Shop,321 E Lewelling Blvd San Lorenzo CA 94580 USA,vaping
+ChIJZTbF2L0vlYARX7xhHuYhhh0,36.3244334,-119.2610111,Visalia Smoke Shop,645 Lovers lane Visalia CA 93292 USA,vaping
+ChIJZWYtiDAvlYARQ4kkKtsmdTg,36.3046396,-119.3142524,Visalia Vapes,2935 S Mooney Blvd Visalia CA 93277 USA,vaping
+ChIJ2RX0bdy_woARVKnR_a-pzaQ,34.163095,-118.3279132,Elevated Vaping,2227 W Olive Ave Burbank CA 91506 USA,vaping
+ChIJ5Tsm4haVwoAR-WPOcX93sdk,34.198029,-118.3268544,Xplicit Vape Burbank,2119 N Glenoaks Blvd Burbank CA 91504 USA,vaping
+ChIJYchne-iVwoAR-iXSFuEqfdA,34.1747065,-118.3807914,NoHo Vape - North Hollywood Vape Shop and Vapor Lounge,5727 Lankershim Blvd North Hollywood CA 91601 USA,vaping
+ChIJAWe6cVSVwoARtA6IXkHIGIA,34.1804182,-118.3033169,E Vape Mods,401 S Glenoaks Blvd #204 Burbank CA 91502 USA,vaping
+ChIJIybzIlhmw4AR1rxSZ5CXLs8,34.4728623,-117.2929334,Mobile Vape Smoke Shop,12186 Hesperia Rd Victorville CA 92395 USA,vaping
+ChIJFx1qpFPrwoARlEiLi5EBEcY,34.252737,-118.29603,Xplicit Vape Shop,7502 Foothill Blvd #203 Tujunga CA 91042 USA,vaping
+ChIJz6WN6wDrwoARhpPPHOb9vx8,34.232603,-118.254385,Vape On La Crescenta,3434 Foothill Blvd Glendale CA 91214 USA,vaping
+ChIJnVnvozAo3YARPDOnlSEFfvc,33.8036217,-117.9410587,Corner Vapory,1742 Euclid St Anaheim CA 92802 USA,vaping
+ChIJV8w4VTu_woARGiAw5u9pQY8,34.101392,-118.334424,Ignite Smoke Shop & Vape Shop,6630 Hollywood Blvd #A Los Angeles CA 90028 United States,vaping
+ChIJMUiMveWbwoARB3IQL4fFLn4,34.2009152,-118.5642213,Modern Smoke Shop,19758 Sherman Way Winnetka CA 91306 USA,vaping
+ChIJfRq6n2bV3IARMm2bk7giAMU,33.9178073,-117.9174434,FA Vaping Vape Shop,1219 W Imperial Hwy #103 Brea CA 92821 USA,vaping
+ChIJw5A7_DAow4ARno5APJRlPLI,34.0759812,-117.9093933,Ultramist Vape,351 N Azusa Ave West Covina CA 91791 USA,vaping
+ChIJMY7h_GzV3IARrax3nHAhaHE,33.9241233,-117.9227208,Vape Bartender,2120 E Lambert Rd La Habra CA 90631 USA,vaping
+ChIJU1i7hlvFwoARsQqjgstQh5A,34.0627289,-118.129638,Activape（The Vape Society）,501 W Garvey Ave #106 Monterey Park CA 91754 USA,vaping
+ChIJvaNpPCqm3IARQAjrhVi5xiE,33.9435304,-117.2259957,Supreme Gallery Smoke & Vape,12190 Perris Blvd ste j Moreno Valley CA 92557 USA,vaping
+ChIJsc2JD2Xx3IARmpwQ8BZ8BCU,33.459113,-117.6530219,San Clemente Vape & Cigars,620 Camino De Los Mares e San Clemente CA 92673 USA,vaping
+ChIJCZ6VHcAB3IARdvpYC0H9Fdw,32.7989109,-117.2440082,Garnet Vape,1419 Garnet Ave San Diego CA 92109 USA,vaping
+ChIJBX6I3t5z3IARLyN3myDzAYg,33.1809907,-117.2956705,Hydra Lifestyle,3504 College Blvd Oceanside CA 92056 USA,vaping
+ChIJZ5H0zbwp3YARCkKq_O3Tovw,33.8269498,-117.9597645,Hit This Vape Co.,423 S Brookhurst St STE P Anaheim CA 92804 USA,vaping
+ChIJVVVJNu9V2YARPTIMIONOPIo,32.79907,-117.0927734,vincere vape,6902 Mission Gorge Rd San Diego CA 92120 USA,vaping
+ChIJIWksapT_24ARmwtGHlhAays,32.82449,-117.1549553,Orbit Vape,4619 Convoy St San Diego CA 92111 USA,vaping
+ChIJ8dIuClT624AROJJcb5Nlu18,32.9571464,-117.0380837,Poway Smoke Shop,13524 Poway Rd Poway CA 92064 USA,vaping
+ChIJF30TfcAB3IAReQJCn_7QUn4,32.7998925,-117.2412569,Thrive CBD,1570 Garnet Ave San Diego CA 92109 USA,vaping
+ChIJoSGf2ZhW2YARo16qDTb7YjI,32.7586183,-117.0726226,Vishions Sdsu,5807 El Cajon Blvd San Diego CA 92115 USA,vaping
+ChIJ8YmVspdZhYARB1_iExCk0RE,38.0067591,-121.8421169,Voltage Smoke Shop & Gifts | Electronic Cigarettes Store,4235 Century Blvd Pittsburg CA 94565 USA,electronic+cigarette
+ChIJf1Zwg8uWj4ARQlV76A-GFU8,37.6341175,-122.1108775,Best Choice Electronic Cigarettes | e-Cigarettes,26250 Industrial Blvd Hayward CA 94545 USA,electronic+cigarette
+ChIJG0Sge-OZwoARta-yASm_3p0,34.1979771,-118.4922144,T T Zig Electronic Cigarette,7020 Hayvenhurst Ave Van Nuys CA 91406 USA,electronic+cigarette
+ChIJS8iJs_y7woAReF1b2TCKhAY,34.06037,-118.397694,Ophis Vape, Electronic Cigarette Wholesaler,350 S Reeves Dr #203 Beverly Hills CA 90212 USA,electronic+cigarette
+ChIJJy5bY3e7woAR3dMTy21K5mU,34.0484048,-118.4433859,CITIZEN ELECTRONIC CIGARETTE,11041 California State Route 2 #707 Los Angeles CA 90025 USA,electronic+cigarette
+ChIJERC7uQ67woAR0vcVgvcZUtg,34.0315151,-118.446375,Vape Place 100% VG Natural E-liquid Vape Shop and Electronic Cigarette Store,11725 W Pico Blvd Los Angeles CA 90064 USA,electronic+cigarette
+ChIJWf0nPxYx3YAR5CYtGyebJ1Q,33.765703,-118.1591516,Match Free Electronic Cigarettes,2769 E Broadway Long Beach CA 90803 USA,electronic+cigarette
+ChIJjf1SdkQO1FQRBU7vAY-fCWk,40.597787,-124.155734,Top Digital Cigs - The Electronic Cigarette Super Store,1049 Main St Fortuna CA 95540 USA,electronic+cigarette
+ChIJa9OMO-z_01QRWMA025HbHHg,40.7826333,-124.1650534,Cigarettes Cheaper,2810 E St Eureka CA 95501 USA,electronic+cigarette
+ChIJ6dlA41FmhYARuzspAwztg7A,38.0105353,-122.0447831,Apollo Future Technology,4085 Nelson Ave I Concord CA 94520 USA,electronic+cigarette
+ChIJJdQrddWbgYARNT2nTU50_FY,39.3926902,-123.3472329,Dabworks LLC,1611 S Main St a Willits CA 95490 USA,electronic+cigarette
+ChIJ1-R1JVOHhYARfKuSX4rkOA0,37.7701592,-122.4474999,Ashbury Tobacco Center,1524 Haight St San Francisco CA 94117 USA,electronic+cigarette
+ChIJpfejHCx8hYARhOQ7-rp2hvs,37.8639302,-122.2589468,Vapor Den,2556 Telegraph Ave #007 Berkeley CA 94704 USA,electronic+cigarette
+ChIJ3_VY7u4LkIARrDpVlthXMYk,38.0340308,-121.3391328,Just The Tip Vapors and Electronic Cigarettes,9305 Thornton Rd Stockton CA 95209 USA,electronic+cigarette
+ChIJmRByYsicwoARAoZWoUrAhQo,34.2537408,-118.6058759,Electronic vapor cigarette,10106 Topanga Canyon Blvd Chatsworth CA 91311 USA,electronic+cigarette
+ChIJNXn8Rva0woARW_gtfE1Ge4U,33.8730686,-118.3618074,Vape Place E-liquid vape shop,2705 Artesia Blvd Redondo Beach CA 90278 USA,electronic+cigarette
+ChIJ384bJE8o6IAReupXqKfRQjE,34.2712796,-118.7032445,Vaporizer Merchant Accounts,4680 E Los Angeles Ave Simi Valley CA 93063 USA,electronic+cigarette
+ChIJZ5TGBTcw3YARDj6Vj74lfnc,33.758867,-118.13231,My Best E-Cigarette Reviews,5318 E 2nd St #352 Long Beach CA 90803 USA,electronic+cigarette
+ChIJpS60CuyBt4cRvyAZ3cUUPBw,34.2138624,-118.4960863,VERO eCig,7850 Ruffner Ave Van Nuys CA 91406 USA,electronic+cigarette
+ChIJc5WHM0rSwoAREE5_kU4TNJE,33.9651129,-118.0700062,Sam's Smoke & Vape Store - Electronic Cigarettes,11515 Slauson Ave Whittier CA 90606 USA,electronic+cigarette
+ChIJMSjXi5_f3IARxrmmx7oifU4,33.6817597,-117.8867235,VaP Vaporizers - Electronic Vape Shop,3033 Bristol St Costa Mesa CA 92626 USA,electronic+cigarette
+ChIJYyMuawEu3YARuSlev7rpOfI,33.8100881,-118.1083446,VaporLand,6340 E Spring St Long Beach CA 90815 USA,electronic+cigarette
+ChIJt4FG-zHWwoARyOYN_Cf6KQ0,34.056263,-117.937062,Milkeebunz,1104 Wescove Pl West Covina CA 91790 USA,electronic+cigarette
+ChIJPdhiF_LI3IARK-UwJLlEhLE,33.8792277,-117.5821528,ZEROCIG,401 S Lincoln Ave Corona CA 92882 USA,electronic+cigarette
+ChIJIxBXzjF-24AR_ZGl_Y8ZzWs,33.5133274,-117.1609287,Smokeless Selects Electronic Cigarettes and Cigars,27576 Commerce Center Dr Temecula CA 92590 USA,electronic+cigarette
+ChIJubFHdxhV2YAR-ZZHLDi5bf4,32.76857,-117.1488531,Fresh Vapes,1640 Camino Del Rio N San Diego CA 92108 USA,electronic+cigarette
+ChIJP4q7Cfdy3IARe9R18K7ovfQ,33.131454,-117.328341,AER Vape Shop,5130 Avenida Encinas Carlsbad CA 92008 USA,electronic+cigarette
