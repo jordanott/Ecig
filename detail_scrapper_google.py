@@ -92,8 +92,8 @@ def main():
 
     #read in Yelp YelpResults
     df = pandas.read_csv('google_results_unique.csv')
-    #ids = df.id
-    ids = ['ChIJ2ZXz2xtm0FQRgeg37d6jGLM','ChIJW7EPKARX0VQR-XIQ22tYNi4']
+    ids = df.id
+    #ids = ['ChIJ2ZXz2xtm0FQRgeg37d6jGLM','ChIJW7EPKARX0VQR-XIQ22tYNi4']
 # id,lat,long,name,address,category,zip,phone,closed
 
     # write header line
